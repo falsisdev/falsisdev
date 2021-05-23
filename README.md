@@ -26,7 +26,7 @@ Ayrıca tasarım yapmayı da çok severim.
 <i class="fab fa-discord"></i> [Discord](https://discord.gg/QjnTKbHF89)
 <i class="fab fa-reddit"></i> [Reddit](https://reddit.com/u/fnfalsiss)
 <i class="fab fa-github"></i> [GitHub](https://github.com/falsisdev)
-<i class="fab fa-spotify"></i> [Spotify](https://open.spotify.com/user/315l5ib3a4fd2obidm76lipspxji?si=ca9de151fd734ade
+<i class="fab fa-spotify"></i> [Spotify](https://open.spotify.com/user/315l5ib3a4fd2obidm76lipspxji?si=ca9de151fd734ade)
 
 ### Profilimi İncelediğin İçin Teşekkürler 😊❤
 ![falsisdev](https://i.pinimg.com/originals/e2/9b/67/e29b67f7e735a9be2fb891a61488437e.gif)
