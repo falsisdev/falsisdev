@@ -30,4 +30,6 @@ Ayrıca tasarım yapmayı da çok severim.
 
 ### Profilimi İncelediğin İçin Teşekkürler 😊❤
 ![falsisdev](https://i.pinimg.com/originals/e2/9b/67/e29b67f7e735a9be2fb891a61488437e.gif)
+<html>
 <script src="https://kit.fontawesome.com/e0330794a8.js" crossorigin="anonymous"></script>
+</html>
