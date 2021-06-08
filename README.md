@@ -20,7 +20,6 @@ Ayrıca tasarım yapmayı da çok severim.
 
 ## Sosyal Medya
 
-<i class="fab fa-instagram"></i> [Instagram](https://instagram.com/keremm.js)
 <i class="fab fa-youtube"></i> [YouTube](https://www.youtube.com/channel/UCmRc4MxoAXDGaGUMqPaCrwQ)
 <i class="fab fa-discord"></i> [Discord](https://discord.gg/QjnTKbHF89)
 <i class="fab fa-reddit"></i> [Reddit](https://reddit.com/u/fnfalsiss)
