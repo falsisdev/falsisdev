@@ -1,16 +1,18 @@
 # FalsisDev
-### Selam, Ben Falsis. Adım Kerem. Türkiye'de yaşayan mı Türk'üm. İzmir şehrinde oturuyorum. Yaklaşık 3 senedir kodlama ile uğraşıyorum.
-İlk Öğrendiğim Kodlama Dili HTML ( Hyper Text Markup Language )
+<img src="https://github-readme-stats.vercel.app/api?username=falsisdev&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falsisdev&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
 
 ## Kodlama Dilleri
 - HTML (HYPER TEXT MARKUP LANGUAGE)
 - CSS
 - JS (JAVASCRIPT)
 - GO (GOLANG)
-### Bu kodlama dillerini biliyorum. Hala javascript ve python öğrenmeye devam ediyorum. Şuanda Discord Botları İle Uğraşıyorum
+- Python
+- VIEW ENGINE'LER ( DİL SAYILMAYABİLİR )
+### Bu kodlama dillerini biliyorum. Hala python öğrenmeye devam ediyorum. Şuanda Discord Botları İle Uğraşıyorum
 
 ## Discord
-Şuanda [aoi.js](https//npmjs.org/package/aoi.js) ile yapılmış [Kremlin](https://kremlin-bot.glitch.me) isimli bir Discord botum var. Bu botu bir arkadaşım ile geliştirmekteyiz.
+Şuanda [aoi.js ve discord.js (karışık)](https//npmjs.org/package/aoi.js) ile yapılmış [Kremlin](https://www.kremlin-bot.ga) isimli bir Discord botum var. Bu botu bir arkadaşım ile geliştirmekteyiz.
 Ayrıca [Discord Sunucumuza](https://discord.gg/QjnTKbHF89) katılabilirsiniz.
 
 ## Hobiler
