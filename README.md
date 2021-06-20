@@ -1,6 +1,7 @@
 ## About
 🍫 I know several programming languages ​​and continue to learn. <br>🍩 Being a web developer is more suitable for me <br>💫 My goals are to learn react and rust
 
+<img src="https://img.shields.io/github/followers/falsisdev?style=for-the-badge"> 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=falsisdev&show_icons=true&theme=react" width="%100" height="150px" alt="stats"/>
 
@@ -10,4 +11,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falsisdev&theme=react" width="%100" height="150px" alt="stats"/>
 
 ## Best Repository
+<img src="https://img.shields.io/github/v/release/falsisdev/falsisdb?style=for-the-badge"> <img src="https://img.shields.io/github/stars/falsisdev/falsisdb?style=for-the-badge"> <img src="https://img.shields.io/github/forks/falsisdev/falsisdb?style=for-the-badge">
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=falsisdev&repo=falsisdb&cache_seconds=86400&theme=react">
+
+<a href="https://www.kremlin-bot.ga/lisans"><img src="https://img.shields.io/github/license/falsisdev/falsisdb?style=for-the-badge"></a>
