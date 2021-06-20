@@ -2,6 +2,7 @@
 🍫 I know several programming languages ​​and continue to learn. <br>🍩 Being a web developer is more suitable for me <br>💫 My goals are to learn react and rust
 
 <img src="https://img.shields.io/github/followers/falsisdev?style=for-the-badge"> 
+
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=falsisdev&show_icons=true&theme=react" width="%100" height="150px" alt="stats"/>
 
