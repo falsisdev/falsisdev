@@ -14,6 +14,6 @@
 ## Best Repository
 <img src="https://img.shields.io/github/v/release/falsisdev/falsisdb?style=for-the-badge"> <img src="https://img.shields.io/github/stars/falsisdev/falsisdb?style=for-the-badge"> <img src="https://img.shields.io/github/forks/falsisdev/falsisdb?style=for-the-badge">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=falsisdev&repo=falsisdb&cache_seconds=86400&theme=react">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=falsisdev&repo=falsisdb&cache_seconds=86400&theme=react&layout=compact">
 
 <a href="https://www.kremlin-bot.ga/lisans"><img src="https://img.shields.io/github/license/falsisdev/falsisdb?style=for-the-badge"></a>
