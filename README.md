@@ -1,7 +1,7 @@
 ## About
 📫 I know several programming languages ​​and continue to learn. <br>🧪 Being a web developer is more suitable for me <br>🌊 My goals are to learn React and Rust
 
-Visit [My Personal Website](https://dev.falsisdev.ga/) 💞
+Visit [My Personal Website](https://falsisdev.ga/) 💞
 
 <a href="https://github.com/falsisdev"><img src="https://img.shields.io/github/followers/falsisdev?style=for-the-badge"></a>
 
