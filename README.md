@@ -1,6 +1,6 @@
 ## About
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/539843855567028227)](https://discord.com/users/539843855567028227)
-    
+<img src="https://lanyard-profile-readme.vercel.app/api/539843855567028227">
+
 📫 I know several programming languages ​​and continue to learn. <br>🧪 Being a web developer is more suitable for me <br>🌊 My goals are to learn React and Rust
 
 Visit [My Personal Website](https://falsisdev.ga/) 💞
