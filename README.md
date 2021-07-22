@@ -1,6 +1,6 @@
 ## About
 
-<a href="https://falsisdev.ga"><img src="https://lanyard-profile-readme.vercel.app/api/539843855567028227?theme=dark&bg=181a22&animated=true&hideDiscrim=true&borderRadius=30px"></a>
+<a href="https://falsisdev.ga"><img src="https://lanyard-profile-readme.vercel.app/api/539843855567028227"></a>
 
 Web & Full-Stack Developer - Interested in Front-End / Nodejs (married with nodejs). He likes to spend time on Discord. 
 He enjoy learning English. Turkish student and Amateur designer.
