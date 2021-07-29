@@ -2,12 +2,7 @@
 
 <a href="https://falsisdev.ga"><img src="https://lanyard-profile-readme.vercel.app/api/539843855567028227"></a>
 
-Web & Full-Stack Developer - Interested in Front-End / Nodejs (married with nodejs). He likes to spend time on Discord. 
-He enjoy learning English. Turkish student and Amateur designer.
-He knows HTML - CSS - JS and he knows a little bit of GOLANG & PYTHON. He also wants to Learn C & TS. 
-He hates Tiktok and he deleted his Instagram because of it. His favorite apps are Github & Discord! And he loves watching anime!
-
-Visit [His Website](https://falsisdev.ga/)!
+Visit [My Personal Website](https://falsisdev.ga/)!
 
 <a href="https://github.com/falsisdev"><img src="https://img.shields.io/github/followers/falsisdev?style=for-the-badge"></a>
 
