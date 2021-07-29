@@ -1,0 +1,24 @@
+{
+accounts:{
+discord: {
+  nick: "Falsis",
+  id: 539843855567028227,
+  url: "https://discord.com/users/539843855567028227"
+},
+  github: {
+    nick: "falsisdev",
+    id: "none",
+    url: "https://github.com/falsisdev"
+  },
+  spotify: {
+    nick: "Falsis",
+    id: "315l5ib3a4fd2obidm76lipspxji?si=fcf653d3bc0d4cb7",
+    url: "https://open.spotify.com/user/315l5ib3a4fd2obidm76lipspxji?si=fcf653d3bc0d4cb7"
+  },
+  youtube: {
+   nick: "Falsis",
+   id: "UCmRc4MxoAXDGaGUMqPaCrwQ",
+   url: "https://youtube.com/c/Falsis"
+  }
+         }
+}
