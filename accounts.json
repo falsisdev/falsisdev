@@ -2,12 +2,12 @@
 "accounts":{
 "discord": {
   "nick": "Falsis",
-  "id": 539843855567028227,
+  "id": "539843855567028227",
   "url": "https://discord.com/users/539843855567028227"
 },
   "github": {
     "nick": "falsisdev",
-   "id": "none",
+   "id": null,
     "url": "https://github.com/falsisdev"
   },
   "spotify": {
