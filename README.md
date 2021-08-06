@@ -1,6 +1,6 @@
-<div align="center">
+
 ## About
-</div>
+
 <a href="https://falsisdev.ga"><img src="https://lanyard-profile-readme.vercel.app/api/539843855567028227"></a>
 
 Visit [My Personal Website](https://falsisdev.ga/)!<br>
