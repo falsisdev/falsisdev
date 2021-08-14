@@ -1,83 +1,91 @@
-# My Anime List
 
-## Watched<br>
+My Anime List
 
-- 5-Toubun no Hanayome
+My Anime list!
 
-> 2 Seasons - 24 Episodes - 2019 - Dram/Comedy/Harem<br>
+￼
 
-- 91 Days
+Watched
 
-> 1 Season - 12 Episodes - 2016 - Dram/Crime<br>
+• 5-Toubun no Hanayome
 
-- Akame ga Kill!
+2 Seasons - 24 Episodes - 2019 - Dram/Comedy/Harem
 
-> 1 Season - 24 Episodes - 2014 - Dram/Action & Adventure/Crime<br>
+• 91 Days
 
-- Darling in the FranXX
+1 Season - 12 Episodes - 2016 - Dram/Crime
 
-> 1 Season - 24 Episodes - 2018 - Dram/Action & Adventure/Science Fiction & Fantasy/Harem<br>
+• Akame ga Kill!
 
-- Death Note
+1 Season - 24 Episodes - 2014 - Dram/Action & Adventure/Crime
 
-> 1 Season - 37 Episodes - 2006 - Mystery/Crime<br>
+• Darling in the FranXX
 
-- Jujutsu Kaisen
+1 Season - 24 Episodes - 2018 - Dram/Action & Adventure/Science Fiction & Fantasy/Harem
 
-> 1 Season - 24 Episodes - 2020 - Action & Adventure/Science Fiction & Fantasy/Mystery<br>
+• Death Note
 
-- Kimetsu no Yaiba: Demon Slayer
+1 Season - 37 Episodes - 2006 - Mystery/Crime
 
-> 1 Season - 26 Episodes - 2019 - Dram/Action & Adventure<br>
+• Jujutsu Kaisen
 
-- Shingeki no Kyojin
+1 Season - 24 Episodes - 2020 - Action & Adventure/Science Fiction & Fantasy/Mystery
 
-> 4 Seasons - 80 Episodes - 2013 - Dram/Action & Adventure/Science Fiction & Fantasy/Mystery<br>
+• Kimetsu no Yaiba: Demon Slayer
 
-- Tensei Shitara Slime Datta Ken
+1 Season - 26 Episodes - 2019 - Dram/Action & Adventure
 
-> 2 Seasons - 48 Episodes - 2018- Action & Adventure/Comedy<br>
+• Shingeki no Kyojin
 
-- Yakusoku no Neverland
+4 Seasons - 80 Episodes - 2013 - Dram/Action & Adventure/Science Fiction & Fantasy/Mystery
 
-> 2 Seasons - 23 Episodes - 2019 - Action & Adventure/Science Fiction & Fantasy/Mystery/Dram<br>
+• Tensei Shitara Slime Datta Ken
 
-- Kimetsu no Yaiba: Movie
+2 Seasons - 48 Episodes - 2018- Action & Adventure/Comedy
 
-> Action & Adventure/Dram/Science Fiction & Fantasy<br>
+• Yakusoku no Neverland
 
-- Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+2 Seasons - 23 Episodes - 2019 - Action & Adventure/Science Fiction & Fantasy/Mystery/Dram
 
-> 1 Season - 13 Episodes - 2018 - Comedy/Mystery/Harem<br>
+• Kimetsu no Yaiba: Movie
 
-## Best Animes
+Action & Adventure/Dram/Science Fiction & Fantasy
 
-- Tensei Shitara Slime Datta Ken
-- Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
-- Akame ga Kill!
-- Kimetsu no Yaiba: Demon Slayer
-- Jujutsu Kaisen
-- Shingeki no Kyojin
-- 5-Toubun no Hanayome
-- Yakusoku no Neverland
-- Darling in the FranXX
-- Death Note
-- 91 Days
+• Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 
-## Favorite Characters
+1 Season - 13 Episodes - 2018 - Comedy/Mystery/Harem
 
-- Rimuru Tempest >> Tensei Shitara Slime Datta Ken
-- Nino Nakano >> 5-Toubun no Hanayome
-- Sakurajima Mai >> Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
-- Akame >> Akame ga Kill!
-- Mikasa Ackerman >> Shingeki no Kyojin
-- Esdeath >> Akame ga Kill!
-- Ichigo >> Darling in the FranXX
-- Nezuko Kamado >> Kimetsu no Yaiba: Demon Slayer
-- Zero Two >> Darling in the FranXX
-- Demon Lord Milim >> Tensei Shitara Slime Datta Ken
-- Misa Misa >> Death Note
-- Light Yagami >> Death Note
-- Tanjirou Kamado >> Kimetsu no Yaiba: Demon Slayer
+￼
 
-<img src="https://media.discordapp.net/attachments/775822548519616562/876189473468198952/9.jpeg">
+Best Animes
+• Tensei Shitara Slime Datta Ken
+• Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+• Akame ga Kill!
+• Kimetsu no Yaiba: Demon Slayer
+• Jujutsu Kaisen
+• Shingeki no Kyojin
+• 5-Toubun no Hanayome
+• Yakusoku no Neverland
+• Darling in the FranXX
+• Death Note
+• 91 Days
+
+￼
+
+Favorite Characters
+• Rimuru Tempest >> Tensei Shitara Slime Datta Ken
+• Nino Nakano >> 5-Toubun no Hanayome
+• Sakurajima Mai >> Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+• Akame >> Akame ga Kill!
+• Mikasa Ackerman >> Shingeki no Kyojin
+• Esdeath >> Akame ga Kill!
+• Ichigo >> Darling in the FranXX
+• Nezuko Kamado >> Kimetsu no Yaiba: Demon Slayer
+• Zero Two >> Darling in the FranXX
+• Demon Lord Milim >> Tensei Shitara Slime Datta Ken
+• Misa Misa >> Death Note
+• Light Yagami >> Death Note
+• Tanjirou Kamado >> Kimetsu no Yaiba: Demon Slayer
+
+￼
+
