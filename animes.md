@@ -2,6 +2,9 @@
 
 <img src="https://media.discordapp.net/attachments/775822548519616562/876190639765725216/thumb-1920-1057367.jpg">
 
+Image: Mai-San - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+
+
 ## Watched<br>
 
 - 5-Toubun no Hanayome
@@ -54,6 +57,9 @@
 
 <img src="https://media.discordapp.net/attachments/775822548519616562/876189924632715295/3.jpeg">
 
+Image - Darling in the FranXX
+
+
 ## Best Animes
 
 - Tensei Shitara Slime Datta Ken
@@ -70,6 +76,9 @@
 
 <img src="https://media.discordapp.net/attachments/775822548519616562/876189997378723880/9.jpeg">
 
+Image - Esdeath - Akame ga Kill!
+
+
 ## Favorite Characters
 
 - Rimuru Tempest >> Tensei Shitara Slime Datta Ken
@@ -81,9 +90,11 @@
 - Ichigo >> Darling in the FranXX
 - Nezuko Kamado >> Kimetsu no Yaiba: Demon Slayer
 - Zero Two >> Darling in the FranXX
-- Demon Lord Milim >> Tensei Shitara Slime Datta Ken
+- Milim Nava >> Tensei Shitara Slime Datta Ken
 - Misa Misa >> Death Note
 - Light Yagami >> Death Note
 - Tanjirou Kamado >> Kimetsu no Yaiba: Demon Slayer
 
 <img src="https://media.discordapp.net/attachments/775822548519616562/876189473468198952/9.jpeg">
+
+Image - Rimuru Tempest & Shizue Izawa - Tensei Shitara Slime Datta Ken
