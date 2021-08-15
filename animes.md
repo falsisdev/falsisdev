@@ -2,10 +2,10 @@
 
 <img src="https://media.discordapp.net/attachments/775822548519616562/876190639765725216/thumb-1920-1057367.jpg">
 
-Image: Mai-San - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+📷 Image: Mai-San - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 
 
-## Watched<br>
+## 👁️‍🗨️  Watched<br>
 
 - 5-Toubun no Hanayome
 
@@ -57,10 +57,10 @@ Image: Mai-San - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 
 <img src="https://media.discordapp.net/attachments/775822548519616562/876189924632715295/3.jpeg">
 
-Image - Darling in the FranXX
+📷 Image - Darling in the FranXX
 
 
-## Best Animes
+## ⚡ Best Animes
 
 - Tensei Shitara Slime Datta Ken
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
@@ -76,10 +76,10 @@ Image - Darling in the FranXX
 
 <img src="https://media.discordapp.net/attachments/775822548519616562/876189997378723880/9.jpeg">
 
-Image - Esdeath - Akame ga Kill!
+📷 Image - Esdeath - Akame ga Kill!
 
 
-## Favorite Characters
+## ✨ Favorite Characters
 
 - Rimuru Tempest >> Tensei Shitara Slime Datta Ken
 - Nino Nakano >> 5-Toubun no Hanayome
@@ -97,4 +97,4 @@ Image - Esdeath - Akame ga Kill!
 
 <img src="https://media.discordapp.net/attachments/775822548519616562/876189473468198952/9.jpeg">
 
-Image - Rimuru Tempest & Shizue Izawa - Tensei Shitara Slime Datta Ken
+📷 Image - Rimuru Tempest & Shizue Izawa - Tensei Shitara Slime Datta Ken
