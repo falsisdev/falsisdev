@@ -98,3 +98,14 @@
 <img src="https://media.discordapp.net/attachments/775822548519616562/876189473468198952/9.jpeg">
 
 📷 Image - Rimuru Tempest & Shizue Izawa - Tensei Shitara Slime Datta Ken
+
+##  🚀 Watching Targets
+
+- Tokyo Revengers
+- Platinum End
+- Dr. Stone
+- Boku no Hero Academia
+
+<img src="https://media.discordapp.net/attachments/877179144662810644/877179345804865556/4.jpeg">
+
+📷 Image - The Promised Neverland
