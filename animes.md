@@ -132,6 +132,8 @@
 
 • A.I.C.O. Incarnation
 
+• Kobayashi-San Chi no Maid Dragon
+
 <img src="https://media.discordapp.net/attachments/877179144662810644/877179345804865556/4.jpeg">
 
 📷 Image - The Promised Neverland
