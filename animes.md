@@ -32,6 +32,10 @@
 
 > 1 Season - 37 Episodes - 2006 - Mystery/Crime<br>
 
+- Ijiranaide, Nagatoro-san
+
+> 1 Season - 12 Episodes - 2021 - Comedy/Family<br>
+
 - Jujutsu Kaisen
 
 > 1 Season - 24 Episodes - 2020 - Action & Adventure/Science Fiction & Fantasy/Mystery<br>
@@ -71,6 +75,8 @@
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - Akame ga Kill!
 - Kimetsu no Yaiba: Demon Slayer
+- Another
+- Ijiranaide, Nagatoro-san
 - Jujutsu Kaisen
 - Shingeki no Kyojin
 - 5-Toubun no Hanayome
@@ -117,8 +123,6 @@
 • Jahy-sama wa kujikenai
 
 • Tokyo Ghoul
-
-• Ijiranaide, Nagatoro-san
 
 • Violet Evergarden
 
