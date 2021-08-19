@@ -104,7 +104,6 @@
 - Ichigo >> Darling in the FranXX
 - Nezuko Kamado >> Kimetsu no Yaiba: Demon Slayer
 - Zero Two >> Darling in the FranXX
-- Milim Nava >> Tensei Shitara Slime Datta Ken
 - Misa Misa >> Death Note
 - Light Yagami >> Death Note
 - Tanjirou Kamado >> Kimetsu no Yaiba: Demon Slayer
