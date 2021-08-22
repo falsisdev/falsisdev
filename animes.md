@@ -43,25 +43,29 @@
 
 > 1 Season - 26 Episodes - 2019 - Dram/Action & Adventure<br>
 
+- Kimetsu no Yaiba: Movie
+
+> Action & Adventure/Dram/Science Fiction & Fantasy<br>
+
 - Shingeki no Kyojin
 
 > 4 Seasons - 80 Episodes - 2013 - Dram/Action & Adventure/Science Fiction & Fantasy/Mystery<br>
+
+- Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+
+> 1 Season - 13 Episodes - 2018 - Comedy/Mystery/Harem<br>
 
 - Tensei Shitara Slime Datta Ken
 
 > 2 Seasons - 48 Episodes - 2018- Action & Adventure/Comedy<br>
 
+- Violet Evergarden
+
+> 1 Season - 13 Episodes - 2018 - Dram/Sci-Fi & Fantasy<br>
+
 - Yakusoku no Neverland
 
 > 2 Seasons - 23 Episodes - 2019 - Action & Adventure/Science Fiction & Fantasy/Mystery/Dram<br>
-
-- Kimetsu no Yaiba: Movie
-
-> Action & Adventure/Dram/Science Fiction & Fantasy<br>
-
-- Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
-
-> 1 Season - 13 Episodes - 2018 - Comedy/Mystery/Harem<br>
 
 <img src="https://media.discordapp.net/attachments/775822548519616562/876189924632715295/3.jpeg">
 
@@ -115,35 +119,22 @@
 
 ## 🚀 Watching Targets
 
-• Tokyo Revengers
-
-• Platinum End
-
-• Dr. Stone
-
-• Boku no Hero Academia
-
-• Jahy-sama wa kujikenai
-
-• Tokyo Ghoul
-
-• Violet Evergarden
-
-• Sword Art Online
-
-• Bungou Stray Dogs
-
-• Akatsuki no Yona
-
-• School Days
-
-• A.I.C.O. Incarnation
-
-• Kobayashi-San Chi no Maid Dragon
+- Tokyo Revengers
+- Platinum End
+- Dr. Stone
+- Boku no Hero Academia
+- Jahy-sama wa kujikenai
+- Tokyo Ghoul
+- Sword Art Online
+- Bungou Stray Dogs
+- Akatsuki no Yona
+- School Days
+- A.I.C.O. Incarnation
+- Kobayashi-San Chi no Maid Dragon
 
 <img src="https://media.discordapp.net/attachments/877179144662810644/877179345804865556/4.jpeg">
 
 📷 Image - The Promised Neverland
 
 ## 🛰️ Anime Count
-14
+15
