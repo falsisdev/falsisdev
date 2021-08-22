@@ -77,6 +77,7 @@
 - Tensei Shitara Slime Datta Ken
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - Akame ga Kill!
+- Violet Evergarden
 - Kimetsu no Yaiba: Demon Slayer
 - Another
 - Ijiranaide, Nagatoro-san
@@ -100,6 +101,7 @@
 - Milim Nava >> Tensei Shitara Slime Datta Ken
 - Nino Nakano >> 5-Toubun no Hanayome
 - Sakurajima Mai >> Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+- Violet Evergarden >> Violet Evergarden
 - Nagatoro-san >> Ijiranade, Nagatoro-san
 - Akame >> Akame ga Kill!
 - Misaki Mei >> Another
