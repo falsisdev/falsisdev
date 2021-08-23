@@ -29,11 +29,3 @@ Visit [My Personal Website](https://falsisdev.ga/)!<br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=falsisdev&repo=falsisdb&cache_seconds=86400&theme=react"></a>
 
 <a href="https://www.kremlin-bot.ga/lisans"><img src="https://img.shields.io/github/license/falsisdev/falsisdb?style=for-the-badge"></a>
-
-### Api
-
-<a href="https://github.com/falsisdev/api"><img src="https://img.shields.io/github/stars/falsisdev/api?style=for-the-badge">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=falsisdev&repo=api&cache_seconds=86400&theme=react"></a>
-
-<a href="https://www.kremlin-bot.ga/lisans"><img src="https://img.shields.io/github/license/falsisdev/falsisdb?style=for-the-badge"></a>
