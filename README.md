@@ -1,5 +1,5 @@
 
-## About
+## Hi, I'm Falsis <img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30">
 
 <a href="https://falsisdev.ga"><img src="https://lanyard-profile-readme.vercel.app/api/539843855567028227"></a>
 
