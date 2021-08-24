@@ -133,6 +133,9 @@
 - School Days
 - A.I.C.O. Incarnation
 - Kobayashi-San Chi no Maid Dragon
+- Meikyuu Black Company
+- Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai ( Movie )
+- Himouto! Umaru-Chan
 
 <img src="https://media.discordapp.net/attachments/877179144662810644/877179345804865556/4.jpeg">
 
