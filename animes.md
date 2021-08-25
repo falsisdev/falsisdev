@@ -139,6 +139,8 @@
 - Kobayashi-San Chi no Maid Dragon
 - Meikyuu Black Company
 - Himouto! Umaru-Chan
+- Kill la Kill
+- Re:Zero kara Hajimeru Isekai Seikatsu
 
 <img src="https://media.discordapp.net/attachments/877179144662810644/877179345804865556/4.jpeg">
 
