@@ -80,6 +80,7 @@
 
 - Tensei Shitara Slime Datta Ken
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+- Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai ( Movie )
 - Akame ga Kill!
 - Violet Evergarden
 - Kimetsu no Yaiba: Demon Slayer
@@ -102,9 +103,8 @@
 
 - Rimuru Tempest >> Tensei Shitara Slime Datta Ken
 - Sunomiya Sana >> Ijıranaide, Nagatoro-san
-- Milim Nava >> Tensei Shitara Slime Datta Ken
-- Nino Nakano >> 5-Toubun no Hanayome
 - Sakurajima Mai >> Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+- Nino Nakano >> 5-Toubun no Hanayome
 - Violet Evergarden >> Violet Evergarden
 - Nagatoro-san >> Ijiranade, Nagatoro-san
 - Akame >> Akame ga Kill!
@@ -138,7 +138,6 @@
 - A.I.C.O. Incarnation
 - Kobayashi-San Chi no Maid Dragon
 - Meikyuu Black Company
-- Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai ( Movie )
 - Himouto! Umaru-Chan
 
 <img src="https://media.discordapp.net/attachments/877179144662810644/877179345804865556/4.jpeg">
@@ -146,4 +145,4 @@
 📷 Image - The Promised Neverland
 
 ## 🛰️ Anime Count
-15
+16
