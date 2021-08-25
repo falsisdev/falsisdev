@@ -45,7 +45,7 @@
 
 - Kimetsu no Yaiba: Movie
 
-> Action & Adventure/Dram/Science Fiction & Fantasy<br>
+> Movie - 2020 - Action & Adventure/Dram/Science Fiction & Fantasy<br>
 
 - Shingeki no Kyojin
 
@@ -54,6 +54,10 @@
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 
 > 1 Season - 13 Episodes - 2018 - Comedy/Mystery/Harem<br>
+
+- Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai: Movie
+
+> Movie - 2019 - Heavy Drama/Mystery/Romance Movie
 
 - Tensei Shitara Slime Datta Ken
 
