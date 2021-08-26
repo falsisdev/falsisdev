@@ -23,6 +23,9 @@
 
 > 1 Season - 13 Episodes - 2012 - Dram/Action & Adventure/Mystery<br>
 
+- Charlotte
+> 1 season - 13 Episodes - 2013 - Dram/Fantasy<br>
+
 - Darling in the FranXX
 
 > 1 Season - 24 Episodes - 2018 - Dram/Action & Adventure/Science Fiction & Fantasy/Harem<br>
