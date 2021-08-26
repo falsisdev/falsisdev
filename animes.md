@@ -152,7 +152,6 @@
 - Tensura Nikki: Tensei shitara Slime Datta Ken
 - Saiki Kusuo no Ψ-nan
 - Given
-- Charlotte
 - Chuunibyou demo Koi ga Shitai!
 
 <img src="https://media.discordapp.net/attachments/877179144662810644/877179345804865556/4.jpeg">
@@ -160,6 +159,6 @@
 📷 Image - The Promised Neverland
 
 ## 🛰️ Anime Count
-16
+17
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
