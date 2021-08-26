@@ -84,6 +84,7 @@
 - Tensei Shitara Slime Datta Ken
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai ( Movie )
+- Charlotte
 - Akame ga Kill!
 - Violet Evergarden
 - Kimetsu no Yaiba: Demon Slayer
