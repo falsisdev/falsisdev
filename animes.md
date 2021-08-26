@@ -66,6 +66,10 @@
 
 > 2 Seasons - 48 Episodes - 2018- Action & Adventure/Comedy<br>
 
+- Tensura Nikki: Tensei Shitara Slime Datta Ken
+
+ > 1 Season - 12 Episodes - 2021 - Comedy/Action & Adventure/Fantasy & Sci-fi/Diary anime
+
 - Violet Evergarden
 
 > 1 Season - 13 Episodes - 2018 - Dram/Sci-Fi & Fantasy<br>
@@ -160,6 +164,6 @@
 📷 Image - The Promised Neverland
 
 ## 🛰️ Anime Count
-17
+18
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
