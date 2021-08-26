@@ -141,6 +141,16 @@
 - Himouto! Umaru-Chan
 - Kill la Kill
 - Re:Zero kara Hajimeru Isekai Seikatsu
+- Hunter x Hunter (2011)
+- One Punch Man
+- Takt Op. Destiny
+- Tantei wa Mou, Shindeiru
+- High School DxD
+- Tensura Nikki: Tensei shitara Slime Datta Ken
+- Saiki Kusuo no Ψ-nan
+- Given
+- Charlotte
+- Chuunibyou demo Koi ga Shitai!
 
 <img src="https://media.discordapp.net/attachments/877179144662810644/877179345804865556/4.jpeg">
 
@@ -148,3 +158,5 @@
 
 ## 🛰️ Anime Count
 16
+
+![Dance](https://animecix.com/storage/images/chika.gif)
