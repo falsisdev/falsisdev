@@ -45,6 +45,9 @@
 
 > 1 Season - 24 Episodes - 2020 - Action & Adventure/Science Fiction & Fantasy/Mystery<br>
 
+- Kaguya-sama wa Kokurasetai
+> 2 Seasons - 24 Episodes - 2019 - Dram/Comedy/Romantic
+
 - Kimetsu no Yaiba: Demon Slayer
 
 > 1 Season - 26 Episodes - 2019 - Dram/Action & Adventure<br>
@@ -99,6 +102,7 @@
 - Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai ( Movie )
 - Charlotte
 - Akame ga Kill!
+- Kaguya-sama wa Kokurasetai
 - Violet Evergarden
 - Kimetsu no Yaiba: Demon Slayer
 - Another
@@ -166,6 +170,12 @@
 - Saiki Kusuo no Ψ-nan
 - Given
 - Chuunibyou demo Koi ga Shitai!
+- Redo of Healer
+- Date a Live
+- Kiss X Sis
+- Shigatsu wa Kimi no Uso
+- Tate no yuusha no Nariagari
+- Kaichou wa Maid-Sama
 
 <img src="https://media.discordapp.net/attachments/877179144662810644/877179345804865556/4.jpeg">
 
