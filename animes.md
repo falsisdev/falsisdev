@@ -62,6 +62,9 @@
 
 > Movie - 2019 - Heavy Drama/Mystery/Romance Movie
 
+- Tantei wa Mou, Shindeiru
+> 1 Season - 12 Episodes - 2021 - Dram/Mystery<br>
+
 - Tensei Shitara Slime Datta Ken
 
 > 2 Seasons - 48 Episodes - 2018- Action & Adventure/Comedy<br>
@@ -152,7 +155,6 @@
 - Hunter x Hunter (2011)
 - One Punch Man
 - Takt Op. Destiny
-- Tantei wa Mou, Shindeiru
 - High School DxD
 - Tensura Nikki: Tensei shitara Slime Datta Ken
 - Saiki Kusuo no Ψ-nan
@@ -164,6 +166,6 @@
 📷 Image - The Promised Neverland
 
 ## 🛰️ Anime Count
-18
+19
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
