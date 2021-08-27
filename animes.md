@@ -182,6 +182,6 @@
 📷 Image - The Promised Neverland
 
 ## 🛰️ Anime Count
-21
+22
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
