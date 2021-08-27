@@ -38,6 +38,9 @@
 
 > 1 Season - 12 Episodes - 2021 - Comedy/Family<br>
 
+- Jimihen!!: Jimiko wo Kaechau Jun Isei Kouyuu!!
+> 1 Season - 8 Episodes - 2021 - Comedy/Romantic/Ecchi/Hentai/Erotic<br>
+
 - Jujutsu Kaisen
 
 > 1 Season - 24 Episodes - 2020 - Action & Adventure/Science Fiction & Fantasy/Mystery<br>
@@ -49,6 +52,9 @@
 - Kimetsu no Yaiba: Movie
 
 > Movie - 2020 - Action & Adventure/Dram/Science Fiction & Fantasy<br>
+
+- Overflow
+> 1 Season - 8 Episodes - 2020 - Comedy/Romantic/Ecchi/Hentai/Erotic<br>
 
 - Shingeki no Kyojin
 
@@ -166,6 +172,6 @@
 📷 Image - The Promised Neverland
 
 ## 🛰️ Anime Count
-19
+21
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
