@@ -166,7 +166,6 @@
 - One Punch Man
 - Takt Op. Destiny
 - High School DxD
-- Tensura Nikki: Tensei shitara Slime Datta Ken
 - Saiki Kusuo no Ψ-nan
 - Given
 - Chuunibyou demo Koi ga Shitai!
