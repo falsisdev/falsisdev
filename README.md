@@ -17,13 +17,3 @@ Visit [My Personal Website](https://falsisdev.ga/)!<br>
 
 ## Top Technologies
 <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a> <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=green"></a> <a href="https://html.com/"><img src="https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=orange"></a> <a href="https://css-tricks.com/"><img src="https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=blue"></a> <a href="https://golang.org/"><img src="https://img.shields.io/badge/GO-323330?style=for-the-badge&logo=go&logoColor=cyan"></a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E"></a> <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue-323330?style=for-the-badge&logo=vue.js"></a> [![lua](https://img.shields.io/badge/Lua-323330?style=for-the-badge&logo=lua)](https://lua.org)
-
-## Best Repositories
-
-### Database
-
-<a href="https://github.com/falsisdev/falsisdb"><img src="https://img.shields.io/github/v/release/falsisdev/falsisdb?style=for-the-badge"> <img src="https://img.shields.io/github/stars/falsisdev/falsisdb?style=for-the-badge"> <img src="https://img.shields.io/github/forks/falsisdev/falsisdb?style=for-the-badge">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=falsisdev&repo=falsisdb&cache_seconds=86400&theme=react"></a>
-
-<a href="https://www.kremlin-bot.ga/lisans"><img src="https://img.shields.io/github/license/falsisdev/falsisdb?style=for-the-badge"></a>
