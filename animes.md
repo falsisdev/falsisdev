@@ -57,7 +57,12 @@
 > Movie - 2020 - Action & Adventure/Dram/Science Fiction & Fantasy<br>
 
 - Overflow
+
 > 1 Season - 8 Episodes - 2020 - Comedy/Romantic/Ecchi/Hentai/Erotic<br>
+
+- Redo of Healer
+
+> 1 Season - 12 Episodes - 2021 - Dram/Action & Adventure/Science Fiction & Fantasy/Ecchi/Erotic/Hentai<br>
 
 - Shingeki no Kyojin
 
@@ -72,6 +77,7 @@
 > Movie - 2019 - Heavy Drama/Mystery/Romance Movie
 
 - Tantei wa Mou, Shindeiru
+
 > 1 Season - 12 Episodes - 2021 - Dram/Mystery<br>
 
 - Tensei Shitara Slime Datta Ken
