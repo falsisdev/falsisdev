@@ -158,28 +158,28 @@
 - Boku no Hero Academia
 - Jahy-sama wa kujikenai
 - Tokyo Ghoul
-- 2. Sword Art Online
-- 7. Bungou Stray Dogs
-- 10. Akatsuki no Yona
-- 9. School Days
-- 11. A.I.C.O. Incarnation
-- 1. Kobayashi-San Chi no Maid Dragon
-- 8. Meikyuu Black Company
+- Sword Art Online
+- Bungou Stray Dogs
+- Akatsuki no Yona
+- School Days
+- A.I.C.O. Incarnation
+- Kobayashi-San Chi no Maid Dragon
+- Meikyuu Black Company
 - Himouto! Umaru-Chan
-- 6. Kill la Kill
-- 3. Re:Zero kara Hajimeru Isekai Seikatsu
+- Kill la Kill
+- Re:Zero kara Hajimeru Isekai Seikatsu
 - Hunter x Hunter (2011)
 - One Punch Man
 - Takt Op. Destiny
 - High School DxD
 - Saiki Kusuo no Ψ-nan
-- 12. Given
+- Given
 - Chuunibyou demo Koi ga Shitai!
-- 4. Date a Live
-- 13. Kiss X Sis
+- Date a Live
+- Kiss X Sis
 - Shigatsu wa Kimi no Uso
 - Tate no yuusha no Nariagari
-- 5. Kaichou wa Maid-Sama
+- Kaichou wa Maid-Sama
 
 <img src="https://media.discordapp.net/attachments/877179144662810644/877179345804865556/4.jpeg">
 
