@@ -76,6 +76,10 @@
 
 > Movie - 2019 - Heavy Drama/Mystery/Romance Movie
 
+- Sword Art Online
+
+> 4 Seasons - 86 Episodes - 2012 - Dram/Action & Adventure/Science Fiction & Fantasy<br>
+
 - Tantei wa Mou, Shindeiru
 
 > 1 Season - 12 Episodes - 2021 - Dram/Mystery<br>
@@ -109,6 +113,7 @@
 - Charlotte
 - Akame ga Kill!
 - Kaguya-sama wa Kokurasetai
+- Sword Art Online
 - Violet Evergarden
 - Kimetsu no Yaiba: Demon Slayer
 - Another
@@ -132,6 +137,7 @@
 - Sunomiya Sana >> Ijıranaide, Nagatoro-san
 - Sakurajima Mai >> Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - Nino Nakano >> 5-Toubun no Hanayome
+- Asuna >> Sword Art Online
 - Violet Evergarden >> Violet Evergarden
 - Nagatoro-san >> Ijiranade, Nagatoro-san
 - Akame >> Akame ga Kill!
@@ -158,7 +164,6 @@
 - Boku no Hero Academia
 - Jahy-sama wa kujikenai
 - Tokyo Ghoul
-- Sword Art Online
 - Bungou Stray Dogs
 - Akatsuki no Yona
 - School Days
@@ -186,6 +191,6 @@
 📷 Image - The Promised Neverland
 
 ## 🛰️ Anime Count
-23
+24
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
