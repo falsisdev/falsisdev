@@ -185,6 +185,7 @@
 - Shigatsu wa Kimi no Uso
 - Tate no yuusha no Nariagari
 - Kaichou wa Maid-Sama
+- Owari no Seraph
 
 <img src="https://media.discordapp.net/attachments/877179144662810644/877179345804865556/4.jpeg">
 
