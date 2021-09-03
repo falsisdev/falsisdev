@@ -78,7 +78,7 @@
 
 - Sword Art Online
 
-> 4 Seasons - 86 Episodes - 2012 - Dram/Action & Adventure/Science Fiction & Fantasy<br>
+> 4 Seasons - 96 Episodes - 2012 - Dram/Action & Adventure/Science Fiction & Fantasy<br>
 
 - Tantei wa Mou, Shindeiru
 
