@@ -1,8 +1,8 @@
 # My Anime List
 
-<img src="https://media.discordapp.net/attachments/775822548519616562/876190639765725216/thumb-1920-1057367.jpg">
+<img src="https://media.discordapp.net/attachments/775822548519616562/883689223004241940/thumb-1920-1118292.png?width=640&height=453">
 
-📷 Image: Mai-San - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+📷 Image: Yuuki Asuna - Sword Art Online
 
 
 ## 👁️‍🗨️  Watched<br>
@@ -100,9 +100,9 @@
 
 > 2 Seasons - 23 Episodes - 2019 - Action & Adventure/Science Fiction & Fantasy/Mystery/Dram<br>
 
-<img src="https://media.discordapp.net/attachments/775822548519616562/876189924632715295/3.jpeg">
+<img src="https://th.bing.com/th/id/R.6421d346f0e8c653832b911878401a3e?rik=J%2f6qhN5LqiuPUQ&pid=ImgRaw&r=0">
 
-📷 Image - Darling in the FranXX
+📷 Image - Nao Tomori - Charlotte
 
 
 ## ⚡ Best Animes
@@ -126,18 +126,18 @@
 - Death Note
 - 91 Days
 
-<img src="https://media.discordapp.net/attachments/775822548519616562/876189997378723880/9.jpeg">
+<img src="https://tse1.mm.bing.net/th/id/OIP._9wvn3qFIvSGIvv1MX8E9wHaEK?pid=ImgDet&rs=1">
 
-📷 Image - Esdeath - Akame ga Kill!
+📷 Image - Chika Fujiwara - Kaguya-sama wa Kokurasetai
 
 
 ## ✨ Favorite Characters
 
 - Rimuru Tempest >> Tensei Shitara Slime Datta Ken
-- Sunomiya Sana >> Ijıranaide, Nagatoro-san
 - Sakurajima Mai >> Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+- Asuna Yuuki >> Sword Art Online
 - Nino Nakano >> 5-Toubun no Hanayome
-- Asuna >> Sword Art Online
+- Sunomiya Sana >> Ijıranaide, Nagatoro-san
 - Violet Evergarden >> Violet Evergarden
 - Nagatoro-san >> Ijiranade, Nagatoro-san
 - Akame >> Akame ga Kill!
@@ -152,9 +152,9 @@
 - Light Yagami >> Death Note
 - Tanjirou Kamado >> Kimetsu no Yaiba: Demon Slayer
 
-<img src="https://media.discordapp.net/attachments/775822548519616562/876189473468198952/9.jpeg">
+<img src="https://th.bing.com/th/id/R.7175cd09c7f15399672ebd8131ae2fc9?rik=37vfmxz8OUAKYA&pid=ImgRaw&r=0">
 
-📷 Image - Rimuru Tempest & Shizue Izawa - Tensei Shitara Slime Datta Ken
+📷 Image - Rimuru Tempest - Tensei Shitara Slime Datta Ken
 
 ## 🚀 Watching Targets
 
@@ -187,9 +187,9 @@
 - Kaichou wa Maid-Sama
 - Owari no Seraph
 
-<img src="https://media.discordapp.net/attachments/877179144662810644/877179345804865556/4.jpeg">
+<img src="https://th.bing.com/th/id/R.c90373b7b3d9c597cf0031dbb6b667a0?rik=4d5k7FAR27etSw&pid=ImgRaw&r=0">
 
-📷 Image - The Promised Neverland
+📷 Image - Violet Evergarden - Violet Evergarden
 
 ## 🛰️ Anime Count
 24
