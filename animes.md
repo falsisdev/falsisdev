@@ -82,7 +82,7 @@
 
 - Tantei wa Mou, Shindeiru
 
-> 1 Season - 12 Episodes - 2021 - Dram/Mystery<br>
+> 1 Season - 24 Episodes - 2021 - Dram/Mystery<br>
 
 - Tensei Shitara Slime Datta Ken
 
