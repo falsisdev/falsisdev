@@ -108,15 +108,15 @@
 ## ⚡ Best Animes
 
 - Tensei Shitara Slime Datta Ken
+- Charlotte
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai ( Movie )
-- Charlotte
 - Akame ga Kill!
-- Kaguya-sama wa Kokurasetai
-- Sword Art Online
-- Violet Evergarden
 - Kimetsu no Yaiba: Demon Slayer
+- Kaguya-sama wa Kokurasetai
+- Violet Evergarden
 - Another
+- Sword Art Online
 - Ijiranaide, Nagatoro-san
 - Jujutsu Kaisen
 - Shingeki no Kyojin
@@ -135,8 +135,9 @@
 
 - Rimuru Tempest >> Tensei Shitara Slime Datta Ken
 - Sakurajima Mai >> Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
-- Asuna Yuuki >> Sword Art Online
+- Nao Tomori >> Charlotte
 - Nino Nakano >> 5-Toubun no Hanayome
+- Asuna Yuuki >> Sword Art Online
 - Sunomiya Sana >> Ijıranaide, Nagatoro-san
 - Violet Evergarden >> Violet Evergarden
 - Nagatoro-san >> Ijiranade, Nagatoro-san
