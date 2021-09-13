@@ -112,11 +112,12 @@
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai ( Movie )
 - Akame ga Kill!
+- Sword Art Online
+- Tantei wa Mou, Shindeiru
 - Kimetsu no Yaiba: Demon Slayer
 - Kaguya-sama wa Kokurasetai
-- Violet Evergarden
 - Another
-- Sword Art Online
+- Violet Evergarden
 - Ijiranaide, Nagatoro-san
 - Jujutsu Kaisen
 - Shingeki no Kyojin
