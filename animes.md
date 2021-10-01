@@ -34,6 +34,9 @@
 
 > 1 Season - 37 Episodes - 2006 - Mystery/Crime<br>
 
+- High School DxD
+> 4 Seasons - 48 Episodes - 2012 - Sci-fi & Fantasy/Comedy/Ecchi<br>
+
 - Ijiranaide, Nagatoro-san
 
 > 1 Season - 12 Episodes - 2021 - Comedy/Family<br>
@@ -194,6 +197,6 @@
 📷 Image - Violet Evergarden - Violet Evergarden
 
 ## 🛰️ Anime Count
-24
+25
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
