@@ -116,6 +116,7 @@
 - Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai ( Movie )
 - Akame ga Kill!
 - Sword Art Online
+- High School DxD
 - Tantei wa Mou, Shindeiru
 - Kimetsu no Yaiba: Demon Slayer
 - Kaguya-sama wa Kokurasetai
@@ -142,6 +143,7 @@
 - Nao Tomori >> Charlotte
 - Nino Nakano >> 5-Toubun no Hanayome
 - Asuna Yuuki >> Sword Art Online
+- Rias Gremory >> High School DxD
 - Sunomiya Sana >> Ijıranaide, Nagatoro-san
 - Violet Evergarden >> Violet Evergarden
 - Nagatoro-san >> Ijiranade, Nagatoro-san
@@ -181,7 +183,6 @@
 - Hunter x Hunter (2011)
 - One Punch Man
 - Takt Op. Destiny
-- High School DxD
 - Saiki Kusuo no Ψ-nan
 - Given
 - Chuunibyou demo Koi ga Shitai!
