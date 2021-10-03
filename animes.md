@@ -35,7 +35,7 @@
 > 1 Season - 37 Episodes - 2006 - Mystery/Crime<br>
 
 - High School DxD
-> 4 Seasons - 48 Episodes - 2012 - Sci-fi & Fantasy/Comedy/Ecchi<br>
+> 4 Seasons - 48 Episodes - 2012 - Sci-fi & Fantasy/Comedy/Ecchi/Harem/Romantic comedy<br>
 
 - Ijiranaide, Nagatoro-san
 
@@ -112,11 +112,11 @@
 
 - Tensei Shitara Slime Datta Ken
 - Charlotte
+- High School DxD
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai ( Movie )
 - Akame ga Kill!
 - Sword Art Online
-- High School DxD
 - Tantei wa Mou, Shindeiru
 - Kimetsu no Yaiba: Demon Slayer
 - Kaguya-sama wa Kokurasetai
@@ -139,11 +139,11 @@
 ## ✨ Favorite Characters
 
 - Rimuru Tempest >> Tensei Shitara Slime Datta Ken
-- Sakurajima Mai >> Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+- Rias Gremory >> High School DxD
 - Nao Tomori >> Charlotte
+- Sakurajima Mai >> Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - Nino Nakano >> 5-Toubun no Hanayome
 - Asuna Yuuki >> Sword Art Online
-- Rias Gremory >> High School DxD
 - Sunomiya Sana >> Ijıranaide, Nagatoro-san
 - Violet Evergarden >> Violet Evergarden
 - Nagatoro-san >> Ijiranade, Nagatoro-san
