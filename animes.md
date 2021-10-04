@@ -113,9 +113,11 @@
 - Tensei Shitara Slime Datta Ken
 - Charlotte
 - High School DxD
+- Death Note
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai ( Movie )
 - Akame ga Kill!
+- Shingeki no Kyojin
 - Sword Art Online
 - Tantei wa Mou, Shindeiru
 - Kimetsu no Yaiba: Demon Slayer
@@ -124,11 +126,9 @@
 - Violet Evergarden
 - Ijiranaide, Nagatoro-san
 - Jujutsu Kaisen
-- Shingeki no Kyojin
 - 5-Toubun no Hanayome
 - Yakusoku no Neverland
 - Darling in the FranXX
-- Death Note
 - 91 Days
 
 <img src="https://tse1.mm.bing.net/th/id/OIP._9wvn3qFIvSGIvv1MX8E9wHaEK?pid=ImgDet&rs=1">
