@@ -83,6 +83,10 @@
 
 > 4 Seasons - 96 Episodes - 2012 - Dram/Action & Adventure/Science Fiction & Fantasy<br>
 
+- Takt Op. Destiny
+
+> 1 Season - ? Edisodes - 2021 - Action & Adventure/Sci-fi & Fantasy<br>
+
 - Tantei wa Mou, Shindeiru
 
 > 1 Season - 24 Episodes - 2021 - Dram/Mystery<br>
@@ -182,7 +186,6 @@
 - Re:Zero kara Hajimeru Isekai Seikatsu
 - Hunter x Hunter (2011)
 - One Punch Man
-- Takt Op. Destiny
 - Saiki Kusuo no Ψ-nan
 - Given
 - Chuunibyou demo Koi ga Shitai!
@@ -198,6 +201,6 @@
 📷 Image - Violet Evergarden - Violet Evergarden
 
 ## 🛰️ Anime Count
-25
+27
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
