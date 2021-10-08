@@ -63,6 +63,10 @@
 
 > 1 Season - 8 Episodes - 2020 - Comedy/Romantic/Ecchi/Hentai/Erotic<br>
 
+- Platinum End
+
+> 1 Season - 24 Episodes - 2021 - Dram/Mystery<br>
+
 - Redo of Healer
 
 > 1 Season - 12 Episodes - 2021 - Dram/Action & Adventure/Science Fiction & Fantasy/Ecchi/Erotic/Hentai<br>
@@ -170,7 +174,6 @@
 ## 🚀 Watching Targets
 
 - Tokyo Revengers
-- Platinum End
 - Dr. Stone
 - Boku no Hero Academia
 - Jahy-sama wa kujikenai
@@ -201,6 +204,6 @@
 📷 Image - Violet Evergarden - Violet Evergarden
 
 ## 🛰️ Anime Count
-27
+28
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
