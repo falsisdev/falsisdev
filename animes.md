@@ -59,6 +59,10 @@
 
 > Movie - 2020 - Action & Adventure/Dram/Science Fiction & Fantasy<br>
 
+- Owari no Seraph
+
+> 2 Seasons - 24 Episodes - 2015 - Action & Adventure/Sci-fi & Fantasy/Dram<br>
+
 - Overflow
 
 > 1 Season - 8 Episodes - 2020 - Comedy/Romantic/Ecchi/Hentai/Erotic<br>
@@ -197,13 +201,12 @@
 - Shigatsu wa Kimi no Uso
 - Tate no yuusha no Nariagari
 - Kaichou wa Maid-Sama
-- Owari no Seraph
 
 <img src="https://th.bing.com/th/id/R.c90373b7b3d9c597cf0031dbb6b667a0?rik=4d5k7FAR27etSw&pid=ImgRaw&r=0">
 
 📷 Image - Violet Evergarden - Violet Evergarden
 
 ## 🛰️ Anime Count
-28
+29
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
