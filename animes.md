@@ -59,6 +59,10 @@
 
 > Movie - 2020 - Action & Adventure/Dram/Science Fiction & Fantasy<br>
 
+- Kobayashi-San Chi no Maid Dragon
+
+> 2 Seasons - 25 Episodes - 2017 - Comedy<br>
+
 - Owari no Seraph
 
 > 2 Seasons - 24 Episodes - 2015 - Action & Adventure/Sci-fi & Fantasy/Dram<br>
@@ -186,7 +190,6 @@
 - Akatsuki no Yona
 - School Days
 - A.I.C.O. Incarnation
-- Kobayashi-San Chi no Maid Dragon
 - Meikyuu Black Company
 - Himouto! Umaru-Chan
 - Kill la Kill
@@ -207,6 +210,6 @@
 📷 Image - Violet Evergarden - Violet Evergarden
 
 ## 🛰️ Anime Count
-29
+30
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
