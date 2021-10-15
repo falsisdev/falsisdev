@@ -127,9 +127,10 @@
 ## ⚡ Best Animes
 
 - Tensei Shitara Slime Datta Ken
+- Platinum End
 - Charlotte
-- High School DxD
 - Death Note
+- High School DxD
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai ( Movie )
 - Akame ga Kill!
@@ -137,6 +138,7 @@
 - Sword Art Online
 - Tantei wa Mou, Shindeiru
 - Kimetsu no Yaiba: Demon Slayer
+- Takt Op. Destiny
 - Kaguya-sama wa Kokurasetai
 - Another
 - Violet Evergarden
@@ -144,6 +146,7 @@
 - Jujutsu Kaisen
 - 5-Toubun no Hanayome
 - Yakusoku no Neverland
+- Kobayashi-San Chi no Maid Dragon
 - Darling in the FranXX
 - 91 Days
 
@@ -155,7 +158,7 @@
 ## ✨ Favorite Characters
 
 - Rimuru Tempest >> Tensei Shitara Slime Datta Ken
-- Rias Gremory >> High School DxD
+- Koneko >> High School DxD
 - Nao Tomori >> Charlotte
 - Sakurajima Mai >> Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - Nino Nakano >> 5-Toubun no Hanayome
