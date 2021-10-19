@@ -119,10 +119,6 @@
 
 > 2 Seasons - 23 Episodes - 2019 - Action & Adventure/Science Fiction & Fantasy/Mystery/Dram<br>
 
-- Your lie in April
-
-> 1 Season - 22 Episodes - 2014 - Dram/Musical/Comedy<br>
-
 <img src="https://th.bing.com/th/id/R.6421d346f0e8c653832b911878401a3e?rik=J%2f6qhN5LqiuPUQ&pid=ImgRaw&r=0">
 
 📷 Image - Nao Tomori - Charlotte
@@ -140,10 +136,9 @@
 - Akame ga Kill!
 - Shingeki no Kyojin
 - Sword Art Online
-- Your lie in april
+- Tantei wa Mou, Shindeiru
 - Kimetsu no Yaiba: Demon Slayer
 - Takt Op. Destiny
-- Tantei wa Mou, Shindeiru
 - Kaguya-sama wa Kokurasetai
 - Another
 - Violet Evergarden
@@ -209,6 +204,7 @@
 - Chuunibyou demo Koi ga Shitai!
 - Date a Live
 - Kiss X Sis
+- Shigatsu wa Kimi no Uso
 - Tate no yuusha no Nariagari
 - Kaichou wa Maid-Sama
 
@@ -217,6 +213,6 @@
 📷 Image - Violet Evergarden - Violet Evergarden
 
 ## 🛰️ Anime Count
-30
+31
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
