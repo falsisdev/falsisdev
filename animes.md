@@ -216,7 +216,16 @@
 
 📷 Image - Violet Evergarden - Violet Evergarden
 
-## 🛰️ Anime Count
-31
+## 🌼 Counter
+
+- Anime Count: 31
+
+### Types
+
+- Dram: 21
+- Action & Adventure: 14
+- Sci-fi & Fantasy: 10
+- Comedy: 10
+- Ecchi/Harem/Hentai: 7
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
