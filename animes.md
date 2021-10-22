@@ -134,6 +134,7 @@
 - Platinum End
 - Charlotte
 - Death Note
+- Your Lie in April
 - High School DxD
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai ( Movie )
