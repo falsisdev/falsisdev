@@ -75,6 +75,10 @@
 
 > 1 Season - 24 Episodes - 2021 - Dram/Mystery<br>
 
+- Re:Zero
+
+> 2 Seasons - 50 Episodes - 2016 - Dram/Comedy/Action & Adventure/Sci-fi & Fantasy<br>
+
 - Redo of Healer
 
 > 1 Season - 12 Episodes - 2021 - Dram/Action & Adventure/Science Fiction & Fantasy/Ecchi/Erotic/Hentai<br>
@@ -219,14 +223,14 @@
 
 ## 🌼 Counter
 
-- Anime Count: 31
+- Anime Count: 32
 
 ### Types
 
 - Dram: 21
-- Action & Adventure: 14
-- Sci-fi & Fantasy: 10
-- Comedy: 10
+- Action & Adventure: 15
+- Sci-fi & Fantasy: 11
+- Comedy: 11
 - Ecchi/Harem/Hentai: 7
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
