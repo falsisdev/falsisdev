@@ -1,8 +1,8 @@
 # My Anime List
 
-<img src="https://media.discordapp.net/attachments/775822548519616562/883689223004241940/thumb-1920-1118292.png?width=640&height=453">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHLd20OC6eatnri4aO3z8fR2jXrE1f4s1-ZQ&usqp=CAU">
 
-📷 Image: Yuuki Asuna - Sword Art Online
+📷 Image: Yuichiro Hyakuya - Seraph of the End
 
 
 ## 👁️‍🗨️  Watched<br>
@@ -132,15 +132,16 @@
 
 > 1 Season - 22 Episodes - 2014 - Dram/Musical/Comedy<br>
 
-<img src="https://th.bing.com/th/id/R.6421d346f0e8c653832b911878401a3e?rik=J%2f6qhN5LqiuPUQ&pid=ImgRaw&r=0">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8LfTqwjDPfizaf378xVDyPUAILwfGUI8Jg&usqp=CAU">
 
-📷 Image - Nao Tomori - Charlotte
+📷 Image: Mirai Kakehashi & Nasse - Platinum End
 
 
 ## ⚡ Best Animes
 
 - Tensei Shitara Slime Datta Ken
 - Platinum End
+- Owari no Seraph
 - Charlotte
 - Death Note
 - Your Lie in April
@@ -150,6 +151,7 @@
 - Akame ga Kill!
 - Shingeki no Kyojin
 - Sword Art Online
+- Re:Zero
 - Tantei wa Mou, Shindeiru
 - Kimetsu no Yaiba: Demon Slayer
 - Takt Op. Destiny
@@ -164,14 +166,17 @@
 - Darling in the FranXX
 - 91 Days
 
-<img src="https://tse1.mm.bing.net/th/id/OIP._9wvn3qFIvSGIvv1MX8E9wHaEK?pid=ImgDet&rs=1">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWIwYMlB4mkZP5k9jlDxtN3OPPEEWxq3zqw&usqp=CAU">
 
-📷 Image - Chika Fujiwara - Kaguya-sama wa Kokurasetai
+📷 Image: Kazuto Narusaka(Kirito) - Sword Art Online
 
 
 ## ✨ Favorite Characters
 
 - Rimuru Tempest >> Tensei Shitara Slime Datta Ken
+- Mirai Kakehashi >> Platinum End
+- Yuichiro Hyakuya >> Owari no Seraph
+- Mikaela Hyakuya >> Owari no Seraph
 - Koneko >> High School DxD
 - Nao Tomori >> Charlotte
 - Sakurajima Mai >> Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
@@ -192,9 +197,9 @@
 - Light Yagami >> Death Note
 - Tanjirou Kamado >> Kimetsu no Yaiba: Demon Slayer
 
-<img src="https://th.bing.com/th/id/R.7175cd09c7f15399672ebd8131ae2fc9?rik=37vfmxz8OUAKYA&pid=ImgRaw&r=0">
+<img src="https://get.wallhere.com/photo/Tensei-Shitara-Slime-Datta-Ken-Milim-Nava-Benimaru-Nikaido-Shion-TenSura-Shuna-Souei-1854867.jpg">
 
-📷 Image - Rimuru Tempest - Tensei Shitara Slime Datta Ken
+📷 Image - Milim Nava & Shuna Souei - Tensei Shitara Slime Datta Ken
 
 ## 🚀 Watching Targets
 
@@ -237,9 +242,9 @@
 - Shinmai Maou no Tastement
 - 86
 
-<img src="https://th.bing.com/th/id/R.c90373b7b3d9c597cf0031dbb6b667a0?rik=4d5k7FAR27etSw&pid=ImgRaw&r=0">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4IJiUzIhgyn9P_4bv3Ka7Y5yubza6Rp6nA&usqp=CAU">
 
-📷 Image - Violet Evergarden - Violet Evergarden
+📷 Image - Light Yagami, L & Amene Misa - Death Note
 
 ## 🌼 Counter
 
