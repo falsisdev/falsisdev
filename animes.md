@@ -23,7 +23,12 @@
 
 > 1 Season - 13 Episodes - 2012 - Dram/Action & Adventure/Mystery<br>
 
+- Boku no Hero Academia
+
+> 5 Seasons - 113 Episodes - 2016 - Action & Adventure/Comedy/Sci-fi & Fantasy<br>
+
 - Charlotte
+
 > 1 season - 13 Episodes - 2013 - Dram/Fantasy<br>
 
 - Darling in the FranXX
@@ -195,7 +200,6 @@
 
 - Tokyo Revengers
 - Dr. Stone
-- Boku no Hero Academia
 - Jahy-sama wa kujikenai
 - Tokyo Ghoul
 - Bungou Stray Dogs
@@ -205,7 +209,6 @@
 - Meikyuu Black Company
 - Himouto! Umaru-Chan
 - Kill la Kill
-- Re:Zero kara Hajimeru Isekai Seikatsu
 - Hunter x Hunter (2011)
 - One Punch Man
 - Saiki Kusuo no Ψ-nan
@@ -213,9 +216,26 @@
 - Chuunibyou demo Koi ga Shitai!
 - Date a Live
 - Kiss X Sis
-- Shigatsu wa Kimi no Uso
 - Tate no yuusha no Nariagari
 - Kaichou wa Maid-Sama
+- Naruto
+- Boruto
+- Deep Insanity: The Lost Child
+- Seksi Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru
+- Beastars
+- Haikyuu!!
+- Hidan no Aria
+- Avatar - The last Airbender
+- Vivy: Flourite Eye's song
+- Erased
+- Nobleese
+- Vanitas no Carte
+- Fate/Zero
+- Steins; Gate
+- Neon Genesis Evangelion
+- Nana
+- Shinmai Maou no Tastement
+- 86
 
 <img src="https://th.bing.com/th/id/R.c90373b7b3d9c597cf0031dbb6b667a0?rik=4d5k7FAR27etSw&pid=ImgRaw&r=0">
 
@@ -223,14 +243,14 @@
 
 ## 🌼 Counter
 
-- Anime Count: 32
+- Anime Count: 33
 
 ### Types
 
 - Dram: 21
-- Action & Adventure: 15
-- Sci-fi & Fantasy: 11
-- Comedy: 11
+- Action & Adventure: 16
+- Sci-fi & Fantasy: 12
+- Comedy: 12
 - Ecchi/Harem/Hentai: 7
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
