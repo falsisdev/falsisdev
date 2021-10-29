@@ -5,7 +5,7 @@
 📷 Image: Yuichiro Hyakuya - Seraph of the End
 
 
-## 👁️‍🗨️  Watched<br>
+## 🌸 Watched<br>
 
 - 5-Toubun no Hanayome
 
@@ -106,7 +106,7 @@
 
 - Takt Op. Destiny
 
-> 1 Season - ? Edisodes - 2021 - Action & Adventure/Sci-fi & Fantasy<br>
+> 1 Season - 12 Edisodes - 2021 - Action & Adventure/Sci-fi & Fantasy<br>
 
 - Tantei wa Mou, Shindeiru
 
@@ -137,7 +137,7 @@
 📷 Image: Mirai Kakehashi & Nasse - Platinum End
 
 
-## ⚡ Best Animes
+## 🧸 Best Animes
 
 - Tensei Shitara Slime Datta Ken
 - Platinum End
@@ -171,7 +171,7 @@
 📷 Image: Kazuto Narusaka(Kirito) - Sword Art Online
 
 
-## ✨ Favorite Characters
+## 🏵️ Favorite Characters
 
 - Rimuru Tempest >> Tensei Shitara Slime Datta Ken
 - Mirai Kakehashi >> Platinum End
@@ -201,7 +201,7 @@
 
 📷 Image - Milim Nava & Shuna Souei - Tensei Shitara Slime Datta Ken
 
-## 🚀 Watching Targets
+## 🎯 Watching Targets
 
 - Tokyo Revengers
 - Dr. Stone
@@ -246,7 +246,7 @@
 
 📷 Image - Light Yagami, L & Amene Misa - Death Note
 
-## 🌼 Counter
+## 🍩 Counter
 
 - Anime Count: 33
 
@@ -256,6 +256,7 @@
 - Action & Adventure: 16
 - Sci-fi & Fantasy: 12
 - Comedy: 12
+- Mystery/Crime: 11
 - Ecchi/Harem/Hentai: 7
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
