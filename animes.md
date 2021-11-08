@@ -144,13 +144,14 @@
 - Owari no Seraph
 - Charlotte
 - Death Note
-- Your Lie in April
 - High School DxD
+- Boku no Hero Academia
+- Sword Art Online
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai ( Movie )
 - Akame ga Kill!
+- Your Lie in April
 - Shingeki no Kyojin
-- Sword Art Online
 - Re:Zero
 - Tantei wa Mou, Shindeiru
 - Kimetsu no Yaiba: Demon Slayer
