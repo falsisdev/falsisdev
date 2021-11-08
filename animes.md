@@ -68,6 +68,10 @@
 
 > 2 Seasons - 25 Episodes - 2017 - Comedy<br>
 
+- Noblesse 
+
+> 1 Season - 13 Episodes - 2020 - Dram/Mystery/Comedy/Action & Adventure<br>
+
 - Owari no Seraph
 
 > 2 Seasons - 24 Episodes - 2015 - Action & Adventure/Sci-fi & Fantasy/Dram<br>
@@ -234,7 +238,6 @@
 - Avatar - The last Airbender
 - Vivy: Flourite Eye's song
 - Erased
-- Nobleese
 - Vanitas no Carte
 - Fate/Zero
 - Steins; Gate
@@ -249,15 +252,15 @@
 
 ## 🍩 Counter
 
-- Anime Count: 33
+- Anime Count: 34
 
 ### Types
 
-- Dram: 21
-- Action & Adventure: 16
+- Dram: 22
+- Action & Adventure: 17
 - Sci-fi & Fantasy: 12
-- Comedy: 12
-- Mystery/Crime: 11
+- Comedy: 13
+- Mystery/Crime: 12
 - Ecchi/Harem/Hentai: 7
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
