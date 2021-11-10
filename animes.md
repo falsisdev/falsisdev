@@ -124,6 +124,10 @@
 
  > 1 Season - 12 Episodes - 2021 - Comedy/Action & Adventure/Fantasy & Sci-fi/Diary anime
 
+- Tokyo Revengers
+
+> 1 Season - 24 Episodes - 2021 - Dram/Action & Adventure<br>
+
 - Violet Evergarden
 
 > 1 Season - 13 Episodes - 2018 - Dram/Sci-Fi & Fantasy<br>
@@ -154,6 +158,7 @@
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai ( Movie )
 - Akame ga Kill!
+- Tokyo Revengers
 - Your Lie in April
 - Shingeki no Kyojin
 - Re:Zero
@@ -208,7 +213,6 @@
 
 ## 🎯 Watching Targets
 
-- Tokyo Revengers
 - Dr. Stone
 - Jahy-sama wa kujikenai
 - Tokyo Ghoul
@@ -252,12 +256,12 @@
 
 ## 🍩 Counter
 
-- Anime Count: 34
+- Anime Count: 35
 
 ### Types
 
-- Dram: 22
-- Action & Adventure: 17
+- Dram: 23
+- Action & Adventure: 18
 - Sci-fi & Fantasy: 12
 - Comedy: 13
 - Mystery/Crime: 12
