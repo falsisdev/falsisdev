@@ -23,6 +23,10 @@
 
 > 1 Season - 13 Episodes - 2012 - Dram/Action & Adventure/Mystery<br>
 
+- Banana Fish
+
+> 1 Season - 24 Episodes - 2018 - Dram/Mystery/Action & Adventure<br>
+
 - Boku no Hero Academia
 
 > 5 Seasons - 113 Episodes - 2016 - Action & Adventure/Comedy/Sci-fi & Fantasy<br>
@@ -96,6 +100,10 @@
 
 > 4 Seasons - 80 Episodes - 2013 - Dram/Action & Adventure/Science Fiction & Fantasy/Mystery<br>
 
+- Shinmai Maou no Testament
+
+> 2 Seasons - 22 Episodes - 2015 - Comedy/Action & Adventure/Sci-fi & Fantasy/Ecchi<br>
+
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 
 > 1 Season - 13 Episodes - 2018 - Comedy/Mystery/Harem<br>
@@ -152,6 +160,7 @@
 - Owari no Seraph
 - Charlotte
 - Death Note
+- Shingeki no Kyojin
 - High School DxD
 - Boku no Hero Academia
 - Sword Art Online
@@ -160,7 +169,6 @@
 - Akame ga Kill!
 - Tokyo Revengers
 - Your Lie in April
-- Shingeki no Kyojin
 - Re:Zero
 - Tantei wa Mou, Shindeiru
 - Kimetsu no Yaiba: Demon Slayer
@@ -256,15 +264,15 @@
 
 ## 🍩 Counter
 
-- Anime Count: 35
+- Anime Count: 37
 
 ### Types
 
-- Dram: 23
-- Action & Adventure: 18
-- Sci-fi & Fantasy: 12
-- Comedy: 13
-- Mystery/Crime: 12
-- Ecchi/Harem/Hentai: 7
+- Dram: 24
+- Action & Adventure: 20
+- Sci-fi & Fantasy: 13
+- Comedy: 14
+- Mystery/Crime: 13
+- Ecchi/Harem/Hentai: 8
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
