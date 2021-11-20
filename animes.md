@@ -84,7 +84,7 @@
 
 > 1 Season - 8 Episodes - 2020 - Comedy/Romantic/Ecchi/Hentai/Erotic<br>
 
-- Platinum End
+- Platinum End (manga is finished)
 
 > 1 Season - 24 Episodes - 2021 - Dram/Mystery<br>
 
@@ -96,7 +96,7 @@
 
 > 1 Season - 12 Episodes - 2021 - Dram/Action & Adventure/Science Fiction & Fantasy/Ecchi/Erotic/Hentai<br>
 
-- Shingeki no Kyojin
+- Shingeki no Kyojin (manga is finished)
 
 > 4 Seasons - 80 Episodes - 2013 - Dram/Action & Adventure/Science Fiction & Fantasy/Mystery<br>
 
@@ -155,12 +155,12 @@
 
 ## 🧸 Best Animes
 
+- Platinum End (manga is finished)
 - Tensei Shitara Slime Datta Ken
-- Platinum End
 - Owari no Seraph
 - Charlotte
 - Death Note
-- Shingeki no Kyojin
+- Shingeki no Kyojin (manga is finished)
 - High School DxD
 - Boku no Hero Academia
 - Sword Art Online
@@ -191,8 +191,8 @@
 
 ## 🏵️ Favorite Characters
 
-- Rimuru Tempest >> Tensei Shitara Slime Datta Ken
 - Mirai Kakehashi >> Platinum End
+- Rimuru Tempest >> Tensei Shitara Slime Datta Ken
 - Yuichiro Hyakuya >> Owari no Seraph
 - Mikaela Hyakuya >> Owari no Seraph
 - Koneko >> High School DxD
@@ -265,6 +265,7 @@
 ## 🍩 Counter
 
 - Anime Count: 37
+- Manga Count: 2
 
 ### Types
 
