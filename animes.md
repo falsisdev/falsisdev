@@ -76,6 +76,10 @@
 
 > 1 Season - 13 Episodes - 2020 - Dram/Mystery/Comedy/Action & Adventure<br>
 
+- Orange
+
+> 1 Season - 13 Episodes - 2016 - Dram<br>
+
 - Owari no Seraph
 
 > 2 Seasons - 24 Episodes - 2015 - Action & Adventure/Sci-fi & Fantasy/Dram<br>
@@ -264,12 +268,12 @@
 
 ## 🍩 Counter
 
-- Anime Count: 37
-- Manga Count: 2
+- Anime Count: 38
+- Manga Count: 3
 
 ### Types
 
-- Dram: 24
+- Dram: 25
 - Action & Adventure: 20
 - Sci-fi & Fantasy: 13
 - Comedy: 14
