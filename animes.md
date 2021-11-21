@@ -159,14 +159,15 @@
 
 ## 🧸 Best Animes
 
-- Platinum End (manga is finished)
 - Tensei Shitara Slime Datta Ken
+- Platinum End (manga is finished)
 - Owari no Seraph
 - Charlotte
 - Death Note
 - Shingeki no Kyojin (manga is finished)
-- High School DxD
 - Boku no Hero Academia
+- Orange
+- High School DxD
 - Sword Art Online
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai ( Movie )
