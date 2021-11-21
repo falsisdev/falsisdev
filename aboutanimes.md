@@ -29,3 +29,12 @@ Orta okul son sınıf öğrencisi olan Mei Misaki, güzelliğiyle, zekasıyla ve
 
 
 - Korkmaktan hoşlanan arkadaşlar için aşırı sürükleyici bir korku animesi. Konusunu beğendim, çok şaşırtıyor aralarda. Tavsiye ederim.
+
+## Charlotte (2015)<br>
+
+<img src="https://22dakika.org/wp-content/uploads/2015/11/Charlotte_BD_1_Poster.png">
+
+Hikâyemiz, bir grup ergenlik çağındaki kız ve erkeğin arasında görülen özel yetenekleri konu almaktadır. Yuu Otosaka gücünü kimseye bir şey belli etmeden kullanıp, normal, sıradan bir okul hayatı yaşamaktadır. Birdenbire karşısına Nao Tomori adında bir kız çıkar. Onunla karşılaşmasından dolayı, özel güç kullanıcılarının kaderi açığa çıkacaktır.
+
+
+- Tam olarak bir başyapıt. En sevdiğim animeler arasında yer alıyor. Konusu hoşuma gitti, çok sarıyor ve sürüklüyor. Heyecan verici. Tavsiye ediyorum...
