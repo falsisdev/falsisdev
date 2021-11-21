@@ -43,6 +43,10 @@
 
 > 1 Season - 37 Episodes - 2006 - Mystery/Crime<br>
 
+- Goblin Slayer
+
+> 1 Season - 12 Episodes - 2018 - Dram/Action & Adventure/Sci-fi & Fantasy<br>
+
 - High School DxD
 > 4 Seasons - 48 Episodes - 2012 - Sci-fi & Fantasy/Comedy/Ecchi/Harem/Romantic comedy<br>
 
@@ -269,14 +273,14 @@
 
 ## 🍩 Counter
 
-- Anime Count: 38
+- Anime Count: 39
 - Manga Count: 3
 
 ### Types
 
-- Dram: 25
-- Action & Adventure: 20
-- Sci-fi & Fantasy: 13
+- Dram: 26
+- Action & Adventure: 21
+- Sci-fi & Fantasy: 14
 - Comedy: 14
 - Mystery/Crime: 13
 - Ecchi/Harem/Hentai: 8
