@@ -165,12 +165,12 @@
 
 - Tensei Shitara Slime Datta Ken
 - Platinum End (manga is finished)
+- Orange
 - Owari no Seraph
 - Charlotte
 - Death Note
 - Shingeki no Kyojin (manga is finished)
 - Boku no Hero Academia
-- Orange
 - High School DxD
 - Sword Art Online
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
