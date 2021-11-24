@@ -52,3 +52,16 @@ Uzak bir gelecekte dünya mahvolmuş, insanlık hareketli kale şehir Plantation
 Yagami Light, üniversite giriş sınavlarına hazırlanan bir lise son sınıf öğrencisidir. Light (Raito), Japonya'nın belki de en yetenekli ve zeki öğrencisi olmasına rağmen, yaşadığı dünya ona tat vermemektedir. Her gün gittikçe artan suç oranı ve adalet sisteminin çökmüşlüğü, onun için bu dünyayı daha da anlamsız ve çürümüş kılmaktadır. Bu yüzden de, hiç bir şeyde anlam görmemektedir. Light, bu buhranlarını kendi içinde yaşarken, ders sırasında bir defterin gökten düştüğünü görür. Okul çıkışı elinde olmadan defterin düştüğü yere yönelir. Defterin üstünde "Death Note" yazmaktadır. Defteri yerden alıp incelediğinde hiç de inanacağı şeylerle karşılaşmaz. "Bu deftere ismi yazılan insan ölecektir." Nedenini kendi bile bilmeden, defteri alıp evine döner. Evde haberleri izlerken, bir adamın bir anaokulundaki öğrencileri ve öğretmenleri rehin aldığını izler. Defterin gerçekliğini test etmek için rehin alan adamın adını deftere yazar. Ve 40 saniye sonra adam ölür. Defterin gerçekliği karşısında şaşkına dönen Light, kendi ideal dünyasını yaratmak için diğer suçlulara yönelecektir. Ama ya dünya onun varlığını öğrenip peşine dünyanın en iyi dedektifi L'i takarsa?
 - Konusu çok iyi düşünülmüş, çok ayrıntılı ve güzel. Yapımcıların eline sağlık. Kendisi çok sevdiğim ilk animem olur. Ancak 20-22 bölüm sonra Kira el değiştirince biraz sıkıldım açıkçası, uzatmak için uzatmışlar. Onun dışında bu kadar eski bir zamanda bu kadar güzel ve rabet gören bir manga yazmak çok büyül bir başarı. Bir başyapıt. Teşekkür ederiz.
 
+## Goblin Slayer (2018)<br>
+
+<img src="https://image.tmdb.org/t/p/w500/uly72PeOXLDoAwMZXvsJYuep7jv.jpg">
+
+Ön saflarda bir loncada sadece goblinleri avlayarak Gümüş-Seviyeye ulaşan Goblin Avcısı, önceleri tek başına avlansa da, ilk görevinde takımıyla birlikte öldürülmek üzereyken kurtardığı bir rahibe ile görevlere gitmeye başlar. Goblin Avcısı, goblinleri öldürmek için her türlü yöntemi kullanmaktadır. Daha sonra Goblin Avcısı ile Rahibenin ekibine Elf Okçu, Cüce Şaman ve Kertenkele Keşiş katılır. Goblin Avcısı ve ekibi gelen tüm goblin öldürme görevlerini üstlenirler.
+- Ya şimdi, buna fazla bir yorum yapmak istemiyorum. Güzel animeydi ama çok kısaydı ve böyle bitecek olayları göstermenize gerek yoktu. Yani beğendim sayılır ama aşırı da iyiydi diyemem. İzleyebilirsiniz.
+
+## High School DxD (2012)<br>
+
+<img src="https://image.tmdb.org/t/p/w500/mwDUuJkEXIqzcSCODZMckSQe2hE.jpg">
+
+Hyoudou Issei tek dileği ilerde birgün kendi haremini kurmak olan bir liselidir. Öyle şansızdır ki daha bir kızla ilk buluşmasında ölümcül bir şekilde yaralanarak ölüme terk edilmiştir. Gremory klanının varisi olan Rias Gremory tarafından kurtarılır ve şeytan olarak yeniden dirilir. Issei farkında olmadan kendini düşmüş melekler ve şeytanlar arasındaki bir şavaşın tam ortasında bulur. Ölüp şeytanın uşağı olarak dirilmiş Issei ne kadar şansız da olsa harem hayalinin tam ortasındadır aslında...
+- Gayet mükemmel düzenlenmiş gü<el bir Ecchi. Konusu, hikayesi, çizimleri gayet güzel. Helal olsun diyorum izleyin. 4. sezonda çizimler değişiyor zor alışıyorsunuz ama alışınca çok iyi. Beğendim.
