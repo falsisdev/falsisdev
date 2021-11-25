@@ -250,7 +250,6 @@
 - Given
 - Chuunibyou demo Koi ga Shitai!
 - Date a Live
-- Kiss X Sis
 - Tate no yuusha no Nariagari
 - Kaichou wa Maid-Sama
 - Naruto
@@ -268,7 +267,6 @@
 - Steins; Gate
 - Neon Genesis Evangelion
 - Nana
-- Shinmai Maou no Tastement
 - 86
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4IJiUzIhgyn9P_4bv3Ka7Y5yubza6Rp6nA&usqp=CAU">
