@@ -72,6 +72,10 @@
 
 > Movie - 2020 - Action & Adventure/Dram/Science Fiction & Fantasy<br>
 
+- Kiss x Sis 
+
+> 1 Season - 13 Episodes - 2010 - Comedy/Ecchi/Harem<br>
+
 - Kobayashi-San Chi no Maid Dragon
 
 > 2 Seasons - 25 Episodes - 2017 - Comedy<br>
@@ -110,7 +114,7 @@
 
 - Shinmai Maou no Testament
 
-> 2 Seasons - 22 Episodes - 2015 - Comedy/Action & Adventure/Sci-fi & Fantasy/Ecchi<br>
+> 2 Seasons - 22 Episodes - 2015 - Comedy/Action & Adventure/Sci-fi & Fantasy/Ecchi/Harem<br>
 
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 
@@ -273,7 +277,7 @@
 
 ## 🍩 Counter
 
-- Anime Count: 39
+- Anime Count: 40
 - Manga Count: 3
 
 ### Types
@@ -281,8 +285,8 @@
 - Dram: 26
 - Action & Adventure: 21
 - Sci-fi & Fantasy: 14
-- Comedy: 14
+- Comedy: 15
 - Mystery/Crime: 13
-- Ecchi/Harem/Hentai: 8
+- Ecchi/Harem/Hentai: 9
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
