@@ -19,6 +19,10 @@
 
 > 1 Season - 24 Episodes - 2014 - Dram/Action & Adventure/Crime<br>
 
+- Ansatsu Kyoushitsu
+
+> 2 Seasons - 47 Episodes - 2015 - Comedy/Action & Adventure/Sci-fi & Fantasy<br>
+
 - Another
 
 > 1 Season - 13 Episodes - 2012 - Dram/Action & Adventure/Mystery<br>
@@ -177,6 +181,7 @@
 - Boku no Hero Academia
 - High School DxD
 - Sword Art Online
+- Ansatsu Kyoushitsu: Assassination Classroom
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai ( Movie )
 - Akame ga Kill!
@@ -275,15 +280,15 @@
 
 ## 🍩 Counter
 
-- Anime Count: 40
+- Anime Count: 41
 - Manga Count: 3
 
 ### Types
 
 - Dram: 26
-- Action & Adventure: 21
-- Sci-fi & Fantasy: 14
-- Comedy: 15
+- Action & Adventure: 22
+- Comedy: 16
+- Sci-fi & Fantasy: 15
 - Mystery/Crime: 13
 - Ecchi/Harem/Hentai: 9
 
