@@ -179,9 +179,9 @@
 - Death Note
 - Shingeki no Kyojin (manga is finished)
 - Boku no Hero Academia
+- Ansatsu Kyoushitsu
 - High School DxD
 - Sword Art Online
-- Ansatsu Kyoushitsu: Assassination Classroom
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai ( Movie )
 - Akame ga Kill!
