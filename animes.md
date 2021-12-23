@@ -66,7 +66,10 @@
 > 1 Season - 24 Episodes - 2020 - Action & Adventure/Science Fiction & Fantasy/Mystery<br>
 
 - Kaguya-sama wa Kokurasetai
-> 2 Seasons - 24 Episodes - 2019 - Dram/Comedy/Romantic
+> 2 Seasons - 24 Episodes - 2019 - Dram/Comedy/Romantic<br>
+
+- Kanojo, Okarishimasu
+> 1 Season - 12 Episodes - 2020 - Comedy/Ecchi<br>
 
 - Kimetsu no Yaiba: Demon Slayer
 
@@ -280,16 +283,16 @@
 
 ## 🍩 Counter
 
-- Anime Count: 41
-- Manga Count: 3
+- Anime Count: 42
+- Manga Count: 5
 
 ### Types
 
 - Dram: 26
 - Action & Adventure: 22
-- Comedy: 16
+- Comedy: 17
 - Sci-fi & Fantasy: 15
 - Mystery/Crime: 13
-- Ecchi/Harem/Hentai: 9
+- Ecchi/Harem/Hentai: 10
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
