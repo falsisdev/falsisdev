@@ -87,6 +87,10 @@
 
 > 2 Seasons - 25 Episodes - 2017 - Comedy<br>
 
+- No Game No Life
+
+> 1 Season - 18 Episodes - 2014 - Action & Adventure/Sci&fi & Fantasy/Comedy<br>
+
 - Noblesse 
 
 > 1 Season - 13 Episodes - 2020 - Dram/Mystery/Comedy/Action & Adventure<br>
@@ -212,8 +216,8 @@
 
 ## 🏵️ Favorite Characters
 
-- Mirai Kakehashi >> Platinum End
 - Rimuru Tempest >> Tensei Shitara Slime Datta Ken
+- Mirai Kakehashi >> Platinum End
 - Yuichiro Hyakuya >> Owari no Seraph
 - Mikaela Hyakuya >> Owari no Seraph
 - Koneko >> High School DxD
@@ -283,15 +287,15 @@
 
 ## 🍩 Counter
 
-- Anime Count: 42
+- Anime Count: 43
 - Manga Count: 5
 
 ### Types
 
 - Dram: 26
-- Action & Adventure: 22
-- Comedy: 17
-- Sci-fi & Fantasy: 15
+- Action & Adventure: 23
+- Comedy: 18
+- Sci-fi & Fantasy: 16
 - Mystery/Crime: 13
 - Ecchi/Harem/Hentai: 10
 
