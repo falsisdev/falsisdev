@@ -127,6 +127,10 @@
 
 > 2 Seasons - 22 Episodes - 2015 - Comedy/Action & Adventure/Sci-fi & Fantasy/Ecchi/Harem<br>
 
+- Shuumatsu no Harem
+
+> 1 Season - 12 Episodes - 2021 - Dram/Sci-fi & Fantasy/Mystery/Harem/Ecchi<br>
+
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 
 > 1 Season - 13 Episodes - 2018 - Comedy/Mystery/Harem<br>
@@ -287,16 +291,16 @@
 
 ## 🍩 Counter
 
-- Anime Count: 43
+- Anime Count: 44
 - Manga Count: 5
 
 ### Types
 
-- Dram: 26
+- Dram: 27
 - Action & Adventure: 23
 - Comedy: 18
-- Sci-fi & Fantasy: 16
-- Mystery/Crime: 13
-- Ecchi/Harem/Hentai: 10
+- Sci-fi & Fantasy: 17
+- Mystery/Crime: 14
+- Ecchi/Harem/Hentai: 11
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
