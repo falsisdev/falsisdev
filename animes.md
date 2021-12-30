@@ -292,7 +292,7 @@
 ## 🍩 Counter
 
 - Anime Count: 44
-- Manga Count: 5
+- Manga Count: 7
 
 ### Types
 
