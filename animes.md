@@ -95,6 +95,10 @@
 
 > 1 Season - 13 Episodes - 2020 - Dram/Mystery/Comedy/Action & Adventure<br>
 
+- Noragami
+
+> 2 Seasons - 25 Episodes - 2014 - Comedy/Sci-fi & Fantasy/Action & Adventure<br>
+
 - Orange
 
 > 1 Season - 13 Episodes - 2016 - Dram<br>
@@ -190,6 +194,7 @@
 - Death Note
 - Shingeki no Kyojin (manga is finished)
 - Boku no Hero Academia
+- Noragami
 - Ansatsu Kyoushitsu
 - High School DxD
 - Sword Art Online
@@ -291,15 +296,15 @@
 
 ## 🍩 Counter
 
-- Anime Count: 44
+- Anime Count: 45
 - Manga Count: 7
 
 ### Types
 
 - Dram: 27
-- Action & Adventure: 23
-- Comedy: 18
-- Sci-fi & Fantasy: 17
+- Action & Adventure: 24
+- Comedy: 19
+- Sci-fi & Fantasy: 18
 - Mystery/Crime: 14
 - Ecchi/Harem/Hentai: 11
 
