@@ -39,6 +39,10 @@
 
 > 1 season - 13 Episodes - 2013 - Dram/Fantasy<br>
 
+- Code Geass: Hangyaku no Lelouch
+
+> 2 Seasons - 48 Episodes - 2006 - Dram/Action & Adventure/Sci-fi & Fantasy<br>
+
 - Darling in the FranXX
 
 > 1 Season - 24 Episodes - 2018 - Dram/Action & Adventure/Science Fiction & Fantasy/Harem<br>
@@ -188,6 +192,7 @@
 
 - Tensei Shitara Slime Datta Ken (manga is finished)
 - Platinum End (manga is finished)
+- Code Geass: Hangyaku no Lelouch
 - Orange
 - Owari no Seraph
 - Charlotte
@@ -296,15 +301,15 @@
 
 ## 🍩 Counter
 
-- Anime Count: 45
+- Anime Count: 46
 - Manga Count: 7
 
 ### Types
 
-- Dram: 27
-- Action & Adventure: 24
+- Dram: 28
+- Action & Adventure: 25
 - Comedy: 19
-- Sci-fi & Fantasy: 18
+- Sci-fi & Fantasy: 19
 - Mystery/Crime: 14
 - Ecchi/Harem/Hentai: 11
 
