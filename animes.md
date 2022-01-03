@@ -191,8 +191,8 @@
 ## 🧸 Best Animes
 
 - Tensei Shitara Slime Datta Ken (manga is finished)
-- Platinum End (manga is finished)
 - Code Geass: Hangyaku no Lelouch
+- Platinum End (manga is finished)
 - Orange
 - Owari no Seraph
 - Charlotte
