@@ -1,8 +1,8 @@
 # My Anime List
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHLd20OC6eatnri4aO3z8fR2jXrE1f4s1-ZQ&usqp=CAU">
+<img src="https://i1.wp.com/elpalomitron.com/wp-content/uploads/2021/08/Critica-Segunda-Temporada-That-Time-I-Got-Reincarnated-As-A-Slime-ElPalomitron7.jpg?resize=600%2C300&ssl=1">
 
-📷 Image: Yuichiro Hyakuya - Seraph of the End
+📷 Image: Rimuru Tempest - Tensei Shitara Slime Datta Ken
 
 
 ## 🌸 Watched<br>
@@ -183,9 +183,9 @@
 
 > 1 Season - 22 Episodes - 2014 - Dram/Musical/Comedy<br>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8LfTqwjDPfizaf378xVDyPUAILwfGUI8Jg&usqp=CAU">
+<img src="https://narutopark.com/wp-content/uploads/2021/02/4FBo5yQ-code-geass-lelouch-wallpaper-1024x640.jpg">
 
-📷 Image: Mirai Kakehashi & Nasse - Platinum End
+📷 Image: Lelouch vi Brittania (Lelouch Lamperouage) - Code Geass: Hangyaku no Lelouch
 
 
 ## 🧸 Best Animes
@@ -223,14 +223,16 @@
 - Darling in the FranXX
 - 91 Days
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWIwYMlB4mkZP5k9jlDxtN3OPPEEWxq3zqw&usqp=CAU">
+<img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/12/Saki-in-costume.jpg">
 
-📷 Image: Kazuto Narusaka(Kirito) - Sword Art Online
+📷 Image: Saki Hanakago - Platinum End
 
 
 ## 🏵️ Favorite Characters
 
+- C.C. >> Code Geass: Hangyaku no Lelouch
 - Rimuru Tempest >> Tensei Shitara Slime Datta Ken
+- Lelouch vi Brittania >> Code Geass: Hangyaku no Lelouch
 - Mirai Kakehashi >> Platinum End
 - Yuichiro Hyakuya >> Owari no Seraph
 - Mikaela Hyakuya >> Owari no Seraph
@@ -254,9 +256,9 @@
 - Light Yagami >> Death Note
 - Tanjirou Kamado >> Kimetsu no Yaiba: Demon Slayer
 
-<img src="https://get.wallhere.com/photo/Tensei-Shitara-Slime-Datta-Ken-Milim-Nava-Benimaru-Nikaido-Shion-TenSura-Shuna-Souei-1854867.jpg">
+<img src="https://img.anime2you.de/2019/01/orange1.jpg">
 
-📷 Image - Milim Nava & Shuna Souei - Tensei Shitara Slime Datta Ken
+📷 Image - Kakeru Naruse(left) and Naho Takamiya(right) - Orange: Mirai
 
 ## 🎯 Watching Targets
 
@@ -321,9 +323,9 @@
 - Wonder Egg Priority
 - Yuri!!! on Ice
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4IJiUzIhgyn9P_4bv3Ka7Y5yubza6Rp6nA&usqp=CAU">
+<img src="https://diziizle.blog/wp-content/uploads/2020/10/owari-no-seraph-1024x576.jpg">
 
-📷 Image - Light Yagami, L & Amene Misa - Death Note
+📷 Image - Mikaela Hyakuya(left) and Yuichiro Hyakuya(right) - Owari no Seraph
 
 ## 🍩 Counter
 
