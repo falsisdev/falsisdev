@@ -260,40 +260,66 @@
 
 ## 🎯 Watching Targets
 
-- Dr. Stone
-- Jahy-sama wa kujikenai
-- Tokyo Ghoul
-- Bungou Stray Dogs
-- Akatsuki no Yona
-- School Days
-- A.I.C.O. Incarnation
-- Meikyuu Black Company
-- Himouto! Umaru-Chan
-- Kill la Kill
-- Hunter x Hunter (2011)
-- One Punch Man
-- Saiki Kusuo no Ψ-nan
-- Given
-- Chuunibyou demo Koi ga Shitai!
-- Date a Live
-- Tate no yuusha no Nariagari
-- Kaichou wa Maid-Sama
-- Naruto
-- Boruto
-- Deep Insanity: The Lost Child
-- Seksi Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru
-- Beastars
-- Haikyuu!!
-- Hidan no Aria
-- Avatar - The last Airbender
-- Vivy: Flourite Eye's song
-- Erased
-- Vanitas no Carte
-- Fate/Zero
-- Steins; Gate
-- Neon Genesis Evangelion
-- Nana
 - 86
+- A.I.C.O.: Incernation
+- Akatsuki no Yona
+- Amnesia
+- Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai
+- AO no Exorcist
+- Beastars
+- Black Clover
+- Blue Period
+- Boku dake ga Inai Machi
+- Boruto: Naruto Next Generasions
+- Bungou Stray Dogs
+- Chuunibyou demo Koi ga Shitai!
+- Darwin's Game
+- Date A Live
+- Deep Insanity: The Lost Child
+- Dororo
+- Dr. Stone
+- Enen no Shouboutai
+- Fairy Tail
+- Fate/Zero
+- Fuuka
+- Given
+- Haikyuu!
+- Himouto! Umaru-chan
+- Hunter x Hunter
+- Jahy-sama wa Kujikenai!
+- Jojo no kimyou na bouken
+- Kaichou wa Maid-sama
+- Kakegurui
+- Kill la Kill
+- Kimi no na wa
+- Koe no Katachi
+- Komi-san wa, Komyushou
+- Kotonoha no Niwa
+- Kyoukai no Kanata
+- Maou-sama, Retry!
+- Meikyuu Black Company
+- Mirai Nikki
+- Mushoku Tensei: Isekai Ittara Honki Dasu
+- Nana
+- Nanatsu no Taizai
+- Naruto
+- Naruto: Shippuuden
+- One Punch Man
+- SCARLET NEXUS
+- Saiki Kusuo no Ψ-nan
+- School Days
+- Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru
+- Shingeki no Bahamut: Genesis
+- Steins;Gate
+- Steins;Gate Movie: Fuka Ryouiki no Déjà vu
+- Tate no Yuusha no Nariagari
+- Tenki no ko
+- Tokyo Ghoul
+- Toradora!
+- Vanitas no Carte
+- Vivy: Flourite Eye's Song
+- Wonder Egg Priority
+- Yuri!!! on Ice
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4IJiUzIhgyn9P_4bv3Ka7Y5yubza6Rp6nA&usqp=CAU">
 
@@ -301,8 +327,8 @@
 
 ## 🍩 Counter
 
-- Anime Count: 46
-- Manga Count: 7
+- Anime Count: 45
+- Manga Count: 6
 
 ### Types
 
