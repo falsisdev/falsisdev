@@ -43,6 +43,10 @@
 
 > 2 Seasons - 48 Episodes - 2006 - Dram/Action & Adventure/Sci-fi & Fantasy<br>
 
+- Code Geass: Boukoku no Akito
+
+> Serial movie(5) - 2012 - Action & Adventure/Sci-fi & Fantasy<br>
+
 - Darling in the FranXX
 
 > 1 Season - 24 Episodes - 2018 - Dram/Action & Adventure/Science Fiction & Fantasy/Harem<br>
@@ -333,15 +337,15 @@
 
 ## 🍩 Counter
 
-- Anime Count: 46
+- Anime Count: 47
 - Manga Count: 6
 
 ### Types
 
 - Dram: 29
-- Action & Adventure: 25
+- Action & Adventure: 26
 - Comedy: 19
-- Sci-fi & Fantasy: 20
+- Sci-fi & Fantasy: 21
 - Mystery/Crime: 15
 - Ecchi/Harem/Hentai: 11
 
