@@ -175,6 +175,10 @@
 
 > 1 Season - 13 Episodes - 2018 - Dram/Sci-Fi & Fantasy<br>
 
+- Wonder Egg Pritority
+
+- 1 Season - 12 Episodes - 2021 - Dram/Mystery/Sci-fi & Fantasy<br>
+
 - Yakusoku no Neverland
 
 > 2 Seasons - 23 Episodes - 2019 - Action & Adventure/Science Fiction & Fantasy/Mystery/Dram<br>
@@ -329,16 +333,16 @@
 
 ## 🍩 Counter
 
-- Anime Count: 45
+- Anime Count: 46
 - Manga Count: 6
 
 ### Types
 
-- Dram: 28
+- Dram: 29
 - Action & Adventure: 25
 - Comedy: 19
-- Sci-fi & Fantasy: 19
-- Mystery/Crime: 14
+- Sci-fi & Fantasy: 20
+- Mystery/Crime: 15
 - Ecchi/Harem/Hentai: 11
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
