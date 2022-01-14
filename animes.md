@@ -181,7 +181,7 @@
 
 - Wonder Egg Pritority
 
-- 1 Season - 12 Episodes - 2021 - Dram/Mystery/Sci-fi & Fantasy<br>
+> 1 Season - 12 Episodes - 2021 - Dram/Mystery/Sci-fi & Fantasy<br>
 
 - Yakusoku no Neverland
 
