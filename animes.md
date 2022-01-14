@@ -205,6 +205,7 @@
 - Owari no Seraph
 - Charlotte
 - Death Note
+- Kimetsu no Yaiba: Demon Slayer
 - Shingeki no Kyojin (manga is finished)
 - Boku no Hero Academia
 - Noragami
@@ -218,7 +219,6 @@
 - Your Lie in April
 - Re:Zero
 - Tantei wa Mou, Shindeiru
-- Kimetsu no Yaiba: Demon Slayer
 - Takt Op. Destiny
 - Kaguya-sama wa Kokurasetai
 - Another
@@ -338,7 +338,7 @@
 ## 🍩 Counter
 
 - Anime Count: 47
-- Manga Count: 6
+- Manga Count: 8
 
 ### Types
 
