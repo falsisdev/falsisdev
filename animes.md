@@ -79,11 +79,11 @@
 - Kanojo, Okarishimasu
 > 1 Season - 12 Episodes - 2020 - Comedy/Ecchi<br>
 
-- Kimetsu no Yaiba: Demon Slayer
+- Kimetsu no Yaiba: Demon Slayer (Manga is finished)
 
 > 1 Season - 26 Episodes - 2019 - Dram/Action & Adventure<br>
 
-- Kimetsu no Yaiba: Movie
+- Kimetsu no Yaiba: Movie (Manga is finished)
 
 > Movie - 2020 - Action & Adventure/Dram/Science Fiction & Fantasy<br>
 
@@ -107,7 +107,7 @@
 
 > 2 Seasons - 25 Episodes - 2014 - Comedy/Sci-fi & Fantasy/Action & Adventure<br>
 
-- Orange
+- Orange: Mirai
 
 > 1 Season - 13 Episodes - 2016 - Dram<br>
 
@@ -201,11 +201,11 @@
 - Tensei Shitara Slime Datta Ken (manga is finished)
 - Code Geass: Hangyaku no Lelouch
 - Platinum End (manga is finished)
-- Orange
+- Orange: Mirai
 - Owari no Seraph
 - Charlotte
 - Death Note
-- Kimetsu no Yaiba: Demon Slayer
+- Kimetsu no Yaiba: Demon Slayer (manga is finished)
 - Shingeki no Kyojin (manga is finished)
 - Boku no Hero Academia
 - Noragami
