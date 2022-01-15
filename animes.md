@@ -119,6 +119,10 @@
 
 > 1 Season - 8 Episodes - 2020 - Comedy/Romantic/Ecchi/Hentai/Erotic<br>
 
+- Parasyte
+
+> 1 Season - 24 Episodes - 2014 - Dram/Action & Adventure/Sci-fi & Fantasy<br>
+
 - Platinum End (manga is finished)
 
 > 1 Season - 24 Episodes - 2021 - Dram/Mystery<br>
@@ -203,6 +207,7 @@
 - Platinum End (manga is finished)
 - Orange: Mirai
 - Owari no Seraph
+- Parasyte
 - Charlotte
 - Death Note
 - Kimetsu no Yaiba: Demon Slayer (manga is finished)
@@ -337,15 +342,15 @@
 
 ## 🍩 Counter
 
-- Anime Count: 47
+- Anime Count: 48
 - Manga Count: 8
 
 ### Types
 
-- Dram: 29
-- Action & Adventure: 26
+- Dram: 20
+- Action & Adventure: 27
+- Sci-fi & Fantasy: 22
 - Comedy: 19
-- Sci-fi & Fantasy: 21
 - Mystery/Crime: 15
 - Ecchi/Harem/Hentai: 11
 
