@@ -208,6 +208,7 @@
 
 - Tensei Shitara Slime Datta Ken (manga is finished)
 - Code Geass: Hangyaku no Lelouch
+- My Dress Up Darling
 - Platinum End (manga is finished)
 - Orange: Mirai
 - Owari no Seraph
