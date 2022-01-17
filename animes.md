@@ -95,6 +95,10 @@
 
 > 2 Seasons - 25 Episodes - 2017 - Comedy<br>
 
+- My Dress Up Darling
+
+> 1 Season - 12 Episodes - 2022 - Comedy/Dram/Ecchi<br>
+
 - No Game No Life
 
 > 1 Season - 18 Episodes - 2014 - Action & Adventure/Sci&fi & Fantasy/Comedy<br>
@@ -342,16 +346,16 @@
 
 ## 🍩 Counter
 
-- Anime Count: 48
+- Anime Count: 49
 - Manga Count: 8
 
 ### Types
 
-- Dram: 20
 - Action & Adventure: 27
 - Sci-fi & Fantasy: 22
-- Comedy: 19
+- Dram: 21
+- Comedy: 20
 - Mystery/Crime: 15
-- Ecchi/Harem/Hentai: 11
+- Ecchi/Harem/Hentai: 12
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
