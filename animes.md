@@ -247,6 +247,7 @@
 
 ## 🏵️ Favorite Characters
 
+- **🌼 Kitagawa Marin >> My Dress Up Darling**
 - C.C. >> Code Geass: Hangyaku no Lelouch
 - Rimuru Tempest >> Tensei Shitara Slime Datta Ken
 - Lelouch vi Brittania >> Code Geass: Hangyaku no Lelouch
