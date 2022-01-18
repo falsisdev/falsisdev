@@ -55,11 +55,16 @@
 
 > 1 Season - 37 Episodes - 2006 - Mystery/Crime<br>
 
+- Dr. Stone
+
+> 2 Seasons - 35 Episodes - 2019 - Action & Adventure/Sci-fi & Fantasy<br>
+
 - Goblin Slayer
 
 > 1 Season - 12 Episodes - 2018 - Dram/Action & Adventure/Sci-fi & Fantasy<br>
 
 - High School DxD
+
 > 4 Seasons - 48 Episodes - 2012 - Sci-fi & Fantasy/Comedy/Ecchi/Harem/Romantic comedy<br>
 
 - Ijiranaide, Nagatoro-san
@@ -67,6 +72,7 @@
 > 1 Season - 12 Episodes - 2021 - Comedy/Family<br>
 
 - Jimihen!!: Jimiko wo Kaechau Jun Isei Kouyuu!!
+
 > 1 Season - 8 Episodes - 2021 - Comedy/Romantic/Ecchi/Hentai/Erotic<br>
 
 - Jujutsu Kaisen
@@ -298,7 +304,6 @@
 - Date A Live
 - Deep Insanity: The Lost Child
 - Dororo
-- Dr. Stone
 - Enen no Shouboutai
 - Fairy Tail
 - Fate/Zero
@@ -348,13 +353,13 @@
 
 ## 🍩 Counter
 
-- Anime Count: 49
+- Anime Count: 50
 - Manga Count: 8
 
 ### Types
 
-- Action & Adventure: 27
-- Sci-fi & Fantasy: 22
+- Action & Adventure: 28
+- Sci-fi & Fantasy: 23
 - Dram: 21
 - Comedy: 20
 - Mystery/Crime: 15
