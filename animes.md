@@ -19,6 +19,10 @@
 
 > 1 Season - 24 Episodes - 2014 - Dram/Action & Adventure/Crime<br>
 
+- Akatsuki no Yona
+
+> 1 Season - 25 Episodes - 2014 - Dram/Comedy/Action & Adventure/Sci-fi & Fantasy<br>
+
 - Ansatsu Kyoushitsu
 
 > 2 Seasons - 47 Episodes - 2015 - Comedy/Action & Adventure/Sci-fi & Fantasy<br>
@@ -289,7 +293,6 @@
 
 - 86
 - A.I.C.O.: Incernation
-- Akatsuki no Yona
 - Amnesia
 - Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai
 - AO no Exorcist
@@ -353,15 +356,15 @@
 
 ## 🍩 Counter
 
-- Anime Count: 50
+- Anime Count: 51
 - Manga Count: 8
 
 ### Types
 
-- Action & Adventure: 28
-- Sci-fi & Fantasy: 23
-- Dram: 21
-- Comedy: 20
+- Action & Adventure: 29
+- Sci-fi & Fantasy: 24
+- Dram: 22
+- Comedy: 21
 - Mystery/Crime: 15
 - Ecchi/Harem/Hentai: 12
 
