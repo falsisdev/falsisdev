@@ -63,6 +63,10 @@
 
 > 2 Seasons - 35 Episodes - 2019 - Action & Adventure/Sci-fi & Fantasy<br>
 
+- Fairy Tail
+
+> 8 Seasons - 328 Episodes - 2009 - Comedy/Mystery/Action & Adventure/Sci-fi & Fantasy<br>
+
 - Goblin Slayer
 
 > 1 Season - 12 Episodes - 2018 - Dram/Action & Adventure/Sci-fi & Fantasy<br>
@@ -356,16 +360,16 @@
 
 ## 🍩 Counter
 
-- Anime Count: 51
+- Anime Count: 52
 - Manga Count: 8
 
 ### Types
 
-- Action & Adventure: 29
-- Sci-fi & Fantasy: 24
+- Action & Adventure: 30
+- Sci-fi & Fantasy: 25
 - Dram: 22
-- Comedy: 21
-- Mystery/Crime: 15
+- Comedy: 22
+- Mystery/Crime: 16
 - Ecchi/Harem/Hentai: 12
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
