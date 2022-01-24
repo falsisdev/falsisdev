@@ -153,6 +153,10 @@
 
 > 1 Season - 12 Episodes - 2021 - Dram/Action & Adventure/Science Fiction & Fantasy/Ecchi/Erotic/Hentai<br>
 
+- Shiki
+
+> 1 Season - 24 Episodes - 2010 - Mystery/Horror/Thriller/Science Fiction & Fantasy<br>
+
 - Shingeki no Kyojin (manga is finished)
 
 > 4 Seasons - 80 Episodes - 2013 - Dram/Action & Adventure/Science Fiction & Fantasy/Mystery<br>
@@ -360,16 +364,16 @@
 
 ## 🍩 Counter
 
-- Anime Count: 52
+- Anime Count: 53
 - Manga Count: 8
 
 ### Types
 
 - Action & Adventure: 30
-- Sci-fi & Fantasy: 25
+- Sci-fi & Fantasy: 26
 - Dram: 22
 - Comedy: 22
-- Mystery/Crime: 16
+- Mystery/Crime: 17
 - Ecchi/Harem/Hentai: 12
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
