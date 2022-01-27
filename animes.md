@@ -109,6 +109,10 @@
 
 > 2 Seasons - 25 Episodes - 2017 - Comedy<br>
 
+- Mirai Nikki
+
+> 1 Season - 26 Episodes - 2011 - Dram/Mystery/Action & Adventure<br>
+
 - My Dress Up Darling
 
 > 1 Season - 12 Episodes - 2022 - Comedy/Dram/Ecchi<br>
@@ -227,6 +231,7 @@
 - Tensei Shitara Slime Datta Ken (manga is finished)
 - Code Geass: Hangyaku no Lelouch
 - My Dress Up Darling
+- Mirai Nikki
 - Platinum End (manga is finished)
 - Orange: Mirai
 - Owari no Seraph
@@ -335,7 +340,6 @@
 - Kyoukai no Kanata
 - Maou-sama, Retry!
 - Meikyuu Black Company
-- Mirai Nikki
 - Mushoku Tensei: Isekai Ittara Honki Dasu
 - Nana
 - Nanatsu no Taizai
@@ -364,16 +368,16 @@
 
 ## 🍩 Counter
 
-- Anime Count: 53
+- Anime Count: 54
 - Manga Count: 8
 
 ### Types
 
-- Action & Adventure: 30
+- Action & Adventure: 31
 - Sci-fi & Fantasy: 26
-- Dram: 22
+- Dram: 23
 - Comedy: 22
-- Mystery/Crime: 17
+- Mystery/Crime: 18
 - Ecchi/Harem/Hentai: 12
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
