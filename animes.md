@@ -88,9 +88,11 @@
 > 1 Season - 24 Episodes - 2020 - Action & Adventure/Science Fiction & Fantasy/Mystery<br>
 
 - Kaguya-sama wa Kokurasetai
+
 > 2 Seasons - 24 Episodes - 2019 - Dram/Comedy/Romantic<br>
 
 - Kanojo, Okarishimasu
+
 > 1 Season - 12 Episodes - 2020 - Comedy/Ecchi<br>
 
 - Kimetsu no Yaiba: Demon Slayer (Manga is finished)
@@ -104,6 +106,10 @@
 - Kiss x Sis 
 
 > 1 Season - 13 Episodes - 2010 - Comedy/Ecchi/Harem<br>
+
+- Kiznaiver
+
+> 1 Season - 12 Episodes - 2016 - Dram/Sci-fi & Fantasy<br>
 
 - Kobayashi-San Chi no Maid Dragon
 
@@ -234,6 +240,7 @@
 - Mirai Nikki
 - Platinum End (manga is finished)
 - Orange: Mirai
+- Kiznaiver
 - Owari no Seraph
 - Parasyte
 - Charlotte
@@ -271,32 +278,27 @@
 
 ## 🏵️ Favorite Characters
 
-- **🌼 Kitagawa Marin >> My Dress Up Darling**
-- C.C. >> Code Geass: Hangyaku no Lelouch
-- Rimuru Tempest >> Tensei Shitara Slime Datta Ken
-- Lelouch vi Brittania >> Code Geass: Hangyaku no Lelouch
-- Mirai Kakehashi >> Platinum End
-- Yuichiro Hyakuya >> Owari no Seraph
-- Mikaela Hyakuya >> Owari no Seraph
-- Koneko >> High School DxD
-- Nao Tomori >> Charlotte
-- Sakurajima Mai >> Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
-- Nino Nakano >> 5-Toubun no Hanayome
-- Asuna Yuuki >> Sword Art Online
-- Sunomiya Sana >> Ijıranaide, Nagatoro-san
-- Violet Evergarden >> Violet Evergarden
-- Nagatoro-san >> Ijiranade, Nagatoro-san
-- Akame >> Akame ga Kill!
-- Misaki Mei >> Another
-- Izumi Akazawa >> Another
-- Mikasa Ackerman >> Shingeki no Kyojin
-- Esdeath >> Akame ga Kill!
-- Ichigo >> Darling in the FranXX
-- Nezuko Kamado >> Kimetsu no Yaiba: Demon Slayer
-- Zero Two >> Darling in the FranXX
-- Misa Misa >> Death Note
-- Light Yagami >> Death Note
-- Tanjirou Kamado >> Kimetsu no Yaiba: Demon Slayer
+- Kitagawa Marin (Sono Bisque Doll wa Koi wo Suru)
+- Rimuru Tempest (Tensei Shitara Slime Datta Ken)
+- Lelouch vi Brittannia (Code Geass: Hangyaku no Lelouch)
+- C.C. (Code Geass: Hangyaku no Lelouch)
+- Naho Takamiya (Orange)
+- Tanjirou Kamado (Kimetsu no Yaiba)
+- Yuichiro Hyakuya (Owari no Seraph)
+- Nao Tomori (Charlotte)
+- Subaru Natsuki (Re: Zero Kara Hajimeru Isekai Seikatsu)
+- Erza Scarlet (Fairy Tail)
+- Akame (Akame Ga Kill!)
+- Gray Fullbuster (Fairy Tail)
+- Esdeath (Akame Ga Kill!)
+- Light Yagami (Death Note)
+- Senku Ichigami (Dr. Stone)
+- Gojou Satarou (Jujutsu Kaisen)
+- Zero Two (Darling in the FranXX)
+- Todoroki Shouto (Boku no Hero Academia)
+- Akabane Karma (Ansatsu Kyoushitsu)
+- Ichigo (Darling in the FranXX)
+- Nino Nakano (5-Toubun no Hanayome)
 
 <img src="https://img.anime2you.de/2019/01/orange1.jpg">
 
@@ -368,14 +370,14 @@
 
 ## 🍩 Counter
 
-- Anime Count: 54
+- Anime Count: 55
 - Manga Count: 8
 
 ### Types
 
 - Action & Adventure: 31
-- Sci-fi & Fantasy: 26
-- Dram: 23
+- Sci-fi & Fantasy: 27
+- Dram: 24
 - Comedy: 22
 - Mystery/Crime: 18
 - Ecchi/Harem/Hentai: 12
