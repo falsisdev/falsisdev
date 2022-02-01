@@ -119,6 +119,10 @@
 
 > 1 Season - 26 Episodes - 2011 - Dram/Mystery/Action & Adventure<br>
 
+- Mushoku Tensei: Isekai Ittara Honki Dasu
+
+> 1 Season - 24 Episodes - 2021 - Ecchi/Action & Adventure/Sci-fi & Fantasy<br>
+
 - My Dress Up Darling
 
 > 1 Season - 12 Episodes - 2022 - Comedy/Dram/Ecchi<br>
@@ -238,6 +242,7 @@
 - Code Geass: Hangyaku no Lelouch
 - My Dress Up Darling
 - Mirai Nikki
+- Mushoku Tensei: Isekai Ittara Honki Dasu
 - Platinum End (manga is finished)
 - Orange: Mirai
 - Kiznaiver
@@ -342,7 +347,6 @@
 - Kyoukai no Kanata
 - Maou-sama, Retry!
 - Meikyuu Black Company
-- Mushoku Tensei: Isekai Ittara Honki Dasu
 - Nana
 - Nanatsu no Taizai
 - Naruto
@@ -370,16 +374,16 @@
 
 ## 🍩 Counter
 
-- Anime Count: 55
+- Anime Count: 56
 - Manga Count: 8
 
 ### Types
 
-- Action & Adventure: 31
-- Sci-fi & Fantasy: 27
+- Action & Adventure: 32
+- Sci-fi & Fantasy: 28
 - Dram: 24
 - Comedy: 22
 - Mystery/Crime: 18
-- Ecchi/Harem/Hentai: 12
+- Ecchi/Harem/Hentai: 13
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
