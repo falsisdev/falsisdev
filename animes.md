@@ -244,9 +244,9 @@
 
 - Tensei Shitara Slime Datta Ken (manga is finished)
 - Code Geass: Hangyaku no Lelouch
+- Mushoku Tensei: Isekai Ittara Honki Dasu (manga is finished)
 - My Dress Up Darling
 - Mirai Nikki
-- Mushoku Tensei: Isekai Ittara Honki Dasu (manga is finished)
 - Platinum End (manga is finished)
 - Orange: Mirai
 - Kiznaiver
