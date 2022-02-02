@@ -246,7 +246,7 @@
 - Code Geass: Hangyaku no Lelouch
 - My Dress Up Darling
 - Mirai Nikki
-- Mushoku Tensei: Isekai Ittara Honki Dasu
+- Mushoku Tensei: Isekai Ittara Honki Dasu (manga is finished)
 - Platinum End (manga is finished)
 - Orange: Mirai
 - Kiznaiver
@@ -378,7 +378,7 @@
 ## 🍩 Counter
 
 - Anime Count: 57
-- Manga Count: 8
+- Manga Count: 9
 
 ### Types
 
