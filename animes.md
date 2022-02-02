@@ -63,7 +63,7 @@
 
 > 2 Seasons - 35 Episodes - 2019 - Action & Adventure/Sci-fi & Fantasy<br>
 
-- Fairy Tail
+- Fairy Tail (manga is finished)
 
 > 8 Seasons - 328 Episodes - 2009 - Comedy/Mystery/Action & Adventure/Sci-fi & Fantasy<br>
 
@@ -119,7 +119,7 @@
 
 > 1 Season - 26 Episodes - 2011 - Dram/Mystery/Action & Adventure<br>
 
-- Mushoku Tensei: Isekai Ittara Honki Dasu
+- Mushoku Tensei: Isekai Ittara Honki Dasu (manga is finished)
 
 > 1 Season - 24 Episodes - 2021 - Ecchi/Action & Adventure/Sci-fi & Fantasy<br>
 
@@ -240,7 +240,7 @@
 📷 Image: Lelouch vi Brittania (Lelouch Lamperouage) - Code Geass: Hangyaku no Lelouch
 
 
-## 🧸 Best Animes
+## ☀️ Best Animes
 
 - Tensei Shitara Slime Datta Ken (manga is finished)
 - Code Geass: Hangyaku no Lelouch
