@@ -127,6 +127,10 @@
 
 > 1 Season - 12 Episodes - 2022 - Comedy/Dram/Ecchi<br>
 
+- Nanatsu no Taizai
+
+> 4 Seasons - 97 Episodes - 2014 - Ecchi/Action & Adventure/Sci-fi & Fantasy<br>
+
 - No Game No Life
 
 > 1 Season - 18 Episodes - 2014 - Action & Adventure/Sci&fi & Fantasy/Comedy<br>
@@ -348,7 +352,6 @@
 - Maou-sama, Retry!
 - Meikyuu Black Company
 - Nana
-- Nanatsu no Taizai
 - Naruto
 - Naruto: Shippuuden
 - One Punch Man
@@ -374,16 +377,16 @@
 
 ## 🍩 Counter
 
-- Anime Count: 56
+- Anime Count: 57
 - Manga Count: 8
 
 ### Types
 
-- Action & Adventure: 32
-- Sci-fi & Fantasy: 28
+- Action & Adventure: 33
+- Sci-fi & Fantasy: 29
 - Dram: 24
 - Comedy: 22
 - Mystery/Crime: 18
-- Ecchi/Harem/Hentai: 13
+- Ecchi/Harem/Hentai: 14
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
