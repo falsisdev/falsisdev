@@ -47,7 +47,7 @@
 
 > 2 Seasons - 48 Episodes - 2006 - Dram/Action & Adventure/Sci-fi & Fantasy<br>
 
-- Code Geass: Boukoku no Akito
+- Code Geass: Boukoku no Akito (5 Serial Movie)
 
 > Serial movie(5) - 2012 - Action & Adventure/Sci-fi & Fantasy<br>
 
@@ -243,14 +243,15 @@
 ## ☀️ Best Animes
 
 - Tensei Shitara Slime Datta Ken (manga is finished)
-- Code Geass: Hangyaku no Lelouch
 - Mushoku Tensei: Isekai Ittara Honki Dasu (manga is finished)
+- Code Geass: Hangyaku no Lelouch
 - My Dress Up Darling
 - Mirai Nikki
 - Platinum End (manga is finished)
 - Orange: Mirai
 - Kiznaiver
 - Owari no Seraph
+- Nanatsu no Taizai
 - Parasyte
 - Charlotte
 - Death Note
@@ -289,6 +290,7 @@
 
 - Kitagawa Marin (Sono Bisque Doll wa Koi wo Suru)
 - Rimuru Tempest (Tensei Shitara Slime Datta Ken)
+- Rudeus Greyrat (Mushoku Tensei: Isekai Ittara Honki Dasu)
 - Lelouch vi Brittannia (Code Geass: Hangyaku no Lelouch)
 - C.C. (Code Geass: Hangyaku no Lelouch)
 - Naho Takamiya (Orange)
@@ -377,7 +379,7 @@
 
 ## 🍩 Counter
 
-- Anime Count: 57
+- Anime Count: 61
 - Manga Count: 9
 
 ### Types
