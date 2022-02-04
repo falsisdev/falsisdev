@@ -247,8 +247,9 @@
 - Code Geass: Hangyaku no Lelouch
 - My Dress Up Darling
 - Mirai Nikki
-- Platinum End (manga is finished)
+- Fairy Tail
 - Orange: Mirai
+- Platinum End (manga is finished)
 - Kiznaiver
 - Owari no Seraph
 - Nanatsu no Taizai
