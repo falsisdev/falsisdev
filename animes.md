@@ -151,6 +151,10 @@
 
 > 2 Seasons - 24 Episodes - 2015 - Action & Adventure/Sci-fi & Fantasy/Dram<br>
 
+- Ousama Game
+
+> 1 Season - 12 Episodes - 2017 - Dram<br>
+
 - Overflow
 
 > 1 Season - 8 Episodes - 2020 - Comedy/Romantic/Ecchi/Hentai/Erotic<br>
@@ -247,7 +251,7 @@
 - Code Geass: Hangyaku no Lelouch
 - My Dress Up Darling
 - Mirai Nikki
-- Fairy Tail
+- Fairy Tail (manga is finished)
 - Orange: Mirai
 - Platinum End (manga is finished)
 - Kiznaiver
@@ -259,6 +263,7 @@
 - Kimetsu no Yaiba: Demon Slayer (manga is finished)
 - Shingeki no Kyojin (manga is finished)
 - Boku no Hero Academia
+- Ousama Game (manga is finished)
 - Noragami
 - Ansatsu Kyoushitsu
 - High School DxD
@@ -380,14 +385,14 @@
 
 ## 🍩 Counter
 
-- Anime Count: 61
-- Manga Count: 9
+- Anime Count: 62
+- Manga Count: 10
 
 ### Types
 
 - Action & Adventure: 33
 - Sci-fi & Fantasy: 29
-- Dram: 24
+- Dram: 25
 - Comedy: 22
 - Mystery/Crime: 18
 - Ecchi/Harem/Hentai: 14
