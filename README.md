@@ -3,9 +3,8 @@
 
 <a href="https://falsisdev.ga"><img src="https://lanyard-profile-readme.vercel.app/api/539843855567028227"></a>
 
-Visit [My Personal Website](https://falsisdev.ga/)!<br>
-📝 [To-Do](https://github.com/falsisdev/falsisdev/blob/main/todo.md)<br>
-📺 [Anime's](https://github.com/falsisdev/falsisdev/blob/main/animes.md)
+Visit [My Personal Website](https://falsisdev.repl.co/)!<br>
+📺 [Anime List](https://github.com/falsisdev/falsisdev/blob/main/animes.md)
 
 <a href="https://github.com/falsisdev"><img src="https://img.shields.io/github/followers/falsisdev?style=for-the-badge"></a>
 
