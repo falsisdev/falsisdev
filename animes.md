@@ -246,46 +246,55 @@
 
 ## ☀️ Best Animes
 
-- Tensei Shitara Slime Datta Ken (manga is finished)
-- Mushoku Tensei: Isekai Ittara Honki Dasu (manga is finished)
+- Tensei Shitara Slime Datta Ken
+- Mushoku Tensei: Isekai Ittara Honki Dasu
 - Code Geass: Hangyaku no Lelouch
-- My Dress Up Darling
+- Re: Zero Kara Hajimeru Isekai Seikatsu
+- Kimetsu no Yaiba
+- Sono Bisque Doll wa Koi wo Suru
+- Orange
+- Charlotte
+- Platinum End
+- Death Note
+- Shingeki no Kyojin
+- Sword Art Online
+- Boku no Hero Academia
 - Mirai Nikki
-- Fairy Tail (manga is finished)
-- Orange: Mirai
-- Platinum End (manga is finished)
-- Kiznaiver
-- Owari no Seraph
 - Nanatsu no Taizai
 - Parasyte
-- Charlotte
-- Death Note
-- Kimetsu no Yaiba: Demon Slayer (manga is finished)
-- Shingeki no Kyojin (manga is finished)
-- Boku no Hero Academia
-- Ousama Game (manga is finished)
-- Noragami
-- Ansatsu Kyoushitsu
-- High School DxD
-- Sword Art Online
-- Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
-- Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai ( Movie )
-- Akame ga Kill!
+- Fairy Tail
+- Shiki
 - Tokyo Revengers
-- Your Lie in April
-- Re:Zero
-- Tantei wa Mou, Shindeiru
-- Takt Op. Destiny
-- Kaguya-sama wa Kokurasetai
-- Another
-- Violet Evergarden
-- Ijiranaide, Nagatoro-san
+- Seishun Buta Yarō wa Bunny Girl Senpai no Yume o Minai
+- Kiznaiver
+- Akame Ga Kill!
 - Jujutsu Kaisen
-- 5-Toubun no Hanayome
+- Ansatsu Kyoushitsu
+- Redo of Healer
+- Noragami
+- Dr. Stone
+- Your Lie in April
+- Violet Evergarden
+- Shuumatsu no Harem
+- High School DxD
 - Yakusoku no Neverland
-- Kobayashi-San Chi no Maid Dragon
+- Shinmai Maou no Tastement
+- No game No life
 - Darling in the FranXX
+- Wonder Egg Priority
+- Another
+- Tantei wa mou, shindeiru
+- Noblesse
+- Kaguya-sama wa Kokurasetai
+- Ijiranaide, Nagatoro-san
+- Kanojo, Okarishimasu
+- Goblin Slayer
+- Banana Fish
+- 5-Toubun no Hanayome
+- Kobayashi-san chi no Maid Dragon
+- Kiss X Sis
 - 91 Days
+- Takt op. Destiny
 
 <img src="https://cdn.wallpapersafari.com/30/89/gQmcBk.jpg">
 
