@@ -1,8 +1,8 @@
 # My Anime List
 
-<img src="https://i1.wp.com/elpalomitron.com/wp-content/uploads/2021/08/Critica-Segunda-Temporada-That-Time-I-Got-Reincarnated-As-A-Slime-ElPalomitron7.jpg?resize=600%2C300&ssl=1">
+<img src="https://1.bp.blogspot.com/-OtgUkRqcOCQ/YVHN9LGJTBI/AAAAAAAAC1k/T4O8i4Sq1C8OCrCoKyE-TEMi_UjAIKXOQCNcBGAsYHQ/s700/Luminous%2BValentine%2BTensei%2BShitara%2BSlime%2BDatta%2BKen%2B2.jpg">
 
-📷 Image: Rimuru Tempest - Tensei Shitara Slime Datta Ken
+📷 Image: Luminous Valentine - Tensei Shitara Slime Datta Ken
 
 
 ## 🌸 Watched<br>
@@ -239,9 +239,9 @@
 
 > 1 Season - 22 Episodes - 2014 - Dram/Musical/Comedy<br>
 
-<img src="https://narutopark.com/wp-content/uploads/2021/02/4FBo5yQ-code-geass-lelouch-wallpaper-1024x640.jpg">
+<img src="https://i.pinimg.com/originals/b1/f9/30/b1f9302ad32e281c26d85fc64495d680.jpg">
 
-📷 Image: Lelouch vi Brittania (Lelouch Lamperouage) - Code Geass: Hangyaku no Lelouch
+📷 Image: Roxy - Mushoku Tensei: Isekai Ittara Honki Dasu
 
 
 ## ☀️ Best Animes
@@ -287,9 +287,9 @@
 - Darling in the FranXX
 - 91 Days
 
-<img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/12/Saki-in-costume.jpg">
+<img src="https://cdn.wallpapersafari.com/30/89/gQmcBk.jpg">
 
-📷 Image: Saki Hanakago - Platinum End
+📷 Image: Lelouch vi Brittania(left) and C.C.(right) - Code Geass: Hangyaku no Lelouch
 
 
 ## 🏵️ Favorite Characters
