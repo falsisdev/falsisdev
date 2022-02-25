@@ -103,6 +103,10 @@
 
 > Movie - 2020 - Action & Adventure/Dram/Science Fiction & Fantasy<br>
 
+- Kimi no na wa.
+
+> Movie - 2016 - Dram/Romance<br>
+
 - Kiss x Sis 
 
 > 1 Season - 13 Episodes - 2010 - Comedy/Ecchi/Harem<br>
@@ -360,8 +364,7 @@
 - Jojo no kimyou na bouken
 - Kaichou wa Maid-sama
 - Kakegurui
-- Kill la Kill
-- Kimi no na wa
+- Kill la kill
 - Koe no Katachi
 - Komi-san wa, Komyushou
 - Kotonoha no Niwa
@@ -394,14 +397,14 @@
 
 ## 🍩 Counter
 
-- Anime Count: 62
+- Anime Count: 63
 - Manga Count: 10
 
 ### Types
 
 - Action & Adventure: 33
 - Sci-fi & Fantasy: 29
-- Dram: 25
+- Dram: 26
 - Comedy: 22
 - Mystery/Crime: 18
 - Ecchi/Harem/Hentai: 14
