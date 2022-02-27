@@ -67,6 +67,10 @@
 
 > 8 Seasons - 328 Episodes - 2009 - Comedy/Mystery/Action & Adventure/Sci-fi & Fantasy<br>
 
+- Fullmetal Alchemist: Brotherhood
+
+> 1 Season - 72 Episodes - 2009 - Dram/Mystery/Action & Adventure/Sci-fi & Fantasy<br>
+
 - Goblin Slayer
 
 > 1 Season - 12 Episodes - 2018 - Dram/Action & Adventure/Sci-fi & Fantasy<br>
@@ -353,7 +357,6 @@
 - Deep Insanity: The Lost Child
 - Dororo
 - Enen no Shouboutai
-- Fairy Tail
 - Fate/Zero
 - Fuuka
 - Given
@@ -388,7 +391,6 @@
 - Toradora!
 - Vanitas no Carte
 - Vivy: Flourite Eye's Song
-- Wonder Egg Priority
 - Yuri!!! on Ice
 
 <img src="https://diziizle.blog/wp-content/uploads/2020/10/owari-no-seraph-1024x576.jpg">
@@ -397,16 +399,16 @@
 
 ## 🍩 Counter
 
-- Anime Count: 63
-- Manga Count: 10
+- Anime Count: 64
+- Manga Count: 11
 
 ### Types
 
-- Action & Adventure: 33
-- Sci-fi & Fantasy: 29
-- Dram: 26
+- Action & Adventure: 34
+- Sci-fi & Fantasy: 30
+- Dram: 27
 - Comedy: 22
-- Mystery/Crime: 18
+- Mystery/Crime: 19
 - Ecchi/Harem/Hentai: 14
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
