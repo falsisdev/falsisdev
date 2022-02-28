@@ -256,6 +256,7 @@
 
 - Tensei Shitara Slime Datta Ken
 - Mushoku Tensei: Isekai Ittara Honki Dasu
+- Fullmetal Alchemist: Brotherhood
 - Code Geass: Hangyaku no Lelouch
 - Re: Zero Kara Hajimeru Isekai Seikatsu
 - Kimetsu no Yaiba
