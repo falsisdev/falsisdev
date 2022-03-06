@@ -69,7 +69,7 @@
 
 - Fullmetal Alchemist: Brotherhood
 
-> 1 Season - 72 Episodes - 2009 - Dram/Mystery/Action & Adventure/Sci-fi & Fantasy<br>
+> 1 Season - 64 Episodes - 2009 - Dram/Mystery/Action & Adventure/Sci-fi & Fantasy<br>
 
 - Goblin Slayer
 
@@ -312,28 +312,36 @@
 
 ## 🏵️ Favorite Characters
 
-- Kitagawa Marin (Sono Bisque Doll wa Koi wo Suru)
 - Rimuru Tempest (Tensei Shitara Slime Datta Ken)
-- Rudeus Greyrat (Mushoku Tensei: Isekai Ittara Honki Dasu)
 - Lelouch vi Brittannia (Code Geass: Hangyaku no Lelouch)
-- C.C. (Code Geass: Hangyaku no Lelouch)
-- Naho Takamiya (Orange)
-- Tanjirou Kamado (Kimetsu no Yaiba)
+- Rudeus Greyrat (Mushoku Tensei: Isekai Ittara Honki Dasu)
+- Edward Elric (Fullmetal Alchemist: Brotherhood)
+- Kirito (Sword Art Online)
+- Echidna (Re: Zero Kara Hajimeru Isekai Seikatsu)
+- Yuno Gasai (Mirai Nikki)
+- Yagami Light (Death Note)
+- Eren Jeager (Shingeki no Kyojin)
+- Manjiro Sano (Tokyo Revengers)
+- Kitagawa Marin (Sono Bisque Doll wa Koi wo Suru)
+- Mai Sakurajima (Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai)
+- Mikaela Hyakuya (Owari no Seraph)
 - Yuichiro Hyakuya (Owari no Seraph)
-- Nao Tomori (Charlotte)
-- Subaru Natsuki (Re: Zero Kara Hajimeru Isekai Seikatsu)
+- Mirai Kakehashi (Platinum End)
+- Escanor (Nanatsu no Taizai)
+- Izumi Shinichi (Kiseijuu: Sei no Kakuritsu)
+- Shin Hyuuga (Code Geass: Boukoku no Akito)
+- Akito Hyuuga (Code Geass: Boukoku no Akito)
+- Sora (No Game No Life)
+- Mitsuha Miyamizu (Kimi no na wa.)
+- Yoriichi Tsugikuni (Kimetsu no Yaiba)
 - Erza Scarlet (Fairy Tail)
-- Akame (Akame Ga Kill!)
-- Gray Fullbuster (Fairy Tail)
-- Esdeath (Akame Ga Kill!)
-- Light Yagami (Death Note)
-- Senku Ichigami (Dr. Stone)
-- Gojou Satarou (Jujutsu Kaisen)
-- Zero Two (Darling in the FranXX)
-- Todoroki Shouto (Boku no Hero Academia)
+- Naho Takamiya (Orange)
+- Senkuu Ichigami (Dr. Stone)
+- Yuu Otasaka (Charlotte)
 - Akabane Karma (Ansatsu Kyoushitsu)
-- Ichigo (Darling in the FranXX)
+- Akame (Akame ga Kill!)
 - Nino Nakano (5-Toubun no Hanayome)
+
 
 <img src="https://img.anime2you.de/2019/01/orange1.jpg">
 
@@ -401,7 +409,7 @@
 ## 🍩 Counter
 
 - Anime Count: 64
-- Manga Count: 11
+- Manga Count: 12
 
 ### Types
 
