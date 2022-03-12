@@ -39,6 +39,10 @@
 
 > 5 Seasons - 113 Episodes - 2016 - Action & Adventure/Comedy/Sci-fi & Fantasy<br>
 
+- Bungou Stray Dogs
+
+> 1 Season - 36 Episodes - 2016 - Dram/Crime/Mystery/Comedy<br>
+
 - Charlotte
 
 > 1 season - 13 Episodes - 2013 - Dram/Fantasy<br>
@@ -259,6 +263,7 @@
 - Fullmetal Alchemist: Brotherhood
 - Code Geass: Hangyaku no Lelouch
 - Re: Zero Kara Hajimeru Isekai Seikatsu
+- Bungou Stray Dogs
 - Kimetsu no Yaiba
 - Sono Bisque Doll wa Koi wo Suru
 - Orange
@@ -359,7 +364,6 @@
 - Blue Period
 - Boku dake ga Inai Machi
 - Boruto: Naruto Next Generasions
-- Bungou Stray Dogs
 - Chuunibyou demo Koi ga Shitai!
 - Darwin's Game
 - Date A Live
@@ -408,16 +412,16 @@
 
 ## 🍩 Counter
 
-- Anime Count: 64
+- Anime Count: 65
 - Manga Count: 12
 
 ### Types
 
 - Action & Adventure: 34
 - Sci-fi & Fantasy: 30
-- Dram: 27
-- Comedy: 22
-- Mystery/Crime: 19
+- Dram: 28
+- Comedy: 23
+- Mystery/Crime: 20
 - Ecchi/Harem/Hentai: 14
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
