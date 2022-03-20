@@ -55,6 +55,10 @@
 
 > Serial movie(5) - 2012 - Action & Adventure/Sci-fi & Fantasy<br>
 
+- Classroom of The Elite
+
+> 1 Season - 12 Episodes - 2017 - Dram/Comedy<br>
+
 - Darling in the FranXX
 
 > 1 Season - 24 Episodes - 2018 - Dram/Action & Adventure/Science Fiction & Fantasy/Harem<br>
@@ -105,7 +109,7 @@
 
 - Kimetsu no Yaiba: Demon Slayer (Manga is finished)
 
-> 1 Season - 26 Episodes - 2019 - Dram/Action & Adventure<br>
+> 2 Season - 38 Episodes - 2019 - Dram/Action & Adventure<br>
 
 - Kimetsu no Yaiba: Movie (Manga is finished)
 
@@ -193,7 +197,7 @@
 
 - Shingeki no Kyojin (manga is finished)
 
-> 4 Seasons - 80 Episodes - 2013 - Dram/Action & Adventure/Science Fiction & Fantasy/Mystery<br>
+> 4 Seasons - 96 Episodes - 2013 - Dram/Action & Adventure/Science Fiction & Fantasy/Mystery<br>
 
 - Shinmai Maou no Testament
 
@@ -412,15 +416,15 @@
 
 ## 🍩 Counter
 
-- Anime Count: 65
+- Anime Count: 66
 - Manga Count: 12
 
 ### Types
 
 - Action & Adventure: 34
 - Sci-fi & Fantasy: 30
-- Dram: 28
-- Comedy: 23
+- Dram: 29
+- Comedy: 24
 - Mystery/Crime: 20
 - Ecchi/Harem/Hentai: 14
 
