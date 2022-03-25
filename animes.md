@@ -239,6 +239,10 @@
 
 > 1 Season - 24 Episodes - 2021 - Dram/Action & Adventure<br>
 
+- Vinland Saga
+
+> 1 Season - 24 Episodes - 2019 - Dram/Action & Adventure<br>
+
 - Violet Evergarden
 
 > 1 Season - 13 Episodes - 2018 - Dram/Sci-Fi & Fantasy<br>
@@ -270,7 +274,7 @@
 - Re: Zero Kara Hajimeru Isekai Seikatsu
 - Bungou Stray Dogs
 - Kimetsu no Yaiba
-- Sono Bisque Doll wa Koi wo Suru
+- Vinland Saga
 - Orange
 - Charlotte
 - Platinum End
@@ -293,6 +297,7 @@
 - Noragami
 - Dr. Stone
 - Your Lie in April
+- Sono Bisque Doll wa Koi wo Suru
 - Violet Evergarden
 - Shuumatsu no Harem
 - High School DxD
@@ -325,6 +330,7 @@
 - Rimuru Tempest (Tensei Shitara Slime Datta Ken)
 - Lelouch vi Brittannia (Code Geass: Hangyaku no Lelouch)
 - Rudeus Greyrat (Mushoku Tensei: Isekai Ittara Honki Dasu)
+- Ayonokoji Kiyotaka (Clasroom of The Elite)
 - Edward Elric (Fullmetal Alchemist: Brotherhood)
 - Kirito (Sword Art Online)
 - Echidna (Re: Zero Kara Hajimeru Isekai Seikatsu)
@@ -417,14 +423,14 @@
 
 ## 🍩 Counter
 
-- Anime Count: 66
+- Anime Count: 67
 - Manga Count: 12
 
 ### Types
 
-- Action & Adventure: 34
+- Action & Adventure: 35
 - Sci-fi & Fantasy: 30
-- Dram: 29
+- Dram: 30
 - Comedy: 24
 - Mystery/Crime: 20
 - Ecchi/Harem/Hentai: 14
