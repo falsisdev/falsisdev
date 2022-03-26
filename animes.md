@@ -71,11 +71,15 @@
 
 > 2 Seasons - 35 Episodes - 2019 - Action & Adventure/Sci-fi & Fantasy<br>
 
+- Domestic na Kanojo
+
+> 1 Season - 12 Episodes - 2019 - Dram/Romance/Ecchi<br>
+
 - Fairy Tail (manga is finished)
 
 > 8 Seasons - 328 Episodes - 2009 - Comedy/Mystery/Action & Adventure/Sci-fi & Fantasy<br>
 
-- Fullmetal Alchemist: Brotherhood
+- Fullmetal Alchemist: Brotherhood (manga is finished)
 
 > 1 Season - 64 Episodes - 2009 - Dram/Mystery/Action & Adventure/Sci-fi & Fantasy<br>
 
@@ -115,7 +119,7 @@
 
 > Movie - 2020 - Action & Adventure/Dram/Science Fiction & Fantasy<br>
 
-- Kimi no na wa.
+- Kimi no na wa. (manga is finished)
 
 > Movie - 2016 - Dram/Romance<br>
 
@@ -167,7 +171,7 @@
 
 > 2 Seasons - 24 Episodes - 2015 - Action & Adventure/Sci-fi & Fantasy/Dram<br>
 
-- Ousama Game
+- Ousama Game (manga is finished)
 
 > 1 Season - 12 Episodes - 2017 - Dram<br>
 
@@ -227,7 +231,7 @@
 
 > 1 Season - 24 Episodes - 2021 - Dram/Mystery<br>
 
-- Tensei Shitara Slime Datta Ken
+- Tensei Shitara Slime Datta Ken (manga is finished)
 
 > 2 Seasons - 48 Episodes - 2018- Action & Adventure/Comedy<br>
 
@@ -272,17 +276,18 @@
 - Fullmetal Alchemist: Brotherhood
 - Code Geass: Hangyaku no Lelouch
 - Re: Zero Kara Hajimeru Isekai Seikatsu
-- Bungou Stray Dogs
+- Mirai Nikki
 - Kimetsu no Yaiba
+- Bungou Stray Dogs
+- Domestic na Kanojo
 - Vinland Saga
 - Orange
 - Charlotte
 - Platinum End
 - Death Note
-- Shingeki no Kyojin
 - Sword Art Online
 - Boku no Hero Academia
-- Mirai Nikki
+- Shingeki no Kyojin
 - Nanatsu no Taizai
 - Parasyte
 - Fairy Tail
@@ -423,16 +428,16 @@
 
 ## 🍩 Counter
 
-- Anime Count: 67
+- Anime Count: 68
 - Manga Count: 12
 
 ### Types
 
 - Action & Adventure: 35
+- Dram: 31
 - Sci-fi & Fantasy: 30
-- Dram: 30
 - Comedy: 24
 - Mystery/Crime: 20
-- Ecchi/Harem/Hentai: 14
+- Ecchi/Harem/Hentai: 15
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
