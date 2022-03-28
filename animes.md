@@ -63,6 +63,10 @@
 
 > 1 Season - 24 Episodes - 2018 - Dram/Action & Adventure/Science Fiction & Fantasy/Harem<br>
 
+- Deadman Wonderland
+
+> 1 Season - 12 Episodes - 2011 - Action & Adventure/Sci-fi & Fantasy<br>
+
 - Death Note
 
 > 1 Season - 37 Episodes - 2006 - Mystery/Crime<br>
@@ -278,6 +282,7 @@
 - Re: Zero Kara Hajimeru Isekai Seikatsu
 - Mirai Nikki
 - Kimetsu no Yaiba
+- Deadman Wonderland
 - Bungou Stray Dogs
 - Domestic na Kanojo
 - Vinland Saga
@@ -428,14 +433,14 @@
 
 ## 🍩 Counter
 
-- Anime Count: 68
+- Anime Count: 69
 - Manga Count: 12
 
 ### Types
 
-- Action & Adventure: 35
+- Action & Adventure: 36
 - Dram: 31
-- Sci-fi & Fantasy: 30
+- Sci-fi & Fantasy: 31
 - Comedy: 24
 - Mystery/Crime: 20
 - Ecchi/Harem/Hentai: 15
