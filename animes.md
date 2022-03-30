@@ -1,11 +1,8 @@
-# My Anime List
+# Anime List
 
-<img src="https://1.bp.blogspot.com/-OtgUkRqcOCQ/YVHN9LGJTBI/AAAAAAAAC1k/T4O8i4Sq1C8OCrCoKyE-TEMi_UjAIKXOQCNcBGAsYHQ/s700/Luminous%2BValentine%2BTensei%2BShitara%2BSlime%2BDatta%2BKen%2B2.jpg">
+My List of **Animes I Watched**
 
-📷 Image: Luminous Valentine - Tensei Shitara Slime Datta Ken
-
-
-## 🌸 Watched<br>
+## List of the Animes
 
 - 5-Toubun no Hanayome
 
@@ -23,13 +20,13 @@
 
 > 1 Season - 25 Episodes - 2014 - Dram/Comedy/Action & Adventure/Sci-fi & Fantasy<br>
 
-- Ansatsu Kyoushitsu
-
-> 2 Seasons - 47 Episodes - 2015 - Comedy/Action & Adventure/Sci-fi & Fantasy<br>
-
 - Another
 
 > 1 Season - 13 Episodes - 2012 - Dram/Action & Adventure/Mystery<br>
+
+- Ansatsu Kyoushitsu
+
+> 2 Seasons - 47 Episodes - 2015 - Comedy/Action & Adventure/Sci-fi & Fantasy<br>
 
 - Banana Fish
 
@@ -47,17 +44,17 @@
 
 > 1 season - 13 Episodes - 2013 - Dram/Fantasy<br>
 
-- Code Geass: Hangyaku no Lelouch
+- Classroom of The Elite
 
-> 2 Seasons - 48 Episodes - 2006 - Dram/Action & Adventure/Sci-fi & Fantasy<br>
+> 1 Season - 12 Episodes - 2017 - Dram/Comedy<br>
 
 - Code Geass: Boukoku no Akito (5 Serial Movie)
 
 > Serial movie(5) - 2012 - Action & Adventure/Sci-fi & Fantasy<br>
 
-- Classroom of The Elite
+- Code Geass: Hangyaku no Lelouch
 
-> 1 Season - 12 Episodes - 2017 - Dram/Comedy<br>
+> 2 Seasons - 48 Episodes - 2006 - Dram/Action & Adventure/Sci-fi & Fantasy<br>
 
 - Darling in the FranXX
 
@@ -71,13 +68,13 @@
 
 > 1 Season - 37 Episodes - 2006 - Mystery/Crime<br>
 
-- Dr. Stone
-
-> 2 Seasons - 35 Episodes - 2019 - Action & Adventure/Sci-fi & Fantasy<br>
-
 - Domestic na Kanojo
 
 > 1 Season - 12 Episodes - 2019 - Dram/Romance/Ecchi<br>
+
+- Dr. Stone
+
+> 2 Seasons - 35 Episodes - 2019 - Action & Adventure/Sci-fi & Fantasy<br>
 
 - Fairy Tail (manga is finished)
 
@@ -115,17 +112,17 @@
 
 > 1 Season - 12 Episodes - 2020 - Comedy/Ecchi<br>
 
-- Kimetsu no Yaiba: Demon Slayer (Manga is finished)
+- Kimetsu no Yaiba (Manga is finished)
 
 > 2 Season - 38 Episodes - 2019 - Dram/Action & Adventure<br>
 
-- Kimetsu no Yaiba: Movie (Manga is finished)
+- Kimetsu no Yaiba: Mugen Train (Manga is finished)
 
 > Movie - 2020 - Action & Adventure/Dram/Science Fiction & Fantasy<br>
 
 - Kimi no na wa. (manga is finished)
 
-> Movie - 2016 - Dram/Romance<br>
+> Movie - 2016 - Dram/Romantic<br>
 
 - Kiss x Sis 
 
@@ -191,13 +188,21 @@
 
 > 1 Season - 24 Episodes - 2021 - Dram/Mystery<br>
 
-- Re:Zero
+- Re: Zero Kara Hajimeru Isekai Seikatsu
 
 > 2 Seasons - 50 Episodes - 2016 - Dram/Comedy/Action & Adventure/Sci-fi & Fantasy<br>
 
 - Redo of Healer
 
 > 1 Season - 12 Episodes - 2021 - Dram/Action & Adventure/Science Fiction & Fantasy/Ecchi/Erotic/Hentai<br>
+
+- Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+
+> 1 Season - 13 Episodes - 2018 - Comedy/Mystery/Harem<br>
+
+- Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
+
+> Movie - 2019 - Heavy Drama/Mystery/Romance<br>
 
 - Shiki
 
@@ -214,14 +219,6 @@
 - Shuumatsu no Harem
 
 > 1 Season - 12 Episodes - 2021 - Dram/Sci-fi & Fantasy/Mystery/Harem/Ecchi<br>
-
-- Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
-
-> 1 Season - 13 Episodes - 2018 - Comedy/Mystery/Harem<br>
-
-- Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai: Movie
-
-> Movie - 2019 - Heavy Drama/Mystery/Romance Movie
 
 - Sword Art Online
 
@@ -272,7 +269,7 @@
 📷 Image: Roxy - Mushoku Tensei: Isekai Ittara Honki Dasu
 
 
-## ☀️ Best Animes
+## My Best Animes
 
 - Tensei Shitara Slime Datta Ken
 - Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -335,7 +332,7 @@
 📷 Image: Lelouch vi Brittania(left) and C.C.(right) - Code Geass: Hangyaku no Lelouch
 
 
-## 🏵️ Favorite Characters
+## My Favorite Anime & Manga Characters
 
 - Rimuru Tempest (Tensei Shitara Slime Datta Ken)
 - Lelouch vi Brittannia (Code Geass: Hangyaku no Lelouch)
@@ -368,75 +365,12 @@
 - Akame (Akame ga Kill!)
 - Nino Nakano (5-Toubun no Hanayome)
 
-
-<img src="https://img.anime2you.de/2019/01/orange1.jpg">
-
-📷 Image - Kakeru Naruse(left) and Naho Takamiya(right) - Orange: Mirai
-
-## 🎯 Watching Targets
-
-- 86
-- A.I.C.O.: Incernation
-- Amnesia
-- Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai
-- AO no Exorcist
-- Beastars
-- Black Clover
-- Blue Period
-- Boku dake ga Inai Machi
-- Boruto: Naruto Next Generasions
-- Chuunibyou demo Koi ga Shitai!
-- Darwin's Game
-- Date A Live
-- Deep Insanity: The Lost Child
-- Dororo
-- Enen no Shouboutai
-- Fate/Zero
-- Fuuka
-- Given
-- Haikyuu!
-- Himouto! Umaru-chan
-- Hunter x Hunter
-- Jahy-sama wa Kujikenai!
-- Jojo no kimyou na bouken
-- Kaichou wa Maid-sama
-- Kakegurui
-- Kill la kill
-- Koe no Katachi
-- Komi-san wa, Komyushou
-- Kotonoha no Niwa
-- Kyoukai no Kanata
-- Maou-sama, Retry!
-- Meikyuu Black Company
-- Nana
-- Naruto
-- Naruto: Shippuuden
-- One Punch Man
-- SCARLET NEXUS
-- Saiki Kusuo no Ψ-nan
-- School Days
-- Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru
-- Shingeki no Bahamut: Genesis
-- Steins;Gate
-- Steins;Gate Movie: Fuka Ryouiki no Déjà vu
-- Tate no Yuusha no Nariagari
-- Tenki no ko
-- Tokyo Ghoul
-- Toradora!
-- Vanitas no Carte
-- Vivy: Flourite Eye's Song
-- Yuri!!! on Ice
-
-<img src="https://diziizle.blog/wp-content/uploads/2020/10/owari-no-seraph-1024x576.jpg">
-
-📷 Image - Mikaela Hyakuya(left) and Yuichiro Hyakuya(right) - Owari no Seraph
-
-## 🍩 Counter
+## Counter of the Animes & Mangas
 
 - Anime Count: 69
 - Manga Count: 12
 
-### Types
+### Types of the Animes
 
 - Action & Adventure: 36
 - Dram: 31
