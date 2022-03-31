@@ -28,6 +28,10 @@ My List of **Animes I Watched**
 
 > 2 Seasons - 47 Episodes - 2015 - Comedy/Action & Adventure/Sci-fi & Fantasy<br>
 
+- Ao no Exorcist
+
+> 2 Arasına - 37 Episodes - 2011 - Dram/Comedy/Sci-fi & Fantasy<br>
+
 - Banana Fish
 
 > 1 Season - 24 Episodes - 2018 - Dram/Mystery/Action & Adventure<br>
@@ -279,16 +283,17 @@ My List of **Animes I Watched**
 - Re: Zero Kara Hajimeru Isekai Seikatsu
 - Mirai Nikki
 - Kimetsu no Yaiba
+- Death Note
 - Deadman Wonderland
 - Bungou Stray Dogs
-- Domestic na Kanojo
+- Ao no Exorcist
 - Vinland Saga
 - Orange
 - Charlotte
 - Platinum End
-- Death Note
 - Sword Art Online
 - Boku no Hero Academia
+- Domestic na Kanojo
 - Shingeki no Kyojin
 - Nanatsu no Taizai
 - Parasyte
@@ -367,15 +372,15 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 69
+- Anime Count: 70
 - Manga Count: 12
 
 ### Types of the Animes
 
 - Action & Adventure: 36
-- Dram: 31
-- Sci-fi & Fantasy: 31
-- Comedy: 24
+- Dram: 32
+- Sci-fi & Fantasy: 32
+- Comedy: 25
 - Mystery/Crime: 20
 - Ecchi/Harem/Hentai: 15
 
