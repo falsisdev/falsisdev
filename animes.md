@@ -284,6 +284,7 @@ My List of **Animes I Watched**
 - Mirai Nikki
 - Kimetsu no Yaiba
 - Death Note
+- Owari no Seraph
 - Deadman Wonderland
 - Bungou Stray Dogs
 - Ao no Exorcist
@@ -305,9 +306,12 @@ My List of **Animes I Watched**
 - Akame Ga Kill!
 - Jujutsu Kaisen
 - Ansatsu Kyoushitsu
+- Ousama Game: The Animation
 - Redo of Healer
 - Noragami
 - Dr. Stone
+- Another
+- No game No life
 - Your Lie in April
 - Sono Bisque Doll wa Koi wo Suru
 - Violet Evergarden
@@ -315,21 +319,19 @@ My List of **Animes I Watched**
 - High School DxD
 - Yakusoku no Neverland
 - Shinmai Maou no Tastement
-- No game No life
 - Darling in the FranXX
 - Wonder Egg Priority
-- Another
 - Tantei wa mou, shindeiru
 - Noblesse
 - Kaguya-sama wa Kokurasetai
 - Ijiranaide, Nagatoro-san
 - Kanojo, Okarishimasu
+- 91 Days
 - Goblin Slayer
 - Banana Fish
 - 5-Toubun no Hanayome
 - Kobayashi-san chi no Maid Dragon
 - Kiss X Sis
-- 91 Days
 - Takt op. Destiny
 
 <img src="https://cdn.wallpapersafari.com/30/89/gQmcBk.jpg">
