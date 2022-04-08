@@ -345,8 +345,8 @@ My List of **Animes I Watched**
 
 ## My Favorite Anime & Manga Characters
 
+- Lelouch vi Brittania (Code Geass: Hangyaku no Lelouch)
 - Rimuru Tempest (Tensei Shitara Slime Datta Ken)
-- Lelouch vi Brittannia (Code Geass: Hangyaku no Lelouch)
 - Rudeus Greyrat (Mushoku Tensei: Isekai Ittara Honki Dasu)
 - Ayonokoji Kiyotaka (Clasroom of The Elite)
 - Edward Elric (Fullmetal Alchemist: Brotherhood)
