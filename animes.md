@@ -56,6 +56,10 @@ My List of **Animes I Watched**
 
 > Serial movie(5) - 2012 - Action & Adventure/Sci-fi & Fantasy<br>
 
+- Code Geass: Fukkatsu no Lelouch
+
+> Movie - 2019 - Action & Adventure/Sci-fi & Fantasy<br>
+
 - Code Geass: Hangyaku no Lelouch
 
 > 2 Seasons - 48 Episodes - 2006 - Dram/Action & Adventure/Sci-fi & Fantasy<br>
@@ -277,9 +281,9 @@ My List of **Animes I Watched**
 
 - Tensei Shitara Slime Datta Ken
 - Mushoku Tensei: Isekai Ittara Honki Dasu
+- Code Geass: Hangyaku no Lelouch
 - Classroom of The Elite
 - Fullmetal Alchemist: Brotherhood
-- Code Geass: Hangyaku no Lelouch
 - Re: Zero Kara Hajimeru Isekai Seikatsu
 - Mirai Nikki
 - Kimetsu no Yaiba
@@ -374,14 +378,14 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 70
-- Manga Count: 12
+- Anime Count: 71
+- Manga Count: 13
 
 ### Types of the Animes
 
-- Action & Adventure: 36
+- Action & Adventure: 37
+- Sci-fi & Fantasy: 33
 - Dram: 32
-- Sci-fi & Fantasy: 32
 - Comedy: 25
 - Mystery/Crime: 20
 - Ecchi/Harem/Hentai: 15
