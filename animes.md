@@ -298,6 +298,8 @@ My List of **Animes I Watched**
 - Platinum End
 - Sword Art Online
 - Boku no Hero Academia
+- Another
+- Kaguya-sama wa Kokurasetai
 - Domestic na Kanojo
 - Shingeki no Kyojin
 - Nanatsu no Taizai
@@ -314,7 +316,6 @@ My List of **Animes I Watched**
 - Redo of Healer
 - Noragami
 - Dr. Stone
-- Another
 - No game No life
 - Your Lie in April
 - Sono Bisque Doll wa Koi wo Suru
@@ -327,7 +328,6 @@ My List of **Animes I Watched**
 - Wonder Egg Priority
 - Tantei wa mou, shindeiru
 - Noblesse
-- Kaguya-sama wa Kokurasetai
 - Ijiranaide, Nagatoro-san
 - Kanojo, Okarishimasu
 - 91 Days
