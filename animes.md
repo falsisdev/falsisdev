@@ -144,6 +144,10 @@ My List of **Animes I Watched**
 
 > 2 Seasons - 25 Episodes - 2017 - Comedy<br>
 
+- Koroshi Ai
+
+> 1 Season - 12 Episodes - 2022 - Action & Adventure<br>
+
 - Mirai Nikki
 
 > 1 Season - 26 Episodes - 2011 - Dram/Mystery/Action & Adventure<br>
@@ -312,6 +316,7 @@ My List of **Animes I Watched**
 - Akame Ga Kill!
 - Jujutsu Kaisen
 - Ansatsu Kyoushitsu
+- Koroshi Ai
 - Ousama Game: The Animation
 - Redo of Healer
 - Noragami
@@ -378,12 +383,12 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 71
+- Anime Count: 72
 - Manga Count: 13
 
 ### Types of the Animes
 
-- Action & Adventure: 37
+- Action & Adventure: 38
 - Sci-fi & Fantasy: 33
 - Dram: 32
 - Comedy: 25
