@@ -232,6 +232,10 @@ My List of **Animes I Watched**
 
 > 1 Season - 12 Episodes - 2021 - Dram/Sci-fi & Fantasy/Mystery/Harem/Ecchi<br>
 
+- Spy x Family
+
+> 1 Season - 12 Episodes - 2022 - Crime/Comedy/Action & Adventure<br>
+
 - Sword Art Online
 
 > 4 Seasons - 96 Episodes - 2012 - Dram/Action & Adventure/Science Fiction & Fantasy<br>
@@ -292,6 +296,7 @@ My List of **Animes I Watched**
 - Mirai Nikki
 - Kimetsu no Yaiba
 - Death Note
+- Spy x Family
 - Owari no Seraph
 - Deadman Wonderland
 - Bungou Stray Dogs
@@ -383,16 +388,16 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 72
-- Manga Count: 13
+- Anime Count: 73
+- Manga Count: 14
 
 ### Types of the Animes
 
-- Action & Adventure: 38
+- Action & Adventure: 39
 - Sci-fi & Fantasy: 33
 - Dram: 32
-- Comedy: 25
-- Mystery/Crime: 20
+- Comedy: 26
+- Mystery/Crime: 21
 - Ecchi/Harem/Hentai: 15
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
