@@ -256,6 +256,10 @@ My List of **Animes I Watched**
 
  > 1 Season - 12 Episodes - 2021 - Comedy/Action & Adventure/Fantasy & Sci-fi/Diary anime
 
+- Tokyo Ghoul
+
+> 4 Seasons - 49 Episodes(includes ova[s]) - 2014 - Dram/Crime/Mystery/Action & Adventure<br>
+
 - Tokyo Revengers
 
 > 1 Season - 24 Episodes - 2021 - Dram/Action & Adventure<br>
@@ -295,6 +299,7 @@ My List of **Animes I Watched**
 - Re: Zero Kara Hajimeru Isekai Seikatsu
 - Mirai Nikki
 - Kimetsu no Yaiba
+- Tokyo Ghoul
 - Death Note
 - Spy x Family
 - Owari no Seraph
@@ -358,6 +363,7 @@ My List of **Animes I Watched**
 - Lelouch vi Brittania (Code Geass: Hangyaku no Lelouch)
 - Rimuru Tempest (Tensei Shitara Slime Datta Ken)
 - Rudeus Greyrat (Mushoku Tensei: Isekai Ittara Honki Dasu)
+- Ken Kaneki (Tokyo Ghoul)
 - Ayonokoji Kiyotaka (Clasroom of The Elite)
 - Edward Elric (Fullmetal Alchemist: Brotherhood)
 - Kirito (Sword Art Online)
@@ -388,16 +394,16 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 73
-- Manga Count: 14
+- Anime Count: 74
+- Manga Count: 15
 
 ### Types of the Animes
 
-- Action & Adventure: 39
+- Action & Adventure: 40
 - Sci-fi & Fantasy: 33
-- Dram: 32
+- Dram: 33
 - Comedy: 26
-- Mystery/Crime: 21
+- Mystery/Crime: 22
 - Ecchi/Harem/Hentai: 15
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
