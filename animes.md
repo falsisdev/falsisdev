@@ -367,7 +367,7 @@ My List of **Animes I Watched**
 - Ansatsu Kyoushitsu Season 2 Final Scene (Ansatsu Kyoushitsu Season 2 Episode 25 "Future Tense")
 - Death Note Final Scene (Death Note Episode 37 "New World")
 - Orange Final Scene (Orange Episode 13 "Letter 13")
-- Charlotte Final Scene (Charlotte Episode 31 "Memories to Come")
+- Charlotte Final Scene (Charlotte Episode 13 "Memories to Come")
 - Tokyo Ghoul Season 1 Final Scene (Tokyo Ghoul Season 1 Episode 12 "Ghoul")
 - Code Geass: Hangyaku no Lelouch R2 Final Scene (Season 2 Episode 25 "Re;")
 
