@@ -296,10 +296,10 @@ My List of **Animes I Watched**
 - Code Geass: Hangyaku no Lelouch
 - Classroom of The Elite
 - Fullmetal Alchemist: Brotherhood
+- Tokyo Ghoul
 - Re: Zero Kara Hajimeru Isekai Seikatsu
 - Mirai Nikki
 - Kimetsu no Yaiba
-- Tokyo Ghoul
 - Death Note
 - Spy x Family
 - Owari no Seraph
