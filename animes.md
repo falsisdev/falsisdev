@@ -357,6 +357,19 @@ My List of **Animes I Watched**
 
 📷 Image: Lelouch vi Brittania(left) and C.C.(right) - Code Geass: Hangyaku no Lelouch
 
+# My Best Final Scenes
+
+- Tokyo Ghoul Season 2 Final Scene (Tokyo Ghoul Season 2 Episode 12 "Ken")
+- Mirai Nikki Final Scene (Mirai Nikki Episode 26 "Format")
+- Platinum End Final Scene (Platinum End Episode 24 "Last Arrow")
+- Fullmetal Alchemist: Brotherhood Final Scene (Fullmetal Alchemist: Brotherhood Episode 64 "End of Journey")
+- Akame Ga Kill! Final Scene (Akame Ga Kill! Episode 24 "Akame Ga Kill!")
+- Ansatsu Kyoushitsu Season 2 Final Scene (Ansatsu Kyoushitsu Season 2 Episode 25 "Future Tense")
+- Death Note Final Scene (Death Note Episode 37 "New World")
+- Orange Final Scene (Orange Episode 13 "Letter 13")
+- Charlotte Final Scene (Charlotte Episode 31 "Memories to Come")
+- Tokyo Ghoul Season 1 Final Scene (Tokyo Ghoul Season 1 Episode 12 "Ghoul")
+- Code Geass: Hangyaku no Lelouch R2 Final Scene (Season 2 Episode 25 "Re;")
 
 ## My Favorite Anime & Manga Characters
 
