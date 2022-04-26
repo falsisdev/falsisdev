@@ -376,6 +376,7 @@ My List of **Animes I Watched**
 - Lelouch vi Brittania (Code Geass: Hangyaku no Lelouch)
 - Rimuru Tempest (Tensei Shitara Slime Datta Ken)
 - Rudeus Greyrat (Mushoku Tensei: Isekai Ittara Honki Dasu)
+- Ashera Tepes/Ashuramaru (Seraph of The End)
 - Ken Kaneki (Tokyo Ghoul)
 - Ayonokoji Kiyotaka (Clasroom of The Elite)
 - Edward Elric (Fullmetal Alchemist: Brotherhood)
