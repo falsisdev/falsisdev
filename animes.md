@@ -180,7 +180,7 @@ My List of **Animes I Watched**
 
 > 1 Season - 13 Episodes - 2016 - Dram<br>
 
-- Owari no Seraph
+- Owari no Seraph (manga is finished)
 
 > 2 Seasons - 24 Episodes - 2015 - Action & Adventure/Sci-fi & Fantasy/Dram<br>
 
@@ -232,7 +232,7 @@ My List of **Animes I Watched**
 
 > 1 Season - 12 Episodes - 2021 - Dram/Sci-fi & Fantasy/Mystery/Harem/Ecchi<br>
 
-- Spy x Family
+- Spy x Family (manga is finished)
 
 > 1 Season - 12 Episodes - 2022 - Crime/Comedy/Action & Adventure<br>
 
@@ -260,7 +260,7 @@ My List of **Animes I Watched**
 
 > 4 Seasons - 49 Episodes(includes ova[s]) - 2014 - Dram/Crime/Mystery/Action & Adventure<br>
 
-- Tokyo Revengers
+- Tokyo Revengers (manga is finished)
 
 > 1 Season - 24 Episodes - 2021 - Dram/Action & Adventure<br>
 
@@ -409,7 +409,7 @@ My List of **Animes I Watched**
 ## Counter of the Animes & Mangas
 
 - Anime Count: 74
-- Manga Count: 15
+- Manga Count: 16
 
 ### Types of the Animes
 
