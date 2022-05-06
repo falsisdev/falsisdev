@@ -371,6 +371,24 @@ My List of **Animes I Watched**
 - Tokyo Ghoul Season 1 Final Scene (Tokyo Ghoul Season 1 Episode 12 "Ghoul")
 - Code Geass: Hangyaku no Lelouch R2 Final Scene (Season 2 Episode 25 "Re;")
 
+# My Best Opening Theme
+
+- Unravel by TK from Ling tosite sugire (Tokyo Ghoul Season 1)
+- Kowaki wo Ameku by Minami (Domestic no Kanojo) 
+- Kyomu Dansen by ALI PROJECT (Another)
+- Hikari no Hahen by Yuu Takahashi (Orange)
+- THE WORLD by Nightmare (Death Note)
+- The Rumbling by Samuel Kim (Shingeki no Kyojin Season 4 Part 2)
+- Liar Mask by Rika Mayama (Akame Ga Kill!)
+- Boku no Sensou (Shingeki no Kyojin Season 4 Part 1)
+- Shinzou wo Sasageyo by Linked Horizon (Shingeki no Kyojin Season 2)
+- again by YUI (Fullmetal Alchemist: Brotherhood)
+- Red Swan by Yoshiki (Shingeki no Kyojin Season 3)
+- Guren no Yumiya by Linked Horizon (Shingeki no Kyojin Season 1)
+- COLORS by FLOW (Code Geass: Hangyaku no Lelouch R1)
+- Kiss of Death by Mika Nakashima (Darling in the FranXX)
+- Like Flames by MindaRyn (Tensei Shitara Slime Datta Ken Season 2 Part 2)
+
 ## My Favorite Anime & Manga Characters
 
 - Lelouch vi Brittania (Code Geass: Hangyaku no Lelouch)
