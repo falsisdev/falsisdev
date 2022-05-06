@@ -294,10 +294,10 @@ My List of **Animes I Watched**
 - Tensei Shitara Slime Datta Ken
 - Mushoku Tensei: Isekai Ittara Honki Dasu
 - Code Geass: Hangyaku no Lelouch
-- Classroom of The Elite
-- Fullmetal Alchemist: Brotherhood
-- Tokyo Ghoul
 - Re: Zero Kara Hajimeru Isekai Seikatsu
+- Tokyo Ghoul
+- Fullmetal Alchemist: Brotherhood
+- Classroom of the Elite
 - Mirai Nikki
 - Kimetsu no Yaiba
 - Death Note
