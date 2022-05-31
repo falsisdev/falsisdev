@@ -152,6 +152,10 @@ My List of **Animes I Watched**
 
 > 1 Season - 26 Episodes - 2011 - Dram/Mystery/Action & Adventure<br>
 
+- Monster
+
+> 1 Season - 74 Episodes - 2004 - Dram/Crime/Mystery<br>
+
 - Mushoku Tensei: Isekai Ittara Honki Dasu (manga is finished)
 
 > 1 Season - 24 Episodes - 2021 - Ecchi/Action & Adventure/Sci-fi & Fantasy<br>
@@ -296,6 +300,7 @@ My List of **Animes I Watched**
 - Code Geass: Hangyaku no Lelouch
 - Re: Zero Kara Hajimeru Isekai Seikatsu
 - Tokyo Ghoul
+- Monster
 - Fullmetal Alchemist: Brotherhood
 - Classroom of the Elite
 - Mirai Nikki
@@ -426,16 +431,16 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 74
+- Anime Count: 75
 - Manga Count: 16
 
 ### Types of the Animes
 
 - Action & Adventure: 40
 - Sci-fi & Fantasy: 33
-- Dram: 33
+- Dram: 34
 - Comedy: 26
-- Mystery/Crime: 22
+- Mystery/Crime: 23
 - Ecchi/Harem/Hentai: 15
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
