@@ -1,10 +1,16 @@
 
 # Hi, I'm Falsis <img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30">
 
+I'm a <a href="https://en.wikipedia.org/wiki/Front-end_web_development" class="Text-red-500"> Front-end Web Developer</a>!<br>
+So, I'm interested in <a href="https://en.wikipedia.org/wiki/HTML" class="Text-red-500" title="Hyper Text Markup Language"> <font color="orange">HTML</font></a>, <a href="https://en.wikipedia.org/wiki/CSS" class="Text-red-500" title="Cascading Style Sheets"> <font color="#1589FF">CSS</font></a> and <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" class="Text-red-500"> <font color="yellow">JavaScript</font></a>!<br>
+Also, I know <a href="https://en.wikipedia.org/wiki/Go_(programming_language)" class="Text-red-500" title="The Go Programming Language"><font color="#add8e6">Go</font></a>, <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" class="Text-red-500" title="Python"><font color="#1589FF">Python</font></a> and <a href="https://tr.wikipedia.org/wiki/Lua_(programlama_dili)" class="Text-red-500">Lua</a>...<br>
+My Favorite Language is <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" class="Text-red-500"> <font color="yellow">JavaScript</font></a> but I love <a href="https://en.wikipedia.org/wiki/Go_(programming_language)" class="Text-red-500" title="The Go Programming Language"><font color="#add8e6">Go</font></a> so much too...
+
 <a href="https://falsisdev.ga"><img src="https://lanyard-profile-readme.vercel.app/api/539843855567028227"></a>
 
 [Click Here to Visit My Personal Website!](https://falsisdev.repl.co/)!<br>
-[Click Here to Visit My Anime List!](https://github.com/falsisdev/falsisdev/blob/main/animes.md)
+[Click Here to Visit My Anime List!](https://github.com/falsisdev/falsisdev/blob/main/animes.md)<br>
+[Click here to Visit Ani-Plus Open-Source Project](https://github.com/ani-plus/website)
 
 ## Social Media
 ![Discord](https://img.shields.io/badge/Falsis%20-323330.svg?&style=for-the-badge&logo=discord&logoColor=white) ![Spotify](https://img.shields.io/badge/Falsis%20-323330.svg?&style=for-the-badge&logo=spotify&logoColor=white) ![Spotify](https://img.shields.io/badge/FalsisDev%20-323330.svg?&style=for-the-badge&logo=github&logoColor=white)
