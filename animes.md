@@ -402,6 +402,7 @@ My List of **Animes I Watched**
 - Ashera Tepes/Ashuramaru (Seraph of The End)
 - Ken Kaneki (Tokyo Ghoul)
 - Ayonokoji Kiyotaka (Clasroom of The Elite)
+- Johann Liebert (Monster)
 - Edward Elric (Fullmetal Alchemist: Brotherhood)
 - Kirito (Sword Art Online)
 - Echidna (Re: Zero Kara Hajimeru Isekai Seikatsu)
@@ -432,7 +433,7 @@ My List of **Animes I Watched**
 ## Counter of the Animes & Mangas
 
 - Anime Count: 75
-- Manga Count: 16
+- Manga Count: 23
 
 ### Types of the Animes
 
