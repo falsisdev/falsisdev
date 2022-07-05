@@ -76,6 +76,10 @@ My List of **Animes I Watched**
 
 > 1 Season - 37 Episodes - 2006 - Mystery/Crime<br>
 
+- Devilman Crybaby
+
+> 1 Season - 10 Episodes - 2018 - Action & Adventure/Sci-fi & Fantasy<br>
+> 
 - Domestic na Kanojo
 
 > 1 Season - 12 Episodes - 2019 - Dram/Romance/Ecchi<br>
@@ -306,16 +310,17 @@ My List of **Animes I Watched**
 - Mirai Nikki
 - Kimetsu no Yaiba
 - Death Note
-- Spy x Family
+- Devilman Crybaby
 - Owari no Seraph
+- Spy x Family
 - Deadman Wonderland
 - Bungou Stray Dogs
-- Ao no Exorcist
 - Vinland Saga
 - Orange
 - Charlotte
 - Platinum End
 - Sword Art Online
+- Ao no Exorcist
 - Boku no Hero Academia
 - Another
 - Kaguya-sama wa Kokurasetai
@@ -384,6 +389,7 @@ My List of **Animes I Watched**
 - Hikari no Hahen by Yuu Takahashi (Orange)
 - THE WORLD by Nightmare (Death Note)
 - The Rumbling by Samuel Kim (Shingeki no Kyojin Season 4 Part 2)
+- Devilman Crybaby Opening Theme by Netflix (Devilman Crybaby)
 - Liar Mask by Rika Mayama (Akame Ga Kill!)
 - Boku no Sensou (Shingeki no Kyojin Season 4 Part 1)
 - Shinzou wo Sasageyo by Linked Horizon (Shingeki no Kyojin Season 2)
@@ -432,13 +438,13 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 75
+- Anime Count: 76
 - Manga Count: 23
 
 ### Types of the Animes
 
-- Action & Adventure: 40
-- Sci-fi & Fantasy: 33
+- Action & Adventure: 41
+- Sci-fi & Fantasy: 34
 - Dram: 34
 - Comedy: 26
 - Mystery/Crime: 23
