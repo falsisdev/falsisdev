@@ -101,7 +101,7 @@ My List of **Animes I Watched**
 > 1 Season - 12 Episodes - 2018 - Dram/Action & Adventure/Sci-fi & Fantasy<br>
 
 - Golden Time
-- 
+
 > 1 Season - 24 Episodes - 2013 - Dram/Comedy<br>
 
 - High School DxD
