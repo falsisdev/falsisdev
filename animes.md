@@ -100,6 +100,10 @@ My List of **Animes I Watched**
 
 > 1 Season - 12 Episodes - 2018 - Dram/Action & Adventure/Sci-fi & Fantasy<br>
 
+- Golden Time
+- 
+> 1 Season - 24 Episodes - 2013 - Dram/Comedy<br>
+
 - High School DxD
 
 > 4 Seasons - 48 Episodes - 2012 - Sci-fi & Fantasy/Comedy/Ecchi/Harem/Romantic comedy<br>
@@ -310,6 +314,7 @@ My List of **Animes I Watched**
 - Mirai Nikki
 - Kimetsu no Yaiba
 - Death Note
+- Golden Time
 - Devilman Crybaby
 - Owari no Seraph
 - Spy x Family
@@ -438,15 +443,15 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 76
-- Manga Count: 23
+- Anime Count: 77
+- Manga Count: 24
 
 ### Types of the Animes
 
 - Action & Adventure: 41
 - Sci-fi & Fantasy: 34
-- Dram: 34
-- Comedy: 26
+- Dram: 35
+- Comedy: 27
 - Mystery/Crime: 23
 - Ecchi/Harem/Hentai: 15
 
