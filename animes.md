@@ -292,6 +292,10 @@ My List of **Animes I Watched**
 
 > 2 Seasons - 23 Episodes - 2019 - Action & Adventure/Science Fiction & Fantasy/Mystery/Dram<br>
 
+- Yofukashi no Uta
+
+> 1 Season - 13 Episodes - 2022 - Comedy/Sci-fi & Fantasy<br>
+
 - Your lie in April
 
 > 1 Season - 22 Episodes - 2014 - Dram/Musical/Comedy<br>
@@ -326,6 +330,7 @@ My List of **Animes I Watched**
 - Platinum End
 - Sword Art Online
 - Ao no Exorcist
+- Yofukashi no Uta
 - Boku no Hero Academia
 - Another
 - Kaguya-sama wa Kokurasetai
@@ -443,15 +448,15 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 77
-- Manga Count: 24
+- Anime Count: 78
+- Manga Count: 29
 
 ### Types of the Animes
 
 - Action & Adventure: 41
-- Sci-fi & Fantasy: 34
+- Sci-fi & Fantasy: 35
 - Dram: 35
-- Comedy: 27
+- Comedy: 28
 - Mystery/Crime: 23
 - Ecchi/Harem/Hentai: 15
 
