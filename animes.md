@@ -1,4 +1,4 @@
-bu# Anime List
+# Anime List
 
 My List of **Animes I Watched**
 
