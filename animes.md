@@ -318,23 +318,23 @@ My List of **Animes I Watched**
 - Mirai Nikki
 - Kimetsu no Yaiba
 - Death Note
-- Golden Time
-- Devilman Crybaby
+- Orange
+- Sword Art Online
 - Owari no Seraph
-- Spy x Family
+- Domestic na Kanojo
 - Deadman Wonderland
 - Bungou Stray Dogs
 - Vinland Saga
-- Orange
 - Charlotte
 - Platinum End
-- Sword Art Online
-- Ao no Exorcist
 - Yofukashi no Uta
+- Devilman Crybaby
+- Spy x Family
+- Ao no Exorcist
+- Golden Time
 - Boku no Hero Academia
 - Another
 - Kaguya-sama wa Kokurasetai
-- Domestic na Kanojo
 - Shingeki no Kyojin
 - Nanatsu no Taizai
 - Parasyte
@@ -445,6 +445,25 @@ My List of **Animes I Watched**
 - Akabane Karma (Ansatsu Kyoushitsu)
 - Akame (Akame ga Kill!)
 - Nino Nakano (5-Toubun no Hanayome)
+
+# My Best...
+
+- Action Anime: Re: Zero Kara Hajimeru Isekai Seikatsu
+- Adventure Anime: Kimetsu no Yaiba
+- Science Fiction Anime: Fullmetal Alchemist: Brotherhood
+- Fantasy Anime: Mushoku Tensei: Isekai Ittara Honki Dasu
+- Dram Anime: Akame ga Kill!
+- Comedy Anime: Kaguya-sama wa Kokurasetai
+- Mystery Anime: Code Geass: Hangyaku no Lelouch 
+- Crime Anime: Monster
+- Detective Anime: Bungou Stray Dogs
+- Ecchi Anime: Domestic na Kanojo
+- Harem Anime: Redo of Healer
+- School Anime: Classroom of the Elite
+- Isekai Anime: Tensei Shitara Slime Datta Ken
+- Anime Film: Kimi no na wa.
+- Anime: Tensei Shitara Slime Datta Ken
+- Manga: Tensei Shitara Slime Datta Ken
 
 ## Counter of the Animes & Mangas
 
