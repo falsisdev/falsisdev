@@ -1,4 +1,4 @@
-# Anime List
+bu# Anime List
 
 My List of **Animes I Watched**
 
@@ -448,8 +448,8 @@ My List of **Animes I Watched**
 
 # My Best...
 
-- Action Anime: Re: Zero Kara Hajimeru Isekai Seikatsu
-- Adventure Anime: Kimetsu no Yaiba
+- Adventure Anime: Re: Zero Kara Hajimeru Isekai Seikatsu
+- Action Anime: Kimetsu no Yaiba
 - Science Fiction Anime: Fullmetal Alchemist: Brotherhood
 - Fantasy Anime: Mushoku Tensei: Isekai Ittara Honki Dasu
 - Dram Anime: Akame ga Kill!
