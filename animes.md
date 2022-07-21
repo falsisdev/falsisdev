@@ -156,6 +156,10 @@ My List of **Animes I Watched**
 
 > 1 Season - 12 Episodes - 2022 - Action & Adventure<br>
 
+- Lycoris Recoil
+
+> 1 Season - 13 Episodes - 2022 - Comedy/Action & Adventure<br>
+
 - Mirai Nikki
 
 > 1 Season - 26 Episodes - 2011 - Dram/Mystery/Action & Adventure<br>
@@ -310,11 +314,11 @@ My List of **Animes I Watched**
 - Tensei Shitara Slime Datta Ken
 - Mushoku Tensei: Isekai Ittara Honki Dasu
 - Code Geass: Hangyaku no Lelouch
+- Classroom of the Elite
 - Re: Zero Kara Hajimeru Isekai Seikatsu
 - Tokyo Ghoul
 - Monster
 - Fullmetal Alchemist: Brotherhood
-- Classroom of the Elite
 - Mirai Nikki
 - Kimetsu no Yaiba
 - Death Note
@@ -329,6 +333,7 @@ My List of **Animes I Watched**
 - Platinum End
 - Yofukashi no Uta
 - Devilman Crybaby
+- Lycoris Recoil
 - Spy x Family
 - Ao no Exorcist
 - Golden Time
@@ -467,15 +472,15 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 78
-- Manga Count: 29
+- Anime Count: 79
+- Manga Count: 30
 
 ### Types of the Animes
 
-- Action & Adventure: 41
+- Action & Adventure: 42
 - Sci-fi & Fantasy: 35
 - Dram: 35
-- Comedy: 28
+- Comedy: 29
 - Mystery/Crime: 23
 - Ecchi/Harem/Hentai: 15
 
