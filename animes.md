@@ -311,60 +311,61 @@ My List of **Animes I Watched**
 
 ## My Best Animes
 
-- Tensei Shitara Slime Datta Ken
-- Mushoku Tensei: Isekai Ittara Honki Dasu
 - Code Geass: Hangyaku no Lelouch
-- Classroom of the Elite
+- Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+- Mushoku Tensei: Isekai Ittara Honki Dasu
+- Tensei Shitara Slime Datta Ken
 - Re: Zero Kara Hajimeru Isekai Seikatsu
-- Tokyo Ghoul
 - Monster
+- Tokyo Ghoul
 - Fullmetal Alchemist: Brotherhood
 - Mirai Nikki
 - Kimetsu no Yaiba
+- Sword Art Online
+- Shingeki no Kyojin
 - Death Note
 - Orange
-- Sword Art Online
-- Owari no Seraph
-- Domestic na Kanojo
-- Deadman Wonderland
 - Bungou Stray Dogs
-- Vinland Saga
-- Charlotte
-- Platinum End
-- Yofukashi no Uta
-- Devilman Crybaby
-- Lycoris Recoil
-- Spy x Family
-- Ao no Exorcist
-- Golden Time
-- Boku no Hero Academia
-- Another
-- Kaguya-sama wa Kokurasetai
-- Shingeki no Kyojin
-- Nanatsu no Taizai
-- Parasyte
-- Fairy Tail
-- Shiki
-- Tokyo Revengers
 - Seishun Buta Yarō wa Bunny Girl Senpai no Yume o Minai
-- Kiznaiver
+- Charlotte
+- Owari no Seraph
+- Vinland Saga
 - Akame Ga Kill!
-- Jujutsu Kaisen
 - Ansatsu Kyoushitsu
-- Koroshi Ai
-- Ousama Game: The Animation
-- Redo of Healer
-- Noragami
-- Dr. Stone
+- Domestic na Kanojo
+- Shigatsu wo Kimi no Uso
+- Lycoris Recoil
+- Jujutsu Kaisen
+- Tokyo Revengers
+- Kaifuku Jutsushi no Yarinaoshi
+- Kaguya-sama wa Kokurasetai
+- Spy x Family
 - No game No life
-- Your Lie in April
-- Sono Bisque Doll wa Koi wo Suru
-- Violet Evergarden
-- Shuumatsu no Harem
-- High School DxD
+- Platinum End
 - Yakusoku no Neverland
-- Shinmai Maou no Tastement
+- Dr. Stone
+- Kiseijuu: Sei no Kakuritsu
+- Ousama Game: The Animation
+- Another
+- Devilman Crybaby
+- High School DxD
+- Deadman Wonderland
+- Yofukashi no Uta
+- Noragami
+- Ao no Exorcist
+- Koroshi Ai
+- Golden Time
+- Violet Evergarden
 - Darling in the FranXX
+- Kiznaiver
+- Shiki
+- Boku no Hero Academia
+- Nanatsu no Taizai
+- Sono Bisque Doll wa Koi wo Suru
+- 5-Toubun no Hanayome
+- Shuumatsu no Harem
+- Fairy Tail
+- Shinmai Maou no Tastement
 - Wonder Egg Priority
 - Tantei wa mou, shindeiru
 - Noblesse
@@ -373,7 +374,6 @@ My List of **Animes I Watched**
 - 91 Days
 - Goblin Slayer
 - Banana Fish
-- 5-Toubun no Hanayome
 - Kobayashi-san chi no Maid Dragon
 - Kiss X Sis
 - Takt op. Destiny
