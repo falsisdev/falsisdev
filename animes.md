@@ -467,7 +467,7 @@ My List of **Animes I Watched**
 - School Anime: Classroom of the Elite
 - Isekai Anime: Tensei Shitara Slime Datta Ken
 - Anime Film: Kimi no na wa.
-- Anime: Tensei Shitara Slime Datta Ken
+- Anime: Code Geass: Hangyaku no Lelouch
 - Manga: Tensei Shitara Slime Datta Ken
 
 ## Counter of the Animes & Mangas
