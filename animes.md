@@ -50,7 +50,7 @@ My List of **Animes I Watched**
 
 - Classroom of The Elite
 
-> 1 Season - 12 Episodes - 2017 - Dram/Comedy<br>
+> 2 Seasons - 24 Episodes - 2017 - Dram/Comedy<br>
 
 - Code Geass: Boukoku no Akito (5 Serial Movie)
 
@@ -88,11 +88,11 @@ My List of **Animes I Watched**
 
 > 2 Seasons - 35 Episodes - 2019 - Action & Adventure/Sci-fi & Fantasy<br>
 
-- Fairy Tail (manga is finished)
+- Fairy Tail
 
 > 8 Seasons - 328 Episodes - 2009 - Comedy/Mystery/Action & Adventure/Sci-fi & Fantasy<br>
 
-- Fullmetal Alchemist: Brotherhood (manga is finished)
+- Fullmetal Alchemist: Brotherhood
 
 > 1 Season - 64 Episodes - 2009 - Dram/Mystery/Action & Adventure/Sci-fi & Fantasy<br>
 
@@ -122,21 +122,21 @@ My List of **Animes I Watched**
 
 - Kaguya-sama wa Kokurasetai
 
-> 2 Seasons - 24 Episodes - 2019 - Dram/Comedy/Romantic<br>
+> 3 Seasons - 35 Episodes - 2019 - Dram/Comedy/Romantic<br>
 
 - Kanojo, Okarishimasu
 
-> 1 Season - 12 Episodes - 2020 - Comedy/Ecchi<br>
+> 2 Season - 24 Episodes - 2020 - Comedy/Ecchi<br>
 
-- Kimetsu no Yaiba (Manga is finished)
+- Kimetsu no Yaiba
 
 > 2 Season - 38 Episodes - 2019 - Dram/Action & Adventure<br>
 
-- Kimetsu no Yaiba: Mugen Train (Manga is finished)
+- Kimetsu no Yaiba: Mugen Train
 
 > Movie - 2020 - Action & Adventure/Dram/Science Fiction & Fantasy<br>
 
-- Kimi no na wa. (manga is finished)
+- Kimi no na wa.
 
 > Movie - 2016 - Dram/Romantic<br>
 
@@ -172,7 +172,7 @@ My List of **Animes I Watched**
 
 > 1 Season - 24 Episodes - 2021 - Ecchi/Action & Adventure/Sci-fi & Fantasy<br>
 
-- My Dress Up Darling
+- Sono Bisque Doll wa Koi wo Suru
 
 > 1 Season - 12 Episodes - 2022 - Comedy/Dram/Ecchi<br>
 
@@ -192,15 +192,15 @@ My List of **Animes I Watched**
 
 > 2 Seasons - 25 Episodes - 2014 - Comedy/Sci-fi & Fantasy/Action & Adventure<br>
 
-- Orange: Mirai
+- Orange
 
 > 1 Season - 13 Episodes - 2016 - Dram<br>
 
-- Owari no Seraph (manga is finished)
+- Owari no Seraph
 
 > 2 Seasons - 24 Episodes - 2015 - Action & Adventure/Sci-fi & Fantasy/Dram<br>
 
-- Ousama Game (manga is finished)
+- Ousama Game
 
 > 1 Season - 12 Episodes - 2017 - Dram<br>
 
@@ -212,7 +212,7 @@ My List of **Animes I Watched**
 
 > 1 Season - 24 Episodes - 2014 - Dram/Action & Adventure/Sci-fi & Fantasy<br>
 
-- Platinum End (manga is finished)
+- Platinum End
 
 > 1 Season - 24 Episodes - 2021 - Dram/Mystery<br>
 
@@ -236,7 +236,7 @@ My List of **Animes I Watched**
 
 > 1 Season - 24 Episodes - 2010 - Mystery/Horror/Thriller/Science Fiction & Fantasy<br>
 
-- Shingeki no Kyojin (manga is finished)
+- Shingeki no Kyojin
 
 > 4 Seasons - 96 Episodes - 2013 - Dram/Action & Adventure/Science Fiction & Fantasy/Mystery<br>
 
@@ -248,7 +248,7 @@ My List of **Animes I Watched**
 
 > 1 Season - 12 Episodes - 2021 - Dram/Sci-fi & Fantasy/Mystery/Harem/Ecchi<br>
 
-- Spy x Family (manga is finished)
+- Spy x Family
 
 > 1 Season - 12 Episodes - 2022 - Crime/Comedy/Action & Adventure<br>
 
@@ -264,7 +264,7 @@ My List of **Animes I Watched**
 
 > 1 Season - 24 Episodes - 2021 - Dram/Mystery<br>
 
-- Tensei Shitara Slime Datta Ken (manga is finished)
+- Tensei Shitara Slime Datta Ken
 
 > 2 Seasons - 48 Episodes - 2018- Action & Adventure/Comedy<br>
 
@@ -276,7 +276,7 @@ My List of **Animes I Watched**
 
 > 4 Seasons - 49 Episodes(includes ova[s]) - 2014 - Dram/Crime/Mystery/Action & Adventure<br>
 
-- Tokyo Revengers (manga is finished)
+- Tokyo Revengers
 
 > 1 Season - 24 Episodes - 2021 - Dram/Action & Adventure<br>
 
