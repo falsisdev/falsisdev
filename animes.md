@@ -470,6 +470,88 @@ My List of **Animes I Watched**
 - Anime: Code Geass: Hangyaku no Lelouch
 - Manga: Tensei Shitara Slime Datta Ken
 
+# Watch Order
+
+1. Death Note
+2. Shingeki no Kyojin
+3. Darling in the FranXX
+4. Yakusoku no Neverland
+5. Kimetsu no Yaiba
+6. Kimetsu no Yaiba: Mugen Train Arc
+7. Akame ga Kill!
+8. Tensei Shitara Slime Datta Ken
+9. Tensura Nikki: Tensei Shitara Slime Datta Ken
+10. 5-Toubun no Hanayome
+11. 91 Days
+12. Jujutsu Kaisen
+13. Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+14. Another
+15. Ijiranaide, Nagatoro-san
+16. Violet Evergarden
+17. Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
+18. Charlotte
+19. Tantei wa Mou, Shindeiruü
+20. Overflow
+21. Jimihen!!: Jimiko wo Kaechau Jun Isei Kouyuu!!
+22. Kaguya-sama wa Kokurasetai
+23. Redo of Healer
+24. Sword Art Online
+25. Owari no Seraph
+26. High School DxD
+27. Takt op. Destiny
+28. Platinum End
+29. Kobayashi-San Chi no Maid Dragon
+30. Your lie in April
+31. Re: Zero Kara Hajimeru Isekai Seikatsu
+32. Boku no Hero Academia
+33. Noblesse
+34. Tokyo Revengers
+35. Banana Fish
+36. Shinmai Maou no Tastement
+37. Orange
+38. Goblin Slayer
+39. Kiss X Sis
+40. Ansatsu Kyoushitsu
+41. Rent a Girlfriend
+42. No Game No Life
+43. Shuumatsu no Harem
+44. Noragami
+45. Code Geass: Hangyaku no Lelouch
+46. Wonder Egg Priority
+47. Code Geass: Boukoku no Akito 1
+48. Code Geass: Boukoku no Akito 2
+49. Code Geass: Boukoku no Akito 3
+50. Code Geass: Boukoku no Akito 4
+51. Code Geass: Boukoku no Akito 5
+52. Parasyte: The Maxim
+53. Sono Bisque Doll wa Koi wo Suru
+54. Dr. Stone
+55. Akatsuki no Yona
+56. Fairy Tail
+57. Shiki
+58. Mirai Nikki
+59. Kiznaiver
+60. Mushoku Tensei: Isekai Ittara Honki Dasu
+61. Nanatsu no Taizai
+62. Ousama Game: The Animation
+63. Kimi no na wa.
+64. Fullmetal Achemist: Brotherhood
+65. Bungou Stray Dogs
+66. Classroom of the Elite
+67. Vinland Saga
+68. Domestic na Kanojo
+69. Deadman Wonderland
+70. Ao no Exorcist
+71. Code Geass: Fukkatsu no Lelouch
+72. Koroshi Ai
+73. Spy x Family
+74. Tokyo Ghoul
+75. Monster
+76. Devilman Crybaby
+77. Golden Time
+78. Yofukashi no Uta
+79. Lyrocis Recoil
+
 ## Counter of the Animes & Mangas
 
 - Anime Count: 79
