@@ -79,10 +79,14 @@ My List of **Animes I Watched**
 - Devilman Crybaby
 
 > 1 Season - 10 Episodes - 2018 - Action & Adventure/Sci-fi & Fantasy<br>
-> 
+
 - Domestic na Kanojo
 
 > 1 Season - 12 Episodes - 2019 - Dram/Romance/Ecchi<br>
+
+- Dororo
+
+> 1 Season - 24 Episodes - 2019 - Action & Adventure<br>
 
 - Dr. Stone
 
@@ -342,6 +346,7 @@ My List of **Animes I Watched**
 - Spy x Family
 - No game No life
 - Platinum End
+- Dororo
 - Yakusoku no Neverland
 - Dr. Stone
 - Kiseijuu: Sei no Kakuritsu
@@ -418,11 +423,11 @@ My List of **Animes I Watched**
 ## My Favorite Anime & Manga Characters
 
 - Lelouch vi Brittania (Code Geass: Hangyaku no Lelouch)
+- Ayonokoji Kiyotaka (Clasroom of The Elite)
 - Rimuru Tempest (Tensei Shitara Slime Datta Ken)
 - Rudeus Greyrat (Mushoku Tensei: Isekai Ittara Honki Dasu)
 - Ashera Tepes/Ashuramaru (Seraph of The End)
 - Ken Kaneki (Tokyo Ghoul)
-- Ayonokoji Kiyotaka (Clasroom of The Elite)
 - Johann Liebert (Monster)
 - Edward Elric (Fullmetal Alchemist: Brotherhood)
 - Kirito (Sword Art Online)
@@ -469,6 +474,7 @@ My List of **Animes I Watched**
 - Anime Film: Kimi no na wa.
 - Anime: Code Geass: Hangyaku no Lelouch
 - Manga: Tensei Shitara Slime Datta Ken
+- Light Novel: Classroom of the Elite
 
 # Watch Order
 
@@ -551,15 +557,16 @@ My List of **Animes I Watched**
 77. Golden Time
 78. Yofukashi no Uta
 79. Lyrocis Recoil
+80. Dororo
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 79
+- Anime Count: 80
 - Manga Count: 30
 
 ### Types of the Animes
 
-- Action & Adventure: 42
+- Action & Adventure: 43
 - Sci-fi & Fantasy: 35
 - Dram: 35
 - Comedy: 29
