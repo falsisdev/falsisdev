@@ -315,8 +315,8 @@ My List of **Animes I Watched**
 
 ## My Best Animes
 
-- Code Geass: Hangyaku no Lelouch
 - Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+- Code Geass: Hangyaku no Lelouch
 - Mushoku Tensei: Isekai Ittara Honki Dasu
 - Tensei Shitara Slime Datta Ken
 - Re: Zero Kara Hajimeru Isekai Seikatsu
