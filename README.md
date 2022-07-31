@@ -26,6 +26,7 @@ My Favorite Language is <a href="https://en.wikipedia.org/wiki/JavaScript" title
  <h2> Github Stats </h2>
 <div class="stats" align="center"> 
 <a href="https://github.com/falsisdev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=falsisdev&show_icons=true&theme=react" width="%100" height="150px" alt="stats"/></a>
-<a href="https://falsis.ga"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=falsisdev&theme=react" width="%100" height="150px" alt="stats"/></a>
+<a href="https://falsis.ga"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=falsisdev&theme=react](https://github-profile-trophy.vercel.app/?username=falsisdev&theme=onedark&column=7)" width="%100" height="150px"/></a><br><br>
+<a href="https://falsis.ga"><img align="center" src="https://github-profile-trophy.vercel.app/?username=falsisdev&theme=discord&column=7&no-frame=true"></a><br><br>
 <a href="https://github.com/falsisdev"><img align="center" width="775" src="https://activity-graph.herokuapp.com/graph?username=falsisdev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></a>
 </div>
