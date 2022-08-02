@@ -292,6 +292,10 @@ My List of **Animes I Watched**
 
 > 1 Season - 13 Episodes - 2018 - Dram/Sci-Fi & Fantasy<br>
 
+- Weathering With You
+
+> Movie - 2019 - Dram/Romance<br>
+
 - Wonder Egg Pritority
 
 > 1 Season - 12 Episodes - 2021 - Dram/Mystery/Sci-fi & Fantasy<br>
@@ -558,17 +562,19 @@ My List of **Animes I Watched**
 78. Yofukashi no Uta
 79. Lyrocis Recoil
 80. Dororo
+81. Weathering With You
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 80
+- Anime Count: 81
 - Manga Count: 30
+- Light Novel Count: 1
 
 ### Types of the Animes
 
 - Action & Adventure: 43
 - Sci-fi & Fantasy: 35
-- Dram: 35
+- Dram: 36
 - Comedy: 29
 - Mystery/Crime: 23
 - Ecchi/Harem/Hentai: 15
