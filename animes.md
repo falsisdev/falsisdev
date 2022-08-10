@@ -408,6 +408,7 @@ My List of **Animes I Watched**
 # My Best Opening Theme
 
 - Unravel by TK from Ling tosite sugire (Tokyo Ghoul Season 1)
+- Dance in the Game (Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season)
 - Kowaki wo Ameku by Minami (Domestic no Kanojo) 
 - Kyomu Dansen by ALI PROJECT (Another)
 - Hikari no Hahen by Yuu Takahashi (Orange)
