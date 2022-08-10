@@ -391,6 +391,22 @@ My List of **Animes I Watched**
 
 📷 Image: Lelouch vi Brittania(left) and C.C.(right) - Code Geass: Hangyaku no Lelouch
 
+# My Best Seasonal Anime
+
+- 2020 Winter => Boku no Hero Academia 4th Season
+- 2020 Spring => Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen
+- 2020 Summer => Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
+- 2020 Fall => Jujutsu Kaisen
+- 2021 Winter => Mushoku Tensei: Isekai Ittara Honki Dasu
+- 2021 Spring => Tokyo Revengers
+- 2021 Summer => Tensei shitara Slime Datta Ken 2nd Season Part 2
+- 2021 Fall => Mushoku Tensei: Isekai Ittara Honki Dasu Part 2
+- 2022 Winter => Shingeki no Kyojin: The Final Season Part 2
+- 2022 Spring => Spy x Family
+- 2022 Summer => Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
+- 2022 Fall => Chainsaw Man / Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen / Suzume no Tojimari / ... (?)
+- 2023 Winter => Bungou Stray Dogs 4th Season (?)
+- 2023 (Later) => Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season / Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season / Shingeki no Kyojin: The Final Season - Kanketsu-hen / Dr. Stone: New World / Goblin Slayer 2nd Season / Kimetsu no Yaiba: Katanakaji no Sato-hen / Jujutsu Kaisen 2nd Season / Tantei wa Mou, Shindeiru. Season 2 / Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai / ... (?)
 # My Best Final Scenes
 
 - Tokyo Ghoul Season 2 Final Scene (Tokyo Ghoul Season 2 Episode 12 "Ken")
