@@ -42,7 +42,7 @@ My List of **Animes I Watched**
 
 - Bungou Stray Dogs
 
-> 1 Season - 36 Episodes - 2016 - Dram/Crime/Mystery/Comedy<br>
+> 3 Season - 36 Episodes - 2016 - Dram/Crime/Mystery/Comedy<br>
 
 - Charlotte
 
