@@ -184,9 +184,13 @@ My List of **Animes I Watched**
 
 > 4 Seasons - 97 Episodes - 2014 - Ecchi/Action & Adventure/Sci-fi & Fantasy<br>
 
+- Neon Genesis Evangelion
+
+> 1 Season - 26 Episodes - 1995 - Dram/Sci-Fi & Fantasy<br>
+
 - No Game No Life
 
-> 1 Season - 18 Episodes - 2014 - Action & Adventure/Sci&fi & Fantasy/Comedy<br>
+> 1 Season - 18 Episodes - 2014 - Action & Adventure/Sci-fi & Fantasy/Comedy<br>
 
 - Noblesse 
 
@@ -319,15 +323,16 @@ My List of **Animes I Watched**
 
 ## My Best Animes
 
-- Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
 - Code Geass: Hangyaku no Lelouch
+- Neon Genesis Evangelion
 - Mushoku Tensei: Isekai Ittara Honki Dasu
+- Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
 - Tensei Shitara Slime Datta Ken
 - Re: Zero Kara Hajimeru Isekai Seikatsu
 - Monster
-- Tokyo Ghoul
 - Fullmetal Alchemist: Brotherhood
 - Mirai Nikki
+- Tokyo Ghoul
 - Kimetsu no Yaiba
 - Sword Art Online
 - Shingeki no Kyojin
@@ -407,6 +412,7 @@ My List of **Animes I Watched**
 - 2022 Fall => Chainsaw Man / Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen / Suzume no Tojimari / ... (?)
 - 2023 Winter => Bungou Stray Dogs 4th Season (?)
 - 2023 (Later) => Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season / Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season / Shingeki no Kyojin: The Final Season - Kanketsu-hen / Dr. Stone: New World / Goblin Slayer 2nd Season / Kimetsu no Yaiba: Katanakaji no Sato-hen / Jujutsu Kaisen 2nd Season / Tantei wa Mou, Shindeiru. Season 2 / Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai / ... (?)
+
 # My Best Final Scenes
 
 - Tokyo Ghoul Season 2 Final Scene (Tokyo Ghoul Season 2 Episode 12 "Ken")
@@ -483,19 +489,19 @@ My List of **Animes I Watched**
 - Action Anime: Kimetsu no Yaiba
 - Science Fiction Anime: Fullmetal Alchemist: Brotherhood
 - Fantasy Anime: Mushoku Tensei: Isekai Ittara Honki Dasu
-- Dram Anime: Akame ga Kill!
+- Dram Anime: Neon Genesis Evangelion
 - Comedy Anime: Kaguya-sama wa Kokurasetai
 - Mystery Anime: Code Geass: Hangyaku no Lelouch 
 - Crime Anime: Monster
 - Detective Anime: Bungou Stray Dogs
 - Ecchi Anime: Domestic na Kanojo
 - Harem Anime: Redo of Healer
-- School Anime: Classroom of the Elite
+- School Anime: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
 - Isekai Anime: Tensei Shitara Slime Datta Ken
-- Anime Film: Kimi no na wa.
+- Anime Movie: Kimi no na wa.
 - Anime: Code Geass: Hangyaku no Lelouch
-- Manga: Tensei Shitara Slime Datta Ken
-- Light Novel: Classroom of the Elite
+- Manga: Monster
+- Light Novel: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
 
 # Watch Order
 
@@ -580,18 +586,19 @@ My List of **Animes I Watched**
 79. Lyrocis Recoil
 80. Dororo
 81. Weathering With You
+82. Neon Genesis Evangelion
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 81
+- Anime Count: 82
 - Manga Count: 30
 - Light Novel Count: 1
 
 ### Types of the Animes
 
 - Action & Adventure: 43
-- Sci-fi & Fantasy: 35
-- Dram: 36
+- Dram: 37
+- Sci-fi & Fantasy: 36
 - Comedy: 29
 - Mystery/Crime: 23
 - Ecchi/Harem/Hentai: 15
