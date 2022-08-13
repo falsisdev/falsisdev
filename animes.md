@@ -429,6 +429,7 @@ My List of **Animes I Watched**
 
 # My Best Opening Theme
 
+- A Cruel Angel's Thesis bu Yoko Takahashi (Neon Genesis Evangelion)
 - Unravel by TK from Ling tosite sugire (Tokyo Ghoul Season 1)
 - Dance in the Game (Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season)
 - Kowaki wo Ameku by Minami (Domestic no Kanojo) 
