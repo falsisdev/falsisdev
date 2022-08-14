@@ -326,9 +326,9 @@ My List of **Animes I Watched**
 - Code Geass: Hangyaku no Lelouch
 - Neon Genesis Evangelion
 - Mushoku Tensei: Isekai Ittara Honki Dasu
+- Re: Zero Kara Hajimeru Isekai Seikatsu
 - Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
 - Tensei Shitara Slime Datta Ken
-- Re: Zero Kara Hajimeru Isekai Seikatsu
 - Monster
 - Fullmetal Alchemist: Brotherhood
 - Mirai Nikki
