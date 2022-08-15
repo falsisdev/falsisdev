@@ -12,7 +12,7 @@ My Favorite Language is <a href="https://en.wikipedia.org/wiki/JavaScript" title
 <a href="https://falsis.ga/"> Click Here to Visit My Personal Website!</a><br>
 <a href="https://github.com/falsisdev/falsisdev/blob/main/animes.md">Click Here to Visit My Anime List!</a><br>
 <a href="https://github.com/ani-plus/website">Click here to Visit Ani-Plus Open-Source Project</a><br></br>
-<a href="https://falsis.ga"><img src="https://img.shields.io/badge/os-Windows%2011-slateblue"></a> <a href="https://discord.com/users/539843855567028227"><img src="https://img.shields.io/badge/Falsis%238548-5865F2?style=flat&logo=discord&logoColor=white"></a> <a href="https://falsis.ga"><img src="https://img.shields.io/badge/Website-D14836?&color=57F287"></a> <a href="https://github.com/falsisdev"><img src="https://komarev.com/ghpvc/?username=falsisdev"></a>
+<a href="https://falsis.ga"><img src="https://img.shields.io/badge/os-Windows%2011-slateblue"></a> <a href="https://discord.com/users/539843855567028227"><img src="https://img.shields.io/badge/Falsis%230002-5865F2?style=flat&logo=discord&logoColor=white"></a> <a href="https://falsis.ga"><img src="https://img.shields.io/badge/Website-D14836?&color=57F287"></a> <a href="https://github.com/falsisdev"><img src="https://komarev.com/ghpvc/?username=falsisdev"></a>
 </div>
 <h2> Technologies </h2> 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falsisdev&theme=react&layout=compact" alt="stats"/>
