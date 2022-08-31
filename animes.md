@@ -316,9 +316,9 @@ My List of **Animes I Watched**
 
 > 1 Season - 22 Episodes - 2014 - Dram/Musical/Comedy<br>
 
-<img src="https://i.pinimg.com/originals/b1/f9/30/b1f9302ad32e281c26d85fc64495d680.jpg">
+<img src="https://64.media.tumblr.com/13e45c926ca2b14697797900c6bdef71/tumblr_poa01qZu6U1wprb1z_1280.jpg">
 
-📷 Image: Roxy - Mushoku Tensei: Isekai Ittara Honki Dasu
+📷 Image: Lelouch vi Brittania from Code Geass: Hangyaku no Lelouch
 
 
 ## My Best Anime Series
@@ -394,9 +394,9 @@ My List of **Animes I Watched**
 - Takt Op. Destiny
 - Kiss x Sis
 
-<img src="https://cdn.wallpapersafari.com/30/89/gQmcBk.jpg">
+<img src="https://pbs.twimg.com/media/E9BfxybUcAQrVb9?format=jpg&name=large">
 
-📷 Image: Lelouch vi Brittania(left) and C.C.(right) - Code Geass: Hangyaku no Lelouch
+📷 Image: Asuka Langley Sohryu from Shin Seiki Evangelion
 
 # My Best Opening Theme
 
@@ -419,11 +419,18 @@ My List of **Animes I Watched**
 - Devilman Crybaby Opening Theme by Netflix (Devilman Crybaby)
 - Liar Mask by Rika Mayama (Akame Ga Kill!)
 
+
+<img src="https://static.zerochan.net/Monster.%28Series%29.full.1440225.jpg">
+
+📷 Image: Johann Liebert (Left and Middle) & Anna Liebert (or Nina Fortner) (Right) from Monster
+
+
 ## My Favorite Anime & Manga Characters
 
 - Lelouch vi Brittania (Code Geass: Hangyaku no Lelouch)
 - Ayonokoji Kiyotaka (Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e)
 - Johann Liebert (Monster)
+- Karuizawa Kei (Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e)
 - Rimuru Tempest (Tensei Shitara Slime Datta Ken)
 - Rudeus Greyrat (Mushoku Tensei: Isekai Ittara Honki Dasu)
 - Ashera Tepes/Ashuramaru (Seraph of The End)
@@ -454,6 +461,11 @@ My List of **Animes I Watched**
 - Akabane Karma (Ansatsu Kyoushitsu)
 - Akame (Akame ga Kill!)
 - Nino Nakano (5-Toubun no Hanayome)
+
+
+<img src="https://timelinecovers.pro/facebook-cover/download/mirai-nikki-yuno-gasai-facebook-cover.jpg">
+
+📷 Image: Yuno Gasai from Mirai Nikki
 
 # Watch Order
 
@@ -539,6 +551,10 @@ My List of **Animes I Watched**
 80. Dororo
 81. Weathering With You
 82. Neon Genesis Evangelion
+
+<img src="https://cdn.discordapp.com/attachments/775822548519616562/1006136087426650112/unknown.png">
+
+📷 Image: Ayanokoji Kiyotaka (Left) & Sakayanagi Arisu (Right) from Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e
 
 ## Counter of the Animes & Mangas
 
