@@ -4,7 +4,7 @@ My List of **Animes I Watched**
 
 ## List of the Animes
 
-- 5-Toubun no Hanayome
+- 5-Toubun no Hanayome (The Quintessential Quintuplets)
 
 > 2 Seasons - 24 Episodes - 2019 - Dram/Comedy/Harem<br>
 
@@ -16,7 +16,7 @@ My List of **Animes I Watched**
 
 > 1 Season - 24 Episodes - 2014 - Dram/Action & Adventure/Crime<br>
 
-- Akatsuki no Yona
+- Akatsuki no Yona (Yona of The Dawn)
 
 > 1 Season - 25 Episodes - 2014 - Dram/Comedy/Action & Adventure/Sci-fi & Fantasy<br>
 
@@ -24,11 +24,11 @@ My List of **Animes I Watched**
 
 > 1 Season - 13 Episodes - 2012 - Dram/Action & Adventure/Mystery<br>
 
-- Ansatsu Kyoushitsu
+- Ansatsu Kyoushitsu (Assasination Classroom)
 
 > 2 Seasons - 47 Episodes - 2015 - Comedy/Action & Adventure/Sci-fi & Fantasy<br>
 
-- Ao no Exorcist
+- Ao no Exorcist (Blue Exorcist)
 
 > 2 Arasına - 37 Episodes - 2011 - Dram/Comedy/Sci-fi & Fantasy<br>
 
@@ -36,11 +36,11 @@ My List of **Animes I Watched**
 
 > 1 Season - 24 Episodes - 2018 - Dram/Mystery/Action & Adventure<br>
 
-- Boku no Hero Academia
+- Boku no Hero Academia (My Hero Academia)
 
 > 5 Seasons - 113 Episodes - 2016 - Action & Adventure/Comedy/Sci-fi & Fantasy<br>
 
-- Bungou Stray Dogs
+- Bungou Stray Dogs (Literary Stray Dogs)
 
 > 3 Season - 36 Episodes - 2016 - Dram/Crime/Mystery/Comedy<br>
 
@@ -48,19 +48,19 @@ My List of **Animes I Watched**
 
 > 1 season - 13 Episodes - 2013 - Dram/Fantasy<br>
 
-- Classroom of The Elite
+- Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e (Classroom of the Elite)
 
 > 2 Seasons - 24 Episodes - 2017 - Dram/Comedy<br>
 
-- Code Geass: Boukoku no Akito (5 Serial Movie)
+- Code Geass: Boukoku no Akito (Code Geass: Akito the Exiled)
 
 > Serial movie(5) - 2012 - Action & Adventure/Sci-fi & Fantasy<br>
 
-- Code Geass: Fukkatsu no Lelouch
+- Code Geass: Fukkatsu no Lelouch (Code Geass: Lelouch of Re;surrection)
 
 > Movie - 2019 - Action & Adventure/Sci-fi & Fantasy<br>
 
-- Code Geass: Hangyaku no Lelouch
+- Code Geass: Hangyaku no Lelouch (Code Geass: Lelouch of the Rebellion)
 
 > 2 Seasons - 48 Episodes - 2006 - Dram/Action & Adventure/Sci-fi & Fantasy<br>
 
@@ -80,7 +80,7 @@ My List of **Animes I Watched**
 
 > 1 Season - 10 Episodes - 2018 - Action & Adventure/Sci-fi & Fantasy<br>
 
-- Domestic na Kanojo
+- Domestic na Kanojo (Domestic Girlfriend)
 
 > 1 Season - 12 Episodes - 2019 - Dram/Romance/Ecchi<br>
 
@@ -96,7 +96,7 @@ My List of **Animes I Watched**
 
 > 8 Seasons - 328 Episodes - 2009 - Comedy/Mystery/Action & Adventure/Sci-fi & Fantasy<br>
 
-- Fullmetal Alchemist: Brotherhood
+- Hagane no Renkinjutsushi: Brotherhood (Fullmetal Alchemist: Brotherhood)
 
 > 1 Season - 64 Episodes - 2009 - Dram/Mystery/Action & Adventure/Sci-fi & Fantasy<br>
 
@@ -112,7 +112,7 @@ My List of **Animes I Watched**
 
 > 4 Seasons - 48 Episodes - 2012 - Sci-fi & Fantasy/Comedy/Ecchi/Harem/Romantic comedy<br>
 
-- Ijiranaide, Nagatoro-san
+- Ijiranaide, Nagatoro-san (Don't Toy with me Miss Nagatoro
 
 > 1 Season - 12 Episodes - 2021 - Comedy/Family<br>
 
@@ -124,23 +124,23 @@ My List of **Animes I Watched**
 
 > 1 Season - 24 Episodes - 2020 - Action & Adventure/Science Fiction & Fantasy/Mystery<br>
 
-- Kaguya-sama wa Kokurasetai
+- Kaguya-sama wa Kokurasetai (Kaguya Sama: Love is War)
 
 > 3 Seasons - 35 Episodes - 2019 - Dram/Comedy/Romantic<br>
 
-- Kanojo, Okarishimasu
+- Kanojo, Okarishimasu (Rent a Girlfriend)
 
 > 2 Season - 24 Episodes - 2020 - Comedy/Ecchi<br>
 
-- Kimetsu no Yaiba
+- Kimetsu no Yaiba (Demon Slayer)
 
 > 2 Season - 38 Episodes - 2019 - Dram/Action & Adventure<br>
 
-- Kimetsu no Yaiba: Mugen Train
+- Kimetsu no Yaiba: Mugen Ressha-hen (Demon Slayer the Movie: Mugen Train)
 
 > Movie - 2020 - Action & Adventure/Dram/Science Fiction & Fantasy<br>
 
-- Kimi no na wa.
+- Kimi no na wa. (Your Name.)
 
 > Movie - 2016 - Dram/Romantic<br>
 
@@ -152,11 +152,11 @@ My List of **Animes I Watched**
 
 > 1 Season - 12 Episodes - 2016 - Dram/Sci-fi & Fantasy<br>
 
-- Kobayashi-San Chi no Maid Dragon
+- Kobayashi-San Chi no Maid Dragon (Miss Kobayashi's Dragon Maid)
 
 > 2 Seasons - 25 Episodes - 2017 - Comedy<br>
 
-- Koroshi Ai
+- Koroshi Ai (Love of Kill)
 
 > 1 Season - 12 Episodes - 2022 - Action & Adventure<br>
 
@@ -164,7 +164,7 @@ My List of **Animes I Watched**
 
 > 1 Season - 13 Episodes - 2022 - Comedy/Action & Adventure<br>
 
-- Mirai Nikki
+- Mirai Nikki (Future Diaries)
 
 > 1 Season - 26 Episodes - 2011 - Dram/Mystery/Action & Adventure<br>
 
@@ -172,19 +172,19 @@ My List of **Animes I Watched**
 
 > 1 Season - 74 Episodes - 2004 - Dram/Crime/Mystery<br>
 
-- Mushoku Tensei: Isekai Ittara Honki Dasu (manga is finished)
+- Mushoku Tensei: Isekai Ittara Honki Dasu (Mushoku Tensei: Jobless Reincarnation)
 
 > 1 Season - 24 Episodes - 2021 - Ecchi/Action & Adventure/Sci-fi & Fantasy<br>
 
-- Sono Bisque Doll wa Koi wo Suru
+- Sono Bisque Doll wa Koi wo Suru (My Dress Up Darling)
 
 > 1 Season - 12 Episodes - 2022 - Comedy/Dram/Ecchi<br>
 
-- Nanatsu no Taizai
+- Nanatsu no Taizai (The Seven Deadly Sins)
 
 > 4 Seasons - 97 Episodes - 2014 - Ecchi/Action & Adventure/Sci-fi & Fantasy<br>
 
-- Neon Genesis Evangelion
+- Shin Seiki Evangelion (Neon Genesis Evangelion)
 
 > 1 Season - 26 Episodes - 1995 - Dram/Sci-Fi & Fantasy<br>
 
@@ -204,11 +204,11 @@ My List of **Animes I Watched**
 
 > 1 Season - 13 Episodes - 2016 - Dram<br>
 
-- Owari no Seraph
+- Owari no Seraph (Seraph of the End)
 
 > 2 Seasons - 24 Episodes - 2015 - Action & Adventure/Sci-fi & Fantasy/Dram<br>
 
-- Ousama Game
+- Ousama Game The Animation (King's Game The Animation)
 
 > 1 Season - 12 Episodes - 2017 - Dram<br>
 
@@ -216,7 +216,7 @@ My List of **Animes I Watched**
 
 > 1 Season - 8 Episodes - 2020 - Comedy/Romantic/Ecchi/Hentai/Erotic<br>
 
-- Parasyte
+- Kiseijuu: Sei no Kakuritsu (Parasyte: The Maxim)
 
 > 1 Season - 24 Episodes - 2014 - Dram/Action & Adventure/Sci-fi & Fantasy<br>
 
@@ -224,19 +224,19 @@ My List of **Animes I Watched**
 
 > 1 Season - 24 Episodes - 2021 - Dram/Mystery<br>
 
-- Re: Zero Kara Hajimeru Isekai Seikatsu
+- Re: Zero Kara Hajimeru Isekai Seikatsu (Re: Zero Starting Life in Another World)
 
 > 2 Seasons - 50 Episodes - 2016 - Dram/Comedy/Action & Adventure/Sci-fi & Fantasy<br>
 
-- Redo of Healer
+- Kaifuku Jutsushi no Yarinaoshi (Redo of Healer)
 
 > 1 Season - 12 Episodes - 2021 - Dram/Action & Adventure/Science Fiction & Fantasy/Ecchi/Erotic/Hentai<br>
 
-- Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+- Seishun Buta Yarō wa Bunny Girl Senpai no Yume o Minai (Rascal Does Not Dream of Bunny Girl Senpai)
 
 > 1 Season - 13 Episodes - 2018 - Comedy/Mystery/Harem<br>
 
-- Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
+- Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai (Rascal Does Not Dream of a Dreaming Girl)
 
 > Movie - 2019 - Heavy Drama/Mystery/Romance<br>
 
@@ -244,15 +244,15 @@ My List of **Animes I Watched**
 
 > 1 Season - 24 Episodes - 2010 - Mystery/Horror/Thriller/Science Fiction & Fantasy<br>
 
-- Shingeki no Kyojin
+- Shingeki no Kyojin (Attack on Titan)
 
 > 4 Seasons - 96 Episodes - 2013 - Dram/Action & Adventure/Science Fiction & Fantasy/Mystery<br>
 
-- Shinmai Maou no Testament
+- Shinmai Maou no Testament (The Testament of Sister New Devil)
 
 > 2 Seasons - 22 Episodes - 2015 - Comedy/Action & Adventure/Sci-fi & Fantasy/Ecchi/Harem<br>
 
-- Shuumatsu no Harem
+- Shuumatsu no Harem (World's End Harem)
 
 > 1 Season - 12 Episodes - 2021 - Dram/Sci-fi & Fantasy/Mystery/Harem/Ecchi<br>
 
@@ -268,15 +268,15 @@ My List of **Animes I Watched**
 
 > 1 Season - 12 Edisodes - 2021 - Action & Adventure/Sci-fi & Fantasy<br>
 
-- Tantei wa Mou, Shindeiru
+- Tantei wa Mou, Shindeiru (The Detective is Already Dead)
 
 > 1 Season - 24 Episodes - 2021 - Dram/Mystery<br>
 
-- Tensei Shitara Slime Datta Ken
+- Tensei Shitara Slime Datta Ken (That Time I Got Reincarnated as a Slime)
 
 > 2 Seasons - 48 Episodes - 2018- Action & Adventure/Comedy<br>
 
-- Tensura Nikki: Tensei Shitara Slime Datta Ken
+- Tensura Nikki: Tensei Shitara Slime Datta Ken (Slime Diaries: That Time I Got Reincarnated as a Slime)
 
  > 1 Season - 12 Episodes - 2021 - Comedy/Action & Adventure/Fantasy & Sci-fi/Diary anime
 
@@ -296,23 +296,23 @@ My List of **Animes I Watched**
 
 > 1 Season - 13 Episodes - 2018 - Dram/Sci-Fi & Fantasy<br>
 
-- Weathering With You
+- Tenki no Ko (Weathering With You)
 
 > Movie - 2019 - Dram/Romance<br>
 
-- Wonder Egg Pritority
+- Wonder Egg Priority
 
 > 1 Season - 12 Episodes - 2021 - Dram/Mystery/Sci-fi & Fantasy<br>
 
-- Yakusoku no Neverland
+- Yakusoku no Neverland (The Promised Neverland)
 
 > 2 Seasons - 23 Episodes - 2019 - Action & Adventure/Science Fiction & Fantasy/Mystery/Dram<br>
 
-- Yofukashi no Uta
+- Yofukashi no Uta (Call of Night)
 
 > 1 Season - 13 Episodes - 2022 - Comedy/Sci-fi & Fantasy<br>
 
-- Your lie in April
+- Shigatsu wa Kimi no Uso (Your lie in April)
 
 > 1 Season - 22 Episodes - 2014 - Dram/Musical/Comedy<br>
 
