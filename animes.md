@@ -420,7 +420,7 @@ My List of **Animes I Watched**
 - Liar Mask by Rika Mayama (Akame Ga Kill!)
 
 
-<img src="https://static.zerochan.net/Monster.%28Series%29.full.1440225.jpg">
+<img src="https://media.discordapp.net/attachments/775822548519616562/1014427839904366613/monster.jpg?width=840&height=274">
 
 📷 Image: Johann Liebert (Left and Middle) & Anna Liebert (or Nina Fortner) (Right) from Monster
 
