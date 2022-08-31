@@ -321,111 +321,82 @@ My List of **Animes I Watched**
 📷 Image: Roxy - Mushoku Tensei: Isekai Ittara Honki Dasu
 
 
-## My Best Animes
+## My Best Anime Series
 
 - Code Geass: Hangyaku no Lelouch
-- Neon Genesis Evangelion
-- Monster
+- Shin Seiki Evangelion
 - Mushoku Tensei: Isekai Ittara Honki Dasu
-- Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+- Monster
+- Hagane no Renkinjutsushi: Brotherhood
+- Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e
 - Re: Zero Kara Hajimeru Isekai Seikatsu
 - Tensei Shitara Slime Datta Ken
-- Fullmetal Alchemist: Brotherhood
-- Mirai Nikki
-- Tokyo Ghoul
-- Kimetsu no Yaiba
 - Sword Art Online
-- Shingeki no Kyojin
-- Death Note
+- Mirai Nikki
+- Kimetsu no Yaiba
+- Tokyo Ghoul
 - Orange
-- Bungou Stray Dogs
-- Seishun Buta Yarō wa Bunny Girl Senpai no Yume o Minai
 - Charlotte
 - Owari no Seraph
+- Bungō Stray Dogs
+- Akame ga Kill!
+- Death Note
 - Vinland Saga
-- Akame Ga Kill!
-- Ansatsu Kyoushitsu
-- Domestic na Kanojo
-- Shigatsu wo Kimi no Uso
-- Lycoris Recoil
-- Jujutsu Kaisen
-- Tokyo Revengers
-- Kaifuku Jutsushi no Yarinaoshi
-- Kaguya-sama wa Kokurasetai
-- Spy x Family
-- No game No life
 - Platinum End
-- Dororo
-- Yakusoku no Neverland
-- Dr. Stone
-- Kiseijuu: Sei no Kakuritsu
-- Ousama Game: The Animation
-- Another
-- Devilman Crybaby
+- Domestic na Kanojo
+- Shingeki no Kyojin
+- Tokyo Revengers
+- Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+- No Game No Life
+- Jujutsu Kaisen
+- Kaifuku Jutsushi no Yarinaoshi
+- Violet Evergarden
 - High School DxD
-- Deadman Wonderland
-- Yofukashi no Uta
-- Noragami
+- Dr. Stone
+- Ousama Game The Animation
+- Spy x Family
+- Shigatsu wa Kimi no Uso
+- Devilman Crybaby
+- Kiseijuu: Sei no Kakuritsu
+- Kaguya-sama wa Kokurasetai
+- Another
+- Kiznaiver
+- Nanatsu no Taizai
+- Boku no Hero Academia
+- Shiki
+- Sono Bisque Doll wa Koi wo Suru
 - Ao no Exorcist
+- Ansatsu Kyoushitsu
+- Deadman Wonderland
+- Yakusoku no Neverland
+- Noragami
+- Lycoris Recoil
+- Yofukashi no Uta
 - Koroshi Ai
 - Golden Time
-- Violet Evergarden
-- Darling in the FranXX
-- Kiznaiver
-- Shiki
-- Boku no Hero Academia
-- Nanatsu no Taizai
-- Sono Bisque Doll wa Koi wo Suru
 - 5-Toubun no Hanayome
-- Shuumatsu no Harem
-- Fairy Tail
-- Shinmai Maou no Tastement
-- Wonder Egg Priority
-- Tantei wa mou, shindeiru
+- Dororo
 - Noblesse
-- Ijiranaide, Nagatoro-san
+- Shuumatsu no Harem
+- Shinmai Maou no Testament
 - Kanojo, Okarishimasu
-- 91 Days
-- Goblin Slayer
+- Fairy Tail
+- Darling in the FranXX
+- Tantei wa Mou, Shindeiru
+- Kobayashi-San Chi no Maid Dragon
+- Ijiranaide, Nagatoro-san
+- Akatsuki no Yona
 - Banana Fish
-- Kobayashi-san chi no Maid Dragon
-- Kiss X Sis
-- Takt op. Destiny
+- Wonder Egg Priority
+- Tensura Nikki: Tensei Shitara Slime Datta Ken
+- Goblin Slayer
+- 91 Days
+- Takt Op. Destiny
+- Kiss x Sis
 
 <img src="https://cdn.wallpapersafari.com/30/89/gQmcBk.jpg">
 
 📷 Image: Lelouch vi Brittania(left) and C.C.(right) - Code Geass: Hangyaku no Lelouch
-
-# My Best Seasonal Anime
-
-- 2020 Winter => Boku no Hero Academia 4th Season
-- 2020 Spring => Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen
-- 2020 Summer => Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
-- 2020 Fall => Jujutsu Kaisen
-- 2021 Winter => Mushoku Tensei: Isekai Ittara Honki Dasu
-- 2021 Spring => Tokyo Revengers
-- 2021 Summer => Tensei shitara Slime Datta Ken 2nd Season Part 2
-- 2021 Fall => Mushoku Tensei: Isekai Ittara Honki Dasu Part 2
-- 2022 Winter => Shingeki no Kyojin: The Final Season Part 2
-- 2022 Spring => Spy x Family
-- 2022 Summer => Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
-- 2022 Fall => Chainsaw Man / Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen / Suzume no Tojimari / ... (?)
-- 2023 Winter => Bungou Stray Dogs 4th Season (?)
-- 2023 (Later) => Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season / Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season / Shingeki no Kyojin: The Final Season - Kanketsu-hen / Dr. Stone: New World / Goblin Slayer 2nd Season / Kimetsu no Yaiba: Katanakaji no Sato-hen / Jujutsu Kaisen 2nd Season / Tantei wa Mou, Shindeiru. Season 2 / Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai / ... (?)
-
-# My Best Final Scenes
-
-- Tokyo Ghoul Season 2 Final Scene (Tokyo Ghoul Season 2 Episode 12 "Ken")
-- Mirai Nikki Final Scene (Mirai Nikki Episode 26 "Format")
-- Platinum End Final Scene (Platinum End Episode 24 "Last Arrow")
-- Fullmetal Alchemist: Brotherhood Final Scene (Fullmetal Alchemist: Brotherhood Episode 64 "End of Journey")
-- Akame Ga Kill! Final Scene (Akame Ga Kill! Episode 24 "Akame Ga Kill!")
-- Ansatsu Kyoushitsu Season 2 Final Scene (Ansatsu Kyoushitsu Season 2 Episode 25 "Future Tense")
-- Death Note Final Scene (Death Note Episode 37 "New World")
-- Orange Final Scene (Orange Episode 13 "Letter 13")
-- Charlotte Final Scene (Charlotte Episode 13 "Memories to Come")
-- Tokyo Ghoul Season 1 Final Scene (Tokyo Ghoul Season 1 Episode 12 "Ghoul")
-- Code Geass: Hangyaku no Lelouch R2 Final Scene (Season 2 Episode 25 "Re;")
 
 # My Best Opening Theme
 
@@ -483,26 +454,6 @@ My List of **Animes I Watched**
 - Akabane Karma (Ansatsu Kyoushitsu)
 - Akame (Akame ga Kill!)
 - Nino Nakano (5-Toubun no Hanayome)
-
-# My Best...
-
-- Adventure Anime: Re: Zero Kara Hajimeru Isekai Seikatsu
-- Action Anime: Kimetsu no Yaiba
-- Science Fiction Anime: Fullmetal Alchemist: Brotherhood
-- Fantasy Anime: Mushoku Tensei: Isekai Ittara Honki Dasu
-- Dram Anime: Neon Genesis Evangelion
-- Comedy Anime: Kaguya-sama wa Kokurasetai
-- Mystery Anime: Code Geass: Hangyaku no Lelouch 
-- Crime Anime: Monster
-- Detective Anime: Bungou Stray Dogs
-- Ecchi Anime: Domestic na Kanojo
-- Harem Anime: Redo of Healer
-- School Anime: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
-- Isekai Anime: Tensei Shitara Slime Datta Ken
-- Anime Movie: Kimi no na wa.
-- Anime: Code Geass: Hangyaku no Lelouch
-- Manga: Monster
-- Light Novel: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
 
 # Watch Order
 
