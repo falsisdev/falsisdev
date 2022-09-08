@@ -321,15 +321,15 @@ My List of **Animes I Watched**
 📷 Image: Lelouch vi Brittania from Code Geass: Hangyaku no Lelouch
 
 
-## My Best Anime Series
+## My Best Series
 
+- Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e
 - Code Geass: Hangyaku no Lelouch
+- Monster
 - Shin Seiki Evangelion
 - Mushoku Tensei: Isekai Ittara Honki Dasu
-- Monster
-- Hagane no Renkinjutsushi: Brotherhood
-- Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e
 - Re: Zero Kara Hajimeru Isekai Seikatsu
+- Hagane no Renkinjutsushi: Brotherhood
 - Tensei Shitara Slime Datta Ken
 - Sword Art Online
 - Mirai Nikki
@@ -337,9 +337,9 @@ My List of **Animes I Watched**
 - Tokyo Ghoul
 - Orange
 - Charlotte
+- Akame ga Kill!
 - Owari no Seraph
 - Bungō Stray Dogs
-- Akame ga Kill!
 - Death Note
 - Vinland Saga
 - Platinum End
@@ -400,9 +400,9 @@ My List of **Animes I Watched**
 
 # My Best Opening Theme
 
-- Dance in the Game by ZAQ (Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e 2nd Season)
-- A Cruel Angel's Thesis by Yoko Takahashi (Shin Seiki Evangelion)
 - Kowaki wo Ameku by Minami (Domestic no Kanojo)
+- A Cruel Angel's Thesis by Yoko Takahashi (Shin Seiki Evangelion)
+- Dance in the Game by ZAQ (Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e 2nd Season)
 - Unravel by TK from Ling tosite sugire (Tokyo Ghoul Season 1)
 - Hikari no Hahen by Yuu Takahashi (Orange)
 - Kyomu Dansen by ALI PROJECT (Another)
@@ -430,7 +430,6 @@ My List of **Animes I Watched**
 - Lelouch vi Brittania (Code Geass: Hangyaku no Lelouch)
 - Ayonokoji Kiyotaka (Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e)
 - Johann Liebert (Monster)
-- Karuizawa Kei (Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e)
 - Rimuru Tempest (Tensei Shitara Slime Datta Ken)
 - Rudeus Greyrat (Mushoku Tensei: Isekai Ittara Honki Dasu)
 - Ashera Tepes/Ashuramaru (Seraph of The End)
