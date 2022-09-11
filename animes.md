@@ -36,6 +36,10 @@ My List of **Animes I Watched**
 
 > 1 Season - 24 Episodes - 2018 - Dram/Mystery/Action & Adventure<br>
 
+- Boku dake ga Inai Machi
+
+> 1 Season - 12 Episodes - 2016 - Dram/Mystery<br>
+
 - Boku no Hero Academia (My Hero Academia)
 
 > 5 Seasons - 113 Episodes - 2016 - Action & Adventure/Comedy/Sci-fi & Fantasy<br>
@@ -338,6 +342,7 @@ My List of **Animes I Watched**
 - Orange
 - Charlotte
 - Akame ga Kill!
+- Boku dake ga Inai Machi
 - Owari no Seraph
 - Bungō Stray Dogs
 - Death Note
@@ -550,6 +555,7 @@ My List of **Animes I Watched**
 80. Dororo
 81. Weathering With You
 82. Neon Genesis Evangelion
+83. Boku dake ga Inai Machi
 
 <img src="https://cdn.discordapp.com/attachments/775822548519616562/1006136087426650112/unknown.png">
 
@@ -557,17 +563,17 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 82
+- Anime Count: 83
 - Manga Count: 30
 - Light Novel Count: 1
 
 ### Types of the Animes
 
 - Action & Adventure: 43
-- Dram: 37
+- Dram: 38
 - Sci-fi & Fantasy: 36
 - Comedy: 29
-- Mystery/Crime: 23
+- Mystery/Crime: 24
 - Ecchi/Harem/Hentai: 15
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
