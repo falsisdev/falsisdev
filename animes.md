@@ -146,7 +146,7 @@ My List of **Animes I Watched**
 
 - Kimi no na wa. (Your Name.)
 
-> Movie - 2016 - Dram/Romantic<br>
+> Movie - 2016 - Dram/Romance<br>
 
 - Kiss x Sis 
 
@@ -159,6 +159,10 @@ My List of **Animes I Watched**
 - Kobayashi-San Chi no Maid Dragon (Miss Kobayashi's Dragon Maid)
 
 > 2 Seasons - 25 Episodes - 2017 - Comedy<br>
+
+- Kotonoha no Niwa
+
+> Movie - 2013 - Dram/Romance<br>
 
 - Koroshi Ai (Love of Kill)
 
@@ -556,6 +560,7 @@ My List of **Animes I Watched**
 81. Weathering With You
 82. Neon Genesis Evangelion
 83. Boku dake ga Inai Machi
+84. Kotonoha no Niwa
 
 <img src="https://cdn.discordapp.com/attachments/775822548519616562/1006136087426650112/unknown.png">
 
@@ -563,14 +568,14 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 83
+- Anime Count: 84
 - Manga Count: 30
 - Light Novel Count: 1
 
 ### Types of the Animes
 
 - Action & Adventure: 43
-- Dram: 38
+- Dram: 39
 - Sci-fi & Fantasy: 36
 - Comedy: 29
 - Mystery/Crime: 24
