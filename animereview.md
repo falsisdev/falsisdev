@@ -43,7 +43,7 @@ Seriye de light novel sebebiyle yine 10 veriyorum. Kesinlikle izlemeli ve okumal
 <img src="https://cdn3.falsisdev.repl.co/anime/images?name=monster" width="200" height="300" align="right">
 <div class="review" align="left">
 Kemerlerinizi bağlayın, çünkü birazdan bir efsaneden bahsedeceğim.
-Urasawa Naoki isimli bir mangaka 1994 yılında [Monster](https://mangadex.org/title/d9e30523-9d65-469e-92a2-302995770950/monster) isimli bir manga çizmeye başladı. Bu manga tarihi için bir dönüm noktası olabilir. Çünkü bu seri, ardından gelen bir çok gizem ve polisiye serilerini etkilemiş. Belki de şuanki manipülasyon animeleri bile bu seriden etkilenmiş.
+Urasawa Naoki isimli bir mangaka 1994 yılında Monster (<a href="https://mangadex.org/title/d9e30523-9d65-469e-92a2-302995770950/monster">MangaDex</a>) isimli bir manga çizmeye başladı. Bu manga tarihi için bir dönüm noktası olabilir. Çünkü bu seri, ardından gelen bir çok gizem ve polisiye serilerini etkilemiş. Belki de şuanki manipülasyon animeleri bile bu seriden etkilenmiş.
 
 Ayrıca bu manga Tüm Mangalarda 46. Shogakukan Manga Ödülü'nü kazandı.
   
