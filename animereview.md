@@ -4,7 +4,7 @@ The language of this page is Turkish. If you don't understand Turkish. Please wa
 
 ### Kotonoha no Niwa (2013)
 
-<img src="https://images6.fanpop.com/image/photos/38800000/Kotonoha-no-Niwa-The-Garden-of-Words-Poster-kotonoha-no-niwa-38801065-1400-2100.jpg" width="200" height="300" align="right">
+<img src="https://cdn.falsis.ga/anime/images?name=kotonohanoniwa" width="200" height="300" align="right">
 <div class="review" align="left">
 Bu filmi bu yazıyı yazmadan birkaç dakika önce izledim. Makato Shinkai'nin mangasının animeye uyarlanmış şekli. Makato Shinkai; your name., Weathering with you, 5 centimeters per second gibi anime filmlerinin mangakası. Ayrıca film ekibinde de var.
 Ben şahsen Makato Shinkai'nin çoğu serisine bayılırım. Gerek mangası gerek animesi olsun harika çizim ve animasyonlara sahip, anime içerisinden alınan herhangi bir ekran görüntüsü bile çok güzel bir duvar kağıdı şeklinde kullanılabilir. 
@@ -19,7 +19,7 @@ Benim animeye puanım 6/10
 
 ### Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (2017)
 
-<img src="https://cdn3.falsisdev.repl.co/anime/images?name=cote" width="200" height="300" align="right">
+<img src="https://cdn.falsis.ga/anime/images?name=cote" width="200" height="300" align="right">
 <div class="review" align="left">
 Ben burada daha çok seriden bahsetmek istiyorum, sadece animeden değil. Serinin Light Novel (Hafif Roman) yazarı Shōgo Kinugasa gerçekten ortaya bir efsane çıkartmış. Gerek karakterlerin iç sesleri olsun, gerek sınıflar arası çatışmalarda yaşanan zekice hamleler olsun gerek de çok nadir rastlanan heyecan verici aksiyon sahneleri olsun harikalar.
 Serinin iyi yönlerinden bahsedecek olursak; karakter gelişimi, düşünce biçimi, zekice hazırlanışı, mantık çerçevesinde yapılması, heyecan verici oluşundan bahsedebiliriz.
@@ -40,7 +40,7 @@ Seriye de light novel sebebiyle yine 10 veriyorum. Kesinlikle izlemeli ve okumal
 
 ### Monster
 
-<img src="https://cdn3.falsisdev.repl.co/anime/images?name=monster" width="200" height="300" align="right">
+<img src="https://cdn.falsis.ga/anime/images?name=monster" width="200" height="300" align="right">
 <div class="review" align="left">
 Kemerlerinizi bağlayın, çünkü birazdan bir efsaneden bahsedeceğim.
 Urasawa Naoki isimli bir mangaka 1994 yılında Monster (<a href="https://mangadex.org/title/d9e30523-9d65-469e-92a2-302995770950/monster">MangaDex</a>) isimli bir manga çizmeye başladı. Bu manga tarihi için bir dönüm noktası olabilir. Çünkü bu seri, ardından gelen bir çok gizem ve polisiye serilerini etkilemiş. Belki de şuanki manipülasyon animeleri bile bu seriden etkilenmiş.
