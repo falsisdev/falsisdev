@@ -14,8 +14,6 @@ Ancak işler hikayeye gelince işler değişiyor. your name., weathering with yo
 Makato Shinkai normalde aşk hikayelerini ve bu hikayelerdeki dramı çok iyi yansıtan biri. Ama burada "pedofili" bir öğretmen ve ona aşık bir öğrenci arasındaki aşk hikayesinin "normalleştirildiğini" görüyoruz.  Bu bile aslında animeden 3 puan kırmaya yeter. Onun haricinde böyle bir hikayenin 46 dakikada sıkıştırılarak hızlı şekilde anlatılmaya çalışılması hiç olmamış. Bu kadar kısa sürede böyle bir hikayenin dramı gram yansıtılamıyor. Rahatsız edici.
 Benim animeye puanım 6/10
 </div>
-<br>
-<img src="https://3.bp.blogspot.com/-jbz5CVGZ_yc/V2rbynOublI/AAAAAAAAAqY/bxTu9FGa8-I6CSVWf9OCYZnIx6gGdYLnwCLcB/s640/Takao-and-Yukari-kotonoha-no-niwa-38798925-1500-900.png">
 
 # 
 
@@ -37,5 +35,21 @@ Kısaca mangaya puanım 2. yıl güzel olduğu için 6, animeye puanım ise 9.
 Light novel'da 10 veriyorum. Tam anlamıyla 10.
 Seriye de light novel sebebiyle yine 10 veriyorum. Kesinlikle izlemeli ve okumalısınız. Güzel bir seri...
 </div>
-<br>
-<img src="https://manga.tokyo/wp-content/uploads/2017/07/01_5.jpg">
+
+# 
+
+### Monster
+
+<img src="https://cdn3.falsisdev.repl.co/anime/images?name=monster" width="200" height="300" align="right">
+<div class="review" align="left">
+Kemerlerinizi bağlayın, çünkü birazdan bir efsaneden bahsedeceğim.
+Urasawa Naoki isimli bir mangaka 1994 yılında [Monster](https://mangadex.org/title/d9e30523-9d65-469e-92a2-302995770950/monster) isimli bir manga çizmeye başladı. Bu manga tarihi için bir dönüm noktası olabilir. Çünkü bu seri, ardından gelen bir çok gizem ve polisiye serilerini etkilemiş. Belki de şuanki manipülasyon animeleri bile bu seriden etkilenmiş.
+
+Ayrıca bu manga Tüm Mangalarda 46. Shogakukan Manga Ödülü'nü kazandı.
+  
+[Eleştirime geçmeden önce, şu çizimlerdeki asalete bakar mısınız ya?](https://you.com/proxy?url=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Y7JrAnf9R2VrzMUIsQKBMwHaGZ%26w%3D690%26c%3D7%26pid%3DApi%26p%3D0) (Resim: Johann Liebert, "İnsanların eşit olduğu tek şey 'ölümdür.'"
+  
+ Evet, şimdi eleştirimize geçelim. Hikayemiz Kenzou Tenma isminde Japon bir tıp öğrencisinin okumak için Almanya'ya gelmesi ve üniversiteyi 1.likle bitirip Almanya'nın en ünlü cerrahı olmasıyla başlıyor. Akabinde Johann isminde bir çocuğun da dahil olduğu olaylarda Dr.Tenma'nın yaşadıkları anlatılıyor. Bu anlatımda dram, polisiye, gizem gibi türler öyle bir kullanılmış ki içinize işliyor. Bıkmadan usanmadan 162 bölümlük mangayı okuyor, 74 bölümlük animeyi izliyorsunuz. Konusu gerçekten kusursuz ve zekice. Çizim ve animasyonlara gelirsek anime eski.. Eski olduğu için bunu çok değerlendirmeye almayacağım. O zamanın koşullarına göre en iyi şekilde yapılmış. Manga ise zaten çizimler ve efektler bakımında harika! 
+  
+Serinin tamamına 10/10 veriyorum!!
+</div>
