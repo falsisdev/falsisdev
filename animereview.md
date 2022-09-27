@@ -1,6 +1,9 @@
-# Anime Eleştirileri
+# Anime Reviews
+The language of this page is Turkish. If you don't understand Turkish. Please wait for it to be translated into English.
+# 
 
-- Kotonoha no Niwa (2013)
+### Kotonoha no Niwa (2013)
+
 <img src="https://images6.fanpop.com/image/photos/38800000/Kotonoha-no-Niwa-The-Garden-of-Words-Poster-kotonoha-no-niwa-38801065-1400-2100.jpg" width="200" height="300" align="right">
 <div class="review" align="left">
 Bu filmi bu yazıyı yazmadan birkaç dakika önce izledim. Makato Shinkai'nin mangasının animeye uyarlanmış şekli. Makato Shinkai; your name., Weathering with you, 5 centimeters per second gibi anime filmlerinin mangakası. Ayrıca film ekibinde de var.
@@ -14,7 +17,9 @@ Benim animeye puanım 6/10
 <br>
 <img src="https://3.bp.blogspot.com/-jbz5CVGZ_yc/V2rbynOublI/AAAAAAAAAqY/bxTu9FGa8-I6CSVWf9OCYZnIx6gGdYLnwCLcB/s640/Takao-and-Yukari-kotonoha-no-niwa-38798925-1500-900.png">
 
-- Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (2017)
+# 
+
+### Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (2017)
 
 <img src="https://cdn3.falsisdev.repl.co/anime/images?name=cote" width="200" height="300" align="right">
 <div class="review" align="left">
