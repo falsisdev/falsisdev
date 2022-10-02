@@ -42,7 +42,7 @@ My List of **Animes I Watched**
 
 - Boku no Hero Academia (My Hero Academia)
 
-> 5 Seasons - 113 Episodes - 2016 - Action & Adventure/Comedy/Sci-fi & Fantasy<br>
+> 6 Seasons - 113 Episodes - 2016 - Action & Adventure/Comedy/Sci-fi & Fantasy<br>
 
 - Bungou Stray Dogs (Literary Stray Dogs)
 
@@ -116,6 +116,10 @@ My List of **Animes I Watched**
 
 > 4 Seasons - 48 Episodes - 2012 - Sci-fi & Fantasy/Comedy/Ecchi/Harem/Romantic comedy<br>
 
+- Hunter x Hunter
+
+> 3 Seasons - 148 Episodes - 2011 - Dram/Comedy/Action & Adventure<br>
+
 - Ijiranaide, Nagatoro-san (Don't Toy with me Miss Nagatoro
 
 > 1 Season - 12 Episodes - 2021 - Comedy/Family<br>
@@ -160,7 +164,7 @@ My List of **Animes I Watched**
 
 > 2 Seasons - 25 Episodes - 2017 - Comedy<br>
 
-- Kotonoha no Niwa
+- Kotonoha no Niwa (The Garden of Words)
 
 > Movie - 2013 - Dram/Romance<br>
 
@@ -266,7 +270,7 @@ My List of **Animes I Watched**
 
 - Spy x Family
 
-> 1 Season - 12 Episodes - 2022 - Crime/Comedy/Action & Adventure<br>
+> 1 Season - 24 Episodes - 2022 - Crime/Comedy/Action & Adventure<br>
 
 - Sword Art Online
 
@@ -331,12 +335,13 @@ My List of **Animes I Watched**
 
 ## My Best Series
 
-- Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e
-- Code Geass: Hangyaku no Lelouch
 - Monster
-- Shin Seiki Evangelion
-- Mushoku Tensei: Isekai Ittara Honki Dasu
 - Re: Zero Kara Hajimeru Isekai Seikatsu
+- Code Geass: Hangyaku no Lelouch
+- Shin Seiki Evangelion
+- Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e
+- Mushoku Tensei: Isekai Ittara Honki Dasu
+- Hunter x Hunter
 - Hagane no Renkinjutsushi: Brotherhood
 - Tensei Shitara Slime Datta Ken
 - Sword Art Online
@@ -561,6 +566,7 @@ My List of **Animes I Watched**
 82. Neon Genesis Evangelion
 83. Boku dake ga Inai Machi
 84. Kotonoha no Niwa
+85. Hunter x Hunter
 
 <img src="https://cdn.discordapp.com/attachments/775822548519616562/1006136087426650112/unknown.png">
 
@@ -568,16 +574,16 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 84
+- Anime Count: 85
 - Manga Count: 30
 - Light Novel Count: 1
 
 ### Types of the Animes
 
-- Action & Adventure: 43
-- Dram: 39
+- Action & Adventure: 44
+- Dram: 40
 - Sci-fi & Fantasy: 36
-- Comedy: 29
+- Comedy: 30
 - Mystery/Crime: 24
 - Ecchi/Harem/Hentai: 15
 
