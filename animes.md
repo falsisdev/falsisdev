@@ -346,9 +346,9 @@ My List of **Animes I Watched**
 - Tensei Shitara Slime Datta Ken
 - Sword Art Online
 - Mirai Nikki
+- Orange
 - Kimetsu no Yaiba
 - Tokyo Ghoul
-- Orange
 - Charlotte
 - Akame ga Kill!
 - Boku dake ga Inai Machi
