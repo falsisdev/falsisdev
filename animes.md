@@ -338,10 +338,10 @@ My List of **Animes I Watched**
 - Monster
 - Re: Zero Kara Hajimeru Isekai Seikatsu
 - Code Geass: Hangyaku no Lelouch
+- Hunter x Hunter
 - Shin Seiki Evangelion
 - Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e
 - Mushoku Tensei: Isekai Ittara Honki Dasu
-- Hunter x Hunter
 - Hagane no Renkinjutsushi: Brotherhood
 - Tensei Shitara Slime Datta Ken
 - Sword Art Online
