@@ -48,6 +48,10 @@ My List of **Animes I Watched**
 
 > 3 Season - 36 Episodes - 2016 - Dram/Crime/Mystery/Comedy<br>
 
+- Byousoku 5 Centimeter (5 Centimeters per Second)
+
+> Movie - 2007 - Dram/Romance<br>
+
 - Charlotte
 
 > 1 season - 13 Episodes - 2013 - Dram/Fantasy<br>
@@ -567,6 +571,7 @@ My List of **Animes I Watched**
 83. Boku dake ga Inai Machi
 84. Kotonoha no Niwa
 85. Hunter x Hunter
+86. Byousoku 5 Centimeter
 
 <img src="https://cdn.discordapp.com/attachments/775822548519616562/1006136087426650112/unknown.png">
 
@@ -574,14 +579,14 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 85
+- Anime Count: 86
 - Manga Count: 30
 - Light Novel Count: 1
 
 ### Types of the Animes
 
 - Action & Adventure: 44
-- Dram: 40
+- Dram/Romance: 41
 - Sci-fi & Fantasy: 36
 - Comedy: 30
 - Mystery/Crime: 24
