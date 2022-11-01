@@ -38,7 +38,7 @@ Seriye de light novel sebebiyle yine 10 veriyorum. Kesinlikle izlemeli ve okumal
 
 # 
 
-### Monster
+### Monster (2004)
 
 <img src="https://cdn.falsis.ga/anime/images?name=monster" width="200" height="300" align="right">
 <div class="review" align="left">
@@ -52,4 +52,20 @@ Ayrıca bu manga Tüm Mangalarda 46. Shogakukan Manga Ödülü'nü kazandı.
  Evet, şimdi eleştirimize geçelim. Hikayemiz Kenzou Tenma isminde Japon bir tıp öğrencisinin okumak için Almanya'ya gelmesi ve üniversiteyi 1.likle bitirip Almanya'nın en ünlü cerrahı olmasıyla başlıyor. Akabinde Johann isminde bir çocuğun da dahil olduğu olaylarda Dr.Tenma'nın yaşadıkları anlatılıyor. Bu anlatımda dram, polisiye, gizem gibi türler öyle bir kullanılmış ki içinize işliyor. Bıkmadan usanmadan 162 bölümlük mangayı okuyor, 74 bölümlük animeyi izliyorsunuz. Konusu gerçekten kusursuz ve zekice. Çizim ve animasyonlara gelirsek anime eski.. Eski olduğu için bunu çok değerlendirmeye almayacağım. O zamanın koşullarına göre en iyi şekilde yapılmış. Manga ise zaten çizimler ve efektler bakımında harika! 
   
 Serinin tamamına 10/10 veriyorum!!
+</div>
+
+#
+
+### Neon Genesis Evangelion: The End of Evangelion (1997)
+
+<img src="https://upload.wikimedia.org/wikipedia/tr/3/3d/Neon_Genesis_Evangelion_The_End_of_Evangelion.jpg" width="200" height="300" align="right">
+<div class="review" align="left">
+Yazıyı yazdığım günden önceki gün gece izlemiş olduğum nadide filmdir. 1 Saat 27 Dakikamı yatarak, sadece ekrana bakıp burnumu çekerek geçirdim. Görünüşte böyle olsa da içimde hiç böyle değil. O gece bana öyle bir his bıraktı ki uzun uzun uzanıp düşündüm.
+  
+"The fate of destruction is also the joy of rebirth"
+  
+  Filmi aslen 2 bölümün birleşmesi ile yapmışlar. Film içerisinde 25 ve 26. bölümler yazdığı da görülüyor zaten. Aynı zamanda TMDb'de de Neon Genesis Evangelion serisi 24 değil 26 bölüm gözüküyor. Yani bu filmi bölüp dizi sonuna ekleyerek de izleyebilirsiniz.
+ Film zaten yeteri kadar açıklayıcı olmayan 1995 finalinin ardından yapılmış 1997 yapımlı bir film. Yapım yılı yaklaşık 25 sene öncesi olmasına rağmen sunulan 720p'lik iyi kalite ve güzel çizim/animasyonlar insanı filme çeken etkenlerden biri.
+  Evangelion vb. serileri bu tür kriterlerden çok yaşattığı duygular ile değerlendirmek istiyorum. Film başında boşluğa düşmüş gibi hissediyorsunuz, neler olduğunu anlamaya çalışıyorsunuz. Ortalara doğru anladığınızda üzülüyorsunuz, çünkü yansıtılan dram ağır bir dram. Yansıtılış şekli ise kusursuz. Film sonunda ise ne hissedeceğinizi bilemiyorsunuz. Hüzün mü Sevinç mi Kaygı mı? İşte ben de tam bu duygu karışımı yüzünden uzun bir süre düşündüm. 
+  Görüp görebileceğiniz en iyi filmdir kendisi. Hem seriye güzel bir nokta koymuş, hem içimizde değişik duygular oluşturmuş. Bu başarılı yapıma puanım 10/10.
 </div>
