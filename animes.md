@@ -204,6 +204,10 @@ My List of **Animes I Watched**
 
 > 1 Season - 26 Episodes - 1995 - Dram/Sci-Fi & Fantasy<br>
 
+- Neon Genesis Evangelion: The End of Evangelion (Shin Seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni)
+
+> Movie - 1997 - Dram/Sci-Fi & Fantasy<br>
+
 - No Game No Life
 
 > 1 Season - 18 Episodes - 2014 - Action & Adventure/Sci-fi & Fantasy/Comedy<br>
@@ -572,6 +576,7 @@ My List of **Animes I Watched**
 84. Kotonoha no Niwa
 85. Hunter x Hunter
 86. Byousoku 5 Centimeter
+87. Neon Genesis Evangelion: The End of Evangelion
 
 <img src="https://cdn.discordapp.com/attachments/775822548519616562/1006136087426650112/unknown.png">
 
@@ -579,15 +584,15 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 86
-- Manga Count: 30
+- Anime Count: 87
+- Manga Count: 43
 - Light Novel Count: 1
 
 ### Types of the Animes
 
 - Action & Adventure: 44
-- Dram/Romance: 41
-- Sci-fi & Fantasy: 36
+- Dram/Romance: 42
+- Sci-fi & Fantasy: 37
 - Comedy: 30
 - Mystery/Crime: 24
 - Ecchi/Harem/Hentai: 15
