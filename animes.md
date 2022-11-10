@@ -136,6 +136,10 @@ My List of **Animes I Watched**
 
 > 1 Season - 24 Episodes - 2020 - Action & Adventure/Science Fiction & Fantasy/Mystery<br>
 
+- Jujutsu Kaisen 0
+
+> Movie - 2021 - Action & Adventure/Sci-Fi & Fantasy<br>
+
 - Kaguya-sama wa Kokurasetai (Kaguya Sama: Love is War)
 
 > 3 Seasons - 35 Episodes - 2019 - Dram/Comedy/Romantic<br>
@@ -577,6 +581,7 @@ My List of **Animes I Watched**
 85. Hunter x Hunter
 86. Byousoku 5 Centimeter
 87. Neon Genesis Evangelion: The End of Evangelion
+88. Jujutsu Kaisen 0
 
 <img src="https://cdn.discordapp.com/attachments/775822548519616562/1006136087426650112/unknown.png">
 
@@ -584,15 +589,15 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 87
+- Anime Count: 88
 - Manga Count: 43
 - Light Novel Count: 1
 
 ### Types of the Animes
 
-- Action & Adventure: 44
+- Action & Adventure: 45
 - Dram/Romance: 42
-- Sci-fi & Fantasy: 37
+- Sci-fi & Fantasy: 38
 - Comedy: 30
 - Mystery/Crime: 24
 - Ecchi/Harem/Hentai: 15
