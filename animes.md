@@ -108,6 +108,10 @@ My List of **Animes I Watched**
 
 > 1 Season - 64 Episodes - 2009 - Dram/Mystery/Action & Adventure/Sci-fi & Fantasy<br>
 
+- Hellsing Ultimate
+
+> 1 Season - 10 Episodes - 2006 - Dram/Action & Adventure<br>
+
 - Goblin Slayer
 
 > 1 Season - 12 Episodes - 2018 - Dram/Action & Adventure/Sci-fi & Fantasy<br>
@@ -368,6 +372,7 @@ My List of **Animes I Watched**
 - Bungō Stray Dogs
 - Death Note
 - Vinland Saga
+- Hellsing Ultimate
 - Platinum End
 - Domestic na Kanojo
 - Shingeki no Kyojin
@@ -582,6 +587,7 @@ My List of **Animes I Watched**
 86. Byousoku 5 Centimeter
 87. Neon Genesis Evangelion: The End of Evangelion
 88. Jujutsu Kaisen 0
+89. Hellsing Ultimate
 
 <img src="https://cdn.discordapp.com/attachments/775822548519616562/1006136087426650112/unknown.png">
 
@@ -589,14 +595,14 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 88
+- Anime Count: 89
 - Manga Count: 43
 - Light Novel Count: 1
 
 ### Types of the Animes
 
-- Action & Adventure: 45
-- Dram/Romance: 42
+- Action & Adventure: 46
+- Dram/Romance: 43
 - Sci-fi & Fantasy: 38
 - Comedy: 30
 - Mystery/Crime: 24
