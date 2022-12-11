@@ -372,7 +372,6 @@ My List of **Animes I Watched**
 - Bungō Stray Dogs
 - Death Note
 - Vinland Saga
-- Hellsing Ultimate
 - Platinum End
 - Domestic na Kanojo
 - Shingeki no Kyojin
@@ -380,6 +379,7 @@ My List of **Animes I Watched**
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 - No Game No Life
 - Jujutsu Kaisen
+- Hellsing Ultimate
 - Kaifuku Jutsushi no Yarinaoshi
 - Violet Evergarden
 - High School DxD
