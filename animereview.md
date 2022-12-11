@@ -69,3 +69,17 @@ Yazıyı yazdığım günden önceki gün gece izlemiş olduğum nadide filmdir.
   Evangelion vb. serileri bu tür kriterlerden çok yaşattığı duygular ile değerlendirmek istiyorum. Film başında boşluğa düşmüş gibi hissediyorsunuz, neler olduğunu anlamaya çalışıyorsunuz. Ortalara doğru anladığınızda üzülüyorsunuz, çünkü yansıtılan dram ağır bir dram. Yansıtılış şekli ise kusursuz. Film sonunda ise ne hissedeceğinizi bilemiyorsunuz. Hüzün mü Sevinç mi Kaygı mı? İşte ben de tam bu duygu karışımı yüzünden uzun bir süre düşündüm. 
   Görüp görebileceğiniz en iyi filmdir kendisi. Hem seriye güzel bir nokta koymuş, hem içimizde değişik duygular oluşturmuş. Bu başarılı yapıma puanım 10/10.
 </div>
+
+# 
+
+### Hellsing Ultimate (2006)
+
+<img src="https://static.wikia.nocookie.net/hellsing/images/2/20/Hellsing_OVA_10_variant.jpg/revision/latest?cb=20180910152656" width="200" height="300" align="right">
+<div class="review" align="left">
+ Şimdi öncelikle serinin aslında orjinal Hellsing serisinin ta kendisi olduğunu ve ismi Hellsing olarak geçen serinin manga kaynağından bağımsız şekilde değiştirilmiş senaryo ile ilerlediğini belirtmek isterim. Hellsing Ultimate ise, manga senaryosu ile uyumlu şekilde ilerleyen bir seri. Yani burda da bir Fullmetal Alchemist/Brotherhood meselesi yaşanmış.
+  
+  Eleştiriye geçersek bölüm sayısından başlayalım. 10 bölüm olması gerçekten hoş gözükebilir ama hiç de öyle değil. Genelde anime kültüründe bölümlerin uzunlukları 20 ila 25 dakika arasında değişir ve bölüm sayıları 12 ve katları şeklinde ilerler. Bölüm sayısı geneline uymayan bir çok anime mevcut olduğu için burayı geçiyorum. Bu seride bölümler 40 dakika ile 1 saat arasında değişiyor. Netflix dizileri gibi yani. Ben bir animenin bir bölümünü film gibi uzun uzun izlemekten hoşlanmam. Bir kere arada bir durak verilmeli, burda bundan eser yok. 1 Saat oturup 1 bölüm izlemek hoşuma gitmiyor. 1 Bölümü 3 saate varan Türk dizilerini izlememe sebebim de aslında bu, senaryoyu saymazsak tabi. Her neyse girdim animeye açtım ilk bölümü baktım 45 dakika. Allah allah dedim bu da herhalde "Tantei wa mou, shindeiru" gibi ilk bölümü uzun diğerleri ideal uzunlukta olan serilerden biri. Ama öyle değilmiş. Ben normalde bu yoğun günlerimde günde 24dklık birer bölüm izleyip bir animeyi 1.5 haftada bitirmeyi amaçlamıştım ama böyle giderse çok sıkılırdım ve ben bu animeyi bitiremezdim. Hala bitiremedim de, 5. bölümdeyken yazıyorum bunu. Arkadaşlar bu uzunluk nedir, şunu 24er dakikalık 24 bölüm halinde getiremez miydiniz? Çok zor bir şey değil bence.
+
+  Senaryoya gelecek olursak, çok fazla dini ve siyasi gönderme ve propagandalar içeren bir senaryo, çok klasik ve sıkıcı. Benim gibi uzun ve bazı kısımlarında iç sıkan tarihi serileri seven biri için bile çok sıkıcıydı bu seri. Hikayesinin potansiyeli gerçekten çok yüksek ama kitlesinin önerdiği ve abarttığı kadar iyi bir anime olduğunu da düşünmüyorum. Her eski ve kaliteli diye lanse edilen seri güzel değilmiş demekki, eğer the end of evangelion olmasaydı evangelion için de aynısını düşünürdüm. Neyse ki o anlatıldığı kadar iyiydi. Eğer ki ben 1 saatlik 10 bölümü izler sıkılmadan bitiririm, işte vampir ghoul hikayelerini falan da severim falan derseniz buyrun izleyin kötü değil senaryosu. Fazla vahşet içerdiğini baştan söyleyeyim de.
+
+  Bu kadar gömdüğüme bakmayın bu serinin seveni çok fazla, benim seyir zevkime uyan bir seri değil ama çok sevenler var, bakarsınız siz de seversiniz kim bilir. Benim bu seriye puanım 6/10.
