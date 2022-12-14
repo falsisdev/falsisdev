@@ -292,6 +292,10 @@ My List of **Animes I Watched**
 
 > 4 Seasons - 96 Episodes - 2012 - Dram/Action & Adventure/Science Fiction & Fantasy<br>
 
+- Steins;Gate
+
+> 2 Seasons - 47 Episodes - 2011 - Dram/Mystery/Comedy/Sci-Fi<br>
+
 - Takt Op. Destiny
 
 > 1 Season - 12 Edisodes - 2021 - Action & Adventure/Sci-fi & Fantasy<br>
@@ -353,6 +357,7 @@ My List of **Animes I Watched**
 
 - Monster
 - Re: Zero Kara Hajimeru Isekai Seikatsu
+- Steins;Gate
 - Code Geass: Hangyaku no Lelouch
 - Hunter x Hunter
 - Shin Seiki Evangelion
@@ -588,6 +593,7 @@ My List of **Animes I Watched**
 87. Neon Genesis Evangelion: The End of Evangelion
 88. Jujutsu Kaisen 0
 89. Hellsing Ultimate
+90. Steins;Gate
 
 <img src="https://cdn.discordapp.com/attachments/775822548519616562/1006136087426650112/unknown.png">
 
@@ -595,17 +601,17 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 89
+- Anime Count: 90
 - Manga Count: 43
 - Light Novel Count: 1
 
 ### Types of the Animes
 
 - Action & Adventure: 46
-- Dram/Romance: 43
-- Sci-fi & Fantasy: 38
-- Comedy: 30
-- Mystery/Crime: 24
+- Dram/Romance: 44
+- Sci-fi & Fantasy: 39
+- Comedy: 31
+- Mystery/Crime: 25
 - Ecchi/Harem/Hentai: 15
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
