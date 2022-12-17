@@ -356,14 +356,14 @@ My List of **Animes I Watched**
 ## My Best Series
 
 - Monster
-- Re: Zero Kara Hajimeru Isekai Seikatsu
 - Steins;Gate
-- Code Geass: Hangyaku no Lelouch
+- Re: Zero Kara Hajimeru Isekai Seikatsu
 - Hunter x Hunter
+- Code Geass: Hangyaku no Lelouch
 - Shin Seiki Evangelion
-- Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e
 - Mushoku Tensei: Isekai Ittara Honki Dasu
 - Hagane no Renkinjutsushi: Brotherhood
+- Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e
 - Tensei Shitara Slime Datta Ken
 - Sword Art Online
 - Mirai Nikki
