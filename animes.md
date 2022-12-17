@@ -602,7 +602,7 @@ My List of **Animes I Watched**
 ## Counter of the Animes & Mangas
 
 - Anime Count: 90
-- Manga Count: 43
+- Manga Count: 67
 - Light Novel Count: 1
 
 ### Types of the Animes
