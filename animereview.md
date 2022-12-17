@@ -83,3 +83,13 @@ Yazıyı yazdığım günden önceki gün gece izlemiş olduğum nadide filmdir.
   Senaryoya gelecek olursak, çok fazla dini ve siyasi gönderme ve propagandalar içeren bir senaryo, çok klasik ve sıkıcı. Benim gibi uzun ve bazı kısımlarında iç sıkan tarihi serileri seven biri için bile çok sıkıcıydı bu seri. Hikayesinin potansiyeli gerçekten çok yüksek ama kitlesinin önerdiği ve abarttığı kadar iyi bir anime olduğunu da düşünmüyorum. Her eski ve kaliteli diye lanse edilen seri güzel değilmiş demekki, eğer the end of evangelion olmasaydı evangelion için de aynısını düşünürdüm. Neyse ki o anlatıldığı kadar iyiydi. Eğer ki ben 1 saatlik 10 bölümü izler sıkılmadan bitiririm, işte vampir ghoul hikayelerini falan da severim falan derseniz buyrun izleyin kötü değil senaryosu. Fazla vahşet içerdiğini baştan söyleyeyim de.
 
   Bu kadar gömdüğüme bakmayın bu serinin seveni çok fazla, benim seyir zevkime uyan bir seri değil ama çok sevenler var, bakarsınız siz de seversiniz kim bilir. Benim bu seriye puanım 6/10.
+ </div>
+
+ #
+  
+ ### Steins;Gate (2011)
+  
+<img src="https://mangadex.org/covers/a1f9462a-a340-4098-81de-1f2536b2f782/7822b105-6395-4b5f-9830-ded5a83b92ee.jpg" width="200" height="300" align="right">
+  <div class="review" align="left">
+    writing...
+  </div>
