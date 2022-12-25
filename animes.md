@@ -294,7 +294,11 @@ My List of **Animes I Watched**
 
 - Steins;Gate
 
-> 2 Seasons - 47 Episodes - 2011 - Dram/Mystery/Comedy/Sci-Fi<br>
+> 1 Season - 25 Episodes - 2011 - Dram/Mystery/Comedy/Sci-Fi<br>
+
+- Steins;Gate 0
+
+> 1 Season - 23 Episodes - 2018 - Dram/Mystery/Sci-fi<br>
 
 - Takt Op. Destiny
 
@@ -356,6 +360,7 @@ My List of **Animes I Watched**
 ## My Best Series
 
 - Steins;Gate
+- Steins;Gate 0
 - Re: Zero Kara Hajimeru Isekai Seikatsu
 - Monster
 - Hunter x Hunter
@@ -594,6 +599,7 @@ My List of **Animes I Watched**
 88. Jujutsu Kaisen 0
 89. Hellsing Ultimate
 90. Steins;Gate
+91. Steins;Gate 0
 
 <img src="https://cdn.discordapp.com/attachments/775822548519616562/1006136087426650112/unknown.png">
 
@@ -601,17 +607,17 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 90
+- Anime Count: 91
 - Manga Count: 67
 - Light Novel Count: 1
 
 ### Types of the Animes
 
 - Action & Adventure: 46
-- Dram/Romance: 44
-- Sci-fi & Fantasy: 39
+- Dram/Romance: 45
+- Sci-fi & Fantasy: 40
 - Comedy: 31
-- Mystery/Crime: 25
+- Mystery/Crime: 26
 - Ecchi/Harem/Hentai: 15
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
