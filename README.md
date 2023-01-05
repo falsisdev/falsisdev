@@ -7,11 +7,10 @@
 <div class="about-me" align="left">
 I'm a <a href="https://en.wikipedia.org/wiki/Front-end_web_development" class="Text-red-500"> Front-end Web Developer</a>!<br>
 So, I'm interested in <a href="https://en.wikipedia.org/wiki/HTML" class="Text-red-500" title="Hyper Text Markup Language"> <font color="orange">HTML</font></a>, <a href="https://en.wikipedia.org/wiki/CSS" class="Text-red-500" title="Cascading Style Sheets"> <font color="#1589FF">CSS</font></a> and <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" class="Text-red-500"> <font color="yellow">JavaScript</font></a>!<br>
-I'm working on Nuxt 2 with Vue 2 for improve my Web Development skills right now... Although I actually know the syntax and logic of many languages, for now concentrate on JavaScript or TypeScript. So you can say "Falsis know 2-3 language".
+I'm working on Nuxt 3 with Vue 3 for improve my Web Development skills right now.
 My Favorite Language is <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" class="Text-red-500"> <font color="yellow">JavaScript</font></a> but I love <a href="https://en.wikipedia.org/wiki/Go_(programming_language)" class="Text-red-500" title="The Go Programming Language"><font color="#add8e6">Go</font></a> so much too...<br></br>
 <a href="https://falsis.ga/"> Click Here to Visit My Personal Website!</a><br>
 <a href="https://github.com/falsisdev/falsisdev/blob/main/animes.md">Click Here to Visit My Anime List!</a><br>
-<a href="https://github.com/ani-plus/website">Click here to Visit Ani-Plus Open-Source Project</a><br></br>
 <a href="https://falsis.ga"><img src="https://img.shields.io/badge/os-Windows%2011-slateblue"></a> <a href="https://discord.com/users/539843855567028227"><img src="https://img.shields.io/badge/Falsis%230002-5865F2?style=flat&logo=discord&logoColor=white"></a> <a href="https://falsis.ga"><img src="https://img.shields.io/badge/Website-D14836?&color=57F287"></a> <a href="https://github.com/falsisdev"><img src="https://komarev.com/ghpvc/?username=falsisdev"></a>
 </div>
 <h2> Technologies </h2> 
