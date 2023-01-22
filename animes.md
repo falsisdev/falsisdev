@@ -36,7 +36,7 @@ My List of **Animes I Watched**
 
 > 1 Season - 24 Episodes - 2018 - Dram/Mystery/Action & Adventure<br>
 
-- Boku dake ga Inai Machi
+- Boku dake ga Inai Machi (Erased)
 
 > 1 Season - 12 Episodes - 2016 - Dram/Mystery<br>
 
@@ -46,7 +46,7 @@ My List of **Animes I Watched**
 
 - Bungou Stray Dogs (Literary Stray Dogs)
 
-> 3 Season - 36 Episodes - 2016 - Dram/Crime/Mystery/Comedy<br>
+> 4 Season - 48 Episodes - 2016 - Dram/Crime/Mystery/Comedy<br>
 
 - Byousoku 5 Centimeter (5 Centimeters per Second)
 
@@ -128,7 +128,7 @@ My List of **Animes I Watched**
 
 > 3 Seasons - 148 Episodes - 2011 - Dram/Comedy/Action & Adventure<br>
 
-- Ijiranaide, Nagatoro-san (Don't Toy with me Miss Nagatoro
+- Ijiranaide, Nagatoro-san (Don't Toy with me Miss Nagatoro)
 
 > 1 Season - 12 Episodes - 2021 - Comedy/Family<br>
 
@@ -322,11 +322,11 @@ My List of **Animes I Watched**
 
 - Tokyo Revengers
 
-> 1 Season - 24 Episodes - 2021 - Dram/Action & Adventure<br>
+> 2 Season - 48 Episodes - 2021 - Dram/Action & Adventure<br>
 
 - Vinland Saga
 
-> 1 Season - 24 Episodes - 2019 - Dram/Action & Adventure<br>
+> 2 Season - 48 Episodes - 2019 - Dram/Action & Adventure<br>
 
 - Violet Evergarden
 
@@ -362,150 +362,82 @@ My List of **Animes I Watched**
 - Steins;Gate
 - Steins;Gate 0
 - Re: Zero Kara Hajimeru Isekai Seikatsu
-- Monster
 - Hunter x Hunter
 - Code Geass: Hangyaku no Lelouch
-- Shin Seiki Evangelion
+- Monster
 - Mushoku Tensei: Isekai Ittara Honki Dasu
-- Hagane no Renkinjutsushi: Brotherhood
-- Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e
-- Tensei Shitara Slime Datta Ken
-- Sword Art Online
 - Mirai Nikki
-- Orange
-- Kimetsu no Yaiba
-- Tokyo Ghoul
-- Charlotte
-- Akame ga Kill!
-- Boku dake ga Inai Machi
-- Owari no Seraph
 - Bungō Stray Dogs
+- Kimetsu no Yaiba
+- Hagane no Renkinjutsushi: Brotherhood
+- Tensei Shitara Slime Datta Ken
 - Death Note
-- Vinland Saga
-- Platinum End
-- Domestic na Kanojo
-- Shingeki no Kyojin
-- Tokyo Revengers
-- Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
-- No Game No Life
-- Jujutsu Kaisen
-- Hellsing Ultimate
-- Kaifuku Jutsushi no Yarinaoshi
-- Violet Evergarden
-- High School DxD
-- Dr. Stone
-- Ousama Game The Animation
-- Spy x Family
 - Shigatsu wa Kimi no Uso
-- Devilman Crybaby
-- Kiseijuu: Sei no Kakuritsu
-- Kaguya-sama wa Kokurasetai
-- Another
-- Kiznaiver
-- Nanatsu no Taizai
+- Shin Seiki Evangelion
+- Vinland Saga
+- Sword Art Online
+- Shingeki no Kyojin
+- Tokyo Ghoul
+- Akame ga Kill!
+- Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+- Dr. Stone
+- Charlotte
+- Boku dake ga Inai Machi
+- Orange
+- Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e
+- Owari no Seraph
 - Boku no Hero Academia
-- Shiki
-- Sono Bisque Doll wa Koi wo Suru
-- Ao no Exorcist
+- Jujutsu Kaisen
+- No Game No Life
+- Another
 - Ansatsu Kyoushitsu
-- Deadman Wonderland
-- Yakusoku no Neverland
+- Nanatsu no Taizai
+- Kiseijuu: Sei no Kakuritsu
+- Domestic na Kanojo
+- Violet Evergarden
+- Kaifuku Jutsushi no Yarinaoshi
+- Platinum End
+- Tokyo Revengers
+- Ao no Exorcist
+- Kaguya-sama wa Kokurasetai
+- High School DxD
+- Shiki
 - Noragami
-- Lycoris Recoil
-- Yofukashi no Uta
-- Koroshi Ai
+- Akatsuki no Yona
+- Devilman Crybaby
+- Ousama Game The Animation
+- Kiznaiver
+- Spy x Family
+- Yakusoku no Neverland
 - Golden Time
-- 5-Toubun no Hanayome
+- Lycoris Recoil
+- Koroshi Ai
 - Dororo
+- 5-Toubun no Hanayome
+- Deadman Wonderland
+- Yofukashi no Uta
 - Noblesse
-- Shuumatsu no Harem
+- Hellsing Ultimate
 - Shinmai Maou no Testament
 - Kanojo, Okarishimasu
-- Fairy Tail
-- Darling in the FranXX
-- Tantei wa Mou, Shindeiru
-- Kobayashi-San Chi no Maid Dragon
-- Ijiranaide, Nagatoro-san
-- Akatsuki no Yona
+- 91 Days
 - Banana Fish
 - Wonder Egg Priority
+- Fairy Tail
+- Sono Bisque Doll wa Koi wo Suru
+- Darling in the FranXX
 - Tensura Nikki: Tensei Shitara Slime Datta Ken
+- Ijiranaide, Nagatoro-san
+- Kobayashi-San Chi no Maid Dragon
 - Goblin Slayer
-- 91 Days
+- Tantei wa Mou, Shindeiru
 - Takt Op. Destiny
+- Shuumatsu no Harem
 - Kiss x Sis
 
 <img src="https://pbs.twimg.com/media/E9BfxybUcAQrVb9?format=jpg&name=large">
 
 📷 Image: Asuka Langley Sohryu from Shin Seiki Evangelion
-
-# My Best Opening Theme
-
-- Kowaki wo Ameku by Minami (Domestic no Kanojo)
-- A Cruel Angel's Thesis by Yoko Takahashi (Shin Seiki Evangelion)
-- Dance in the Game by ZAQ (Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e 2nd Season)
-- Unravel by TK from Ling tosite sugire (Tokyo Ghoul Season 1)
-- Hikari no Hahen by Yuu Takahashi (Orange)
-- Kyomu Dansen by ALI PROJECT (Another)
-- Boku no Sensou (Shingeki no Kyojin Season 4 Part 1)
-- The Rumbling by Samuel Kim (Shingeki no Kyojin Season 4 Part 2)
-- Shinzou wo Sasageyo by Linked Horizon (Shingeki no Kyojin Season 2)
-- COLORS by FLOW (Code Geass: Hangyaku no Lelouch R1)
-- again by YUI (Hagane no Renkinjutsushi: Brotherhood)
-- Red Swan by Yoshiki (Shingeki no Kyojin Season 3)
-- Guren no Yumiya by Linked Horizon (Shingeki no Kyojin Season 1)
-- Kiss of Death by Mika Nakashima (Darling in the FranXX)
-- Like Flames by MindaRyn (Tensei Shitara Slime Datta Ken Season 2 Part 2)
-- THE WORLD by Nightmare (Death Note)
-- Devilman Crybaby Opening Theme by Netflix (Devilman Crybaby)
-- Liar Mask by Rika Mayama (Akame Ga Kill!)
-
-
-<img src="https://media.discordapp.net/attachments/775822548519616562/1014427839904366613/monster.jpg?width=840&height=274">
-
-📷 Image: Johann Liebert (Left and Middle) & Anna Liebert (or Nina Fortner) (Right) from Monster
-
-
-## My Favorite Anime & Manga Characters
-
-- Lelouch vi Brittania (Code Geass: Hangyaku no Lelouch)
-- Ayonokoji Kiyotaka (Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e)
-- Johann Liebert (Monster)
-- Rimuru Tempest (Tensei Shitara Slime Datta Ken)
-- Rudeus Greyrat (Mushoku Tensei: Isekai Ittara Honki Dasu)
-- Ashera Tepes/Ashuramaru (Seraph of The End)
-- Ken Kaneki (Tokyo Ghoul)
-- Edward Elric (Fullmetal Alchemist: Brotherhood)
-- Kirito (Sword Art Online)
-- Echidna (Re: Zero Kara Hajimeru Isekai Seikatsu)
-- Yuno Gasai (Mirai Nikki)
-- Yagami Light (Death Note)
-- Eren Jeager (Shingeki no Kyojin)
-- Manjiro Sano (Tokyo Revengers)
-- Kitagawa Marin (Sono Bisque Doll wa Koi wo Suru)
-- Mai Sakurajima (Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai)
-- Mikaela Hyakuya (Owari no Seraph)
-- Yuichiro Hyakuya (Owari no Seraph)
-- Mirai Kakehashi (Platinum End)
-- Escanor (Nanatsu no Taizai)
-- Izumi Shinichi (Kiseijuu: Sei no Kakuritsu)
-- Shin Hyuuga (Code Geass: Boukoku no Akito)
-- Akito Hyuuga (Code Geass: Boukoku no Akito)
-- Sora (No Game No Life)
-- Mitsuha Miyamizu (Kimi no na wa.)
-- Yoriichi Tsugikuni (Kimetsu no Yaiba)
-- Erza Scarlet (Fairy Tail)
-- Naho Takamiya (Orange)
-- Senkuu Ichigami (Dr. Stone)
-- Yuu Otasaka (Charlotte)
-- Akabane Karma (Ansatsu Kyoushitsu)
-- Akame (Akame ga Kill!)
-- Nino Nakano (5-Toubun no Hanayome)
-
-
-<img src="https://timelinecovers.pro/facebook-cover/download/mirai-nikki-yuno-gasai-facebook-cover.jpg">
-
-📷 Image: Yuno Gasai from Mirai Nikki
 
 # Watch Order
 
