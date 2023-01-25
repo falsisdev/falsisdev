@@ -52,6 +52,10 @@ My List of **Animes I Watched**
 
 > Movie - 2007 - Dram/Romance<br>
 
+- Chainsaw Man
+
+> 1 season - 12 Episodes - 2022 - Action & Adventure/Sci-Fi & Fantasy<br>
+
 - Charlotte
 
 > 1 season - 13 Episodes - 2013 - Dram/Fantasy<br>
@@ -369,11 +373,12 @@ My List of **Animes I Watched**
 - Mirai Nikki
 - Bungō Stray Dogs
 - Kimetsu no Yaiba
+- Chainsaw Man
+- Shin Seiki Evangelion
 - Hagane no Renkinjutsushi: Brotherhood
 - Tensei Shitara Slime Datta Ken
 - Death Note
 - Shigatsu wa Kimi no Uso
-- Shin Seiki Evangelion
 - Vinland Saga
 - Sword Art Online
 - Shingeki no Kyojin
@@ -532,6 +537,7 @@ My List of **Animes I Watched**
 89. Hellsing Ultimate
 90. Steins;Gate
 91. Steins;Gate 0
+92. Chainsaw Man
 
 <img src="https://cdn.discordapp.com/attachments/775822548519616562/1006136087426650112/unknown.png">
 
@@ -539,15 +545,15 @@ My List of **Animes I Watched**
 
 ## Counter of the Animes & Mangas
 
-- Anime Count: 91
+- Anime Count: 92
 - Manga Count: 67
 - Light Novel Count: 1
 
 ### Types of the Animes
 
-- Action & Adventure: 46
+- Action & Adventure: 47
 - Dram/Romance: 45
-- Sci-fi & Fantasy: 40
+- Sci-fi & Fantasy: 41
 - Comedy: 31
 - Mystery/Crime: 26
 - Ecchi/Harem/Hentai: 15
