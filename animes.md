@@ -361,25 +361,25 @@ My List of **Animes I Watched**
 📷 Image: Lelouch vi Brittania from Code Geass: Hangyaku no Lelouch
 
 
-## My Best Series
+## My Best -Series-
 
 - Steins;Gate
-- Steins;Gate 0
 - Re: Zero Kara Hajimeru Isekai Seikatsu
+- Steins;Gate 0
 - Hunter x Hunter
 - Code Geass: Hangyaku no Lelouch
 - Monster
+- Death Note
 - Mushoku Tensei: Isekai Ittara Honki Dasu
 - Mirai Nikki
-- Bungō Stray Dogs
 - Kimetsu no Yaiba
 - Chainsaw Man
 - Shin Seiki Evangelion
 - Hagane no Renkinjutsushi: Brotherhood
-- Tensei Shitara Slime Datta Ken
-- Death Note
-- Shigatsu wa Kimi no Uso
 - Vinland Saga
+- Tensei Shitara Slime Datta Ken
+- Bungō Stray Dogs
+- Shigatsu wa Kimi no Uso
 - Sword Art Online
 - Shingeki no Kyojin
 - Tokyo Ghoul
@@ -546,7 +546,7 @@ My List of **Animes I Watched**
 ## Counter of the Animes & Mangas
 
 - Anime Count: 92
-- Manga Count: 67
+- Manga Count: 62
 - Light Novel Count: 1
 
 ### Types of the Animes
