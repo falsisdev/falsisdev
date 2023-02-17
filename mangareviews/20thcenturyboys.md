@@ -21,13 +21,11 @@ Manga 22 cilt ve 249 bölümden oluşur. Şuanda tam olarak final vermiş ve dol
 
 <div class="volumes">
 <details>
- <summary>Cilt 1 - Tomodachi</summary>
+ <summary>Cilt 1 - Tomodachi (1 - 10. Bölümler)</summary>
   <p class="review">
     <img src="https://mangadex.org/covers/ad06790a-01e3-400c-a449-0ec152d6756a/a3c73939-2330-4fd1-a166-21e26717ef18.jpg" width="200" height="300" align="right">
     <div class="review" align="left">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Feugiat in fermentum posuere urna nec tincidunt praesent. Id interdum velit laoreet id. Aliquet eget sit amet tellus cras adipiscing enim. Vitae tempus quam pellentesque nec nam aliquam. Id nibh tortor id aliquet lectus proin nibh nisl. Arcu cursus euismod quis viverra nibh. In pellentesque massa placerat duis ultricies. Odio facilisis mauris sit amet massa vitae. Vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam. Neque gravida in fermentum et sollicitudin. Turpis massa tincidunt dui ut ornare lectus. Tortor dignissim convallis aenean et tortor at risus viverra. Porttitor massa id neque aliquam vestibulum. Id porta nibh venenatis cras sed felis eget velit.
-
-Iaculis eu non diam phasellus vestibulum lorem sed risus. Risus nec feugiat in fermentum. Sem nulla pharetra diam sit. Libero id faucibus nisl tincidunt eget. Leo vel orci porta non pulvinar neque. Maecenas sed enim ut sem viverra. Mauris rhoncus aenean vel elit scelerisque mauris. Molestie at elementum eu facilisis sed odio. Etiam erat velit scelerisque in dictum non. Sem integer vitae justo eget magna fermentum. Nec nam aliquam sem et tortor consequat id porta. Vitae ultricies leo integer malesuada nunc vel risus commodo. Odio eu feugiat pretium nibh ipsum consequat nisl. Gravida arcu ac tortor dignissim convallis aenean. Tortor at risus viverra adipiscing at in tellus integer feugiat. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Nisl tincidunt eget nullam non nisi est sit amet.
+     Aslına Bakarsanız henüz hikaye bakımından çok fazla bir şey göremedik. Ancak henüz 10 bölümlük 1 cilt bitirdik. Ben serinin bomba gibi başladığını ve harika ilerleyeceğini düşünüyorum. Bu ciltte daha çok bize "Tomodachi" denilen güzemli herif ve bunun bizim ekip ile bağlantısını anlatmak için geçmişten alıntılar yapmış. Ayrıca yaşanan olaylara verilen doğal tepkiler de çok hoş. Şimdiye kadar "hadi lan oradan" dediğim bir şey çıkmadı. Ayrıca bu da bir Naoki Urasawa mangası olduğundan, bir Monster havası da alıyorum yani (Düsseldorf falan). Ben şimdilik beğendim. Aynı hızda devam edicem. Bir sorun yok.
     </div>
   </p>
 </details>
