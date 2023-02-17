@@ -196,6 +196,72 @@ Iaculis eu non diam phasellus vestibulum lorem sed risus. Risus nec feugiat in f
     </div>
   </p>
 </details>
+<details>
+ <summary>Cilt 17 - Cross Counter</summary>
+  <p class="review">
+    <img src="https://mangadex.org/covers/ad06790a-01e3-400c-a449-0ec152d6756a/9ddc7676-2f6d-4ac8-a8e0-f765446e486f.jpg" width="200" height="300" align="right">
+    <div class="review" align="left">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Feugiat in fermentum posuere urna nec tincidunt praesent. Id interdum velit laoreet id. Aliquet eget sit amet tellus cras adipiscing enim. Vitae tempus quam pellentesque nec nam aliquam. Id nibh tortor id aliquet lectus proin nibh nisl. Arcu cursus euismod quis viverra nibh. In pellentesque massa placerat duis ultricies. Odio facilisis mauris sit amet massa vitae. Vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam. Neque gravida in fermentum et sollicitudin. Turpis massa tincidunt dui ut ornare lectus. Tortor dignissim convallis aenean et tortor at risus viverra. Porttitor massa id neque aliquam vestibulum. Id porta nibh venenatis cras sed felis eget velit.
+
+Iaculis eu non diam phasellus vestibulum lorem sed risus. Risus nec feugiat in fermentum. Sem nulla pharetra diam sit. Libero id faucibus nisl tincidunt eget. Leo vel orci porta non pulvinar neque. Maecenas sed enim ut sem viverra. Mauris rhoncus aenean vel elit scelerisque mauris. Molestie at elementum eu facilisis sed odio. Etiam erat velit scelerisque in dictum non. Sem integer vitae justo eget magna fermentum. Nec nam aliquam sem et tortor consequat id porta. Vitae ultricies leo integer malesuada nunc vel risus commodo. Odio eu feugiat pretium nibh ipsum consequat nisl. Gravida arcu ac tortor dignissim convallis aenean. Tortor at risus viverra adipiscing at in tellus integer feugiat. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Nisl tincidunt eget nullam non nisi est sit amet.
+    </div>
+  </p>
+</details>
+<details>
+ <summary>Cilt 18 - Min'na no uta</summary>
+  <p class="review">
+    <img src="https://mangadex.org/covers/ad06790a-01e3-400c-a449-0ec152d6756a/c3ba3c25-88b7-447a-84af-e8caab71c918.jpg" width="200" height="300" align="right">
+    <div class="review" align="left">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Feugiat in fermentum posuere urna nec tincidunt praesent. Id interdum velit laoreet id. Aliquet eget sit amet tellus cras adipiscing enim. Vitae tempus quam pellentesque nec nam aliquam. Id nibh tortor id aliquet lectus proin nibh nisl. Arcu cursus euismod quis viverra nibh. In pellentesque massa placerat duis ultricies. Odio facilisis mauris sit amet massa vitae. Vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam. Neque gravida in fermentum et sollicitudin. Turpis massa tincidunt dui ut ornare lectus. Tortor dignissim convallis aenean et tortor at risus viverra. Porttitor massa id neque aliquam vestibulum. Id porta nibh venenatis cras sed felis eget velit.
+
+Iaculis eu non diam phasellus vestibulum lorem sed risus. Risus nec feugiat in fermentum. Sem nulla pharetra diam sit. Libero id faucibus nisl tincidunt eget. Leo vel orci porta non pulvinar neque. Maecenas sed enim ut sem viverra. Mauris rhoncus aenean vel elit scelerisque mauris. Molestie at elementum eu facilisis sed odio. Etiam erat velit scelerisque in dictum non. Sem integer vitae justo eget magna fermentum. Nec nam aliquam sem et tortor consequat id porta. Vitae ultricies leo integer malesuada nunc vel risus commodo. Odio eu feugiat pretium nibh ipsum consequat nisl. Gravida arcu ac tortor dignissim convallis aenean. Tortor at risus viverra adipiscing at in tellus integer feugiat. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Nisl tincidunt eget nullam non nisi est sit amet.
+    </div>
+  </p>
+</details>
+<details>
+ <summary>Cilt 19 - Kaettekita otoko</summary>
+  <p class="review">
+    <img src="https://mangadex.org/covers/ad06790a-01e3-400c-a449-0ec152d6756a/631354eb-79ba-48cb-a225-5aec5ea5deca.jpg" width="200" height="300" align="right">
+    <div class="review" align="left">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Feugiat in fermentum posuere urna nec tincidunt praesent. Id interdum velit laoreet id. Aliquet eget sit amet tellus cras adipiscing enim. Vitae tempus quam pellentesque nec nam aliquam. Id nibh tortor id aliquet lectus proin nibh nisl. Arcu cursus euismod quis viverra nibh. In pellentesque massa placerat duis ultricies. Odio facilisis mauris sit amet massa vitae. Vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam. Neque gravida in fermentum et sollicitudin. Turpis massa tincidunt dui ut ornare lectus. Tortor dignissim convallis aenean et tortor at risus viverra. Porttitor massa id neque aliquam vestibulum. Id porta nibh venenatis cras sed felis eget velit.
+
+Iaculis eu non diam phasellus vestibulum lorem sed risus. Risus nec feugiat in fermentum. Sem nulla pharetra diam sit. Libero id faucibus nisl tincidunt eget. Leo vel orci porta non pulvinar neque. Maecenas sed enim ut sem viverra. Mauris rhoncus aenean vel elit scelerisque mauris. Molestie at elementum eu facilisis sed odio. Etiam erat velit scelerisque in dictum non. Sem integer vitae justo eget magna fermentum. Nec nam aliquam sem et tortor consequat id porta. Vitae ultricies leo integer malesuada nunc vel risus commodo. Odio eu feugiat pretium nibh ipsum consequat nisl. Gravida arcu ac tortor dignissim convallis aenean. Tortor at risus viverra adipiscing at in tellus integer feugiat. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Nisl tincidunt eget nullam non nisi est sit amet.
+    </div>
+  </p>
+</details>
+<details>
+ <summary>Cilt 20 - Jinrui no shōbu</summary>
+  <p class="review">
+    <img src="https://mangadex.org/covers/ad06790a-01e3-400c-a449-0ec152d6756a/9471e201-e365-472c-b4a8-a15b8243496f.jpg" width="200" height="300" align="right">
+    <div class="review" align="left">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Feugiat in fermentum posuere urna nec tincidunt praesent. Id interdum velit laoreet id. Aliquet eget sit amet tellus cras adipiscing enim. Vitae tempus quam pellentesque nec nam aliquam. Id nibh tortor id aliquet lectus proin nibh nisl. Arcu cursus euismod quis viverra nibh. In pellentesque massa placerat duis ultricies. Odio facilisis mauris sit amet massa vitae. Vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam. Neque gravida in fermentum et sollicitudin. Turpis massa tincidunt dui ut ornare lectus. Tortor dignissim convallis aenean et tortor at risus viverra. Porttitor massa id neque aliquam vestibulum. Id porta nibh venenatis cras sed felis eget velit.
+
+Iaculis eu non diam phasellus vestibulum lorem sed risus. Risus nec feugiat in fermentum. Sem nulla pharetra diam sit. Libero id faucibus nisl tincidunt eget. Leo vel orci porta non pulvinar neque. Maecenas sed enim ut sem viverra. Mauris rhoncus aenean vel elit scelerisque mauris. Molestie at elementum eu facilisis sed odio. Etiam erat velit scelerisque in dictum non. Sem integer vitae justo eget magna fermentum. Nec nam aliquam sem et tortor consequat id porta. Vitae ultricies leo integer malesuada nunc vel risus commodo. Odio eu feugiat pretium nibh ipsum consequat nisl. Gravida arcu ac tortor dignissim convallis aenean. Tortor at risus viverra adipiscing at in tellus integer feugiat. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Nisl tincidunt eget nullam non nisi est sit amet.
+    </div>
+  </p>
+</details>
+<details>
+ <summary>Cilt 21 - Uchūbito genru</summary>
+  <p class="review">
+    <img src="https://mangadex.org/covers/ad06790a-01e3-400c-a449-0ec152d6756a/402a6f2a-fb0b-4703-b753-7e7f710c08f1.jpg" width="200" height="300" align="right">
+    <div class="review" align="left">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Feugiat in fermentum posuere urna nec tincidunt praesent. Id interdum velit laoreet id. Aliquet eget sit amet tellus cras adipiscing enim. Vitae tempus quam pellentesque nec nam aliquam. Id nibh tortor id aliquet lectus proin nibh nisl. Arcu cursus euismod quis viverra nibh. In pellentesque massa placerat duis ultricies. Odio facilisis mauris sit amet massa vitae. Vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam. Neque gravida in fermentum et sollicitudin. Turpis massa tincidunt dui ut ornare lectus. Tortor dignissim convallis aenean et tortor at risus viverra. Porttitor massa id neque aliquam vestibulum. Id porta nibh venenatis cras sed felis eget velit.
+
+Iaculis eu non diam phasellus vestibulum lorem sed risus. Risus nec feugiat in fermentum. Sem nulla pharetra diam sit. Libero id faucibus nisl tincidunt eget. Leo vel orci porta non pulvinar neque. Maecenas sed enim ut sem viverra. Mauris rhoncus aenean vel elit scelerisque mauris. Molestie at elementum eu facilisis sed odio. Etiam erat velit scelerisque in dictum non. Sem integer vitae justo eget magna fermentum. Nec nam aliquam sem et tortor consequat id porta. Vitae ultricies leo integer malesuada nunc vel risus commodo. Odio eu feugiat pretium nibh ipsum consequat nisl. Gravida arcu ac tortor dignissim convallis aenean. Tortor at risus viverra adipiscing at in tellus integer feugiat. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Nisl tincidunt eget nullam non nisi est sit amet.
+    </div>
+  </p>
+</details>
+<details>
+ <summary>Cilt 22 - Seigi no hajimari</summary>
+  <p class="review">
+    <img src="https://mangadex.org/covers/ad06790a-01e3-400c-a449-0ec152d6756a/14e6676e-57e4-4115-a441-331606491ee0.jpg" width="200" height="300" align="right">
+    <div class="review" align="left">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Feugiat in fermentum posuere urna nec tincidunt praesent. Id interdum velit laoreet id. Aliquet eget sit amet tellus cras adipiscing enim. Vitae tempus quam pellentesque nec nam aliquam. Id nibh tortor id aliquet lectus proin nibh nisl. Arcu cursus euismod quis viverra nibh. In pellentesque massa placerat duis ultricies. Odio facilisis mauris sit amet massa vitae. Vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam. Neque gravida in fermentum et sollicitudin. Turpis massa tincidunt dui ut ornare lectus. Tortor dignissim convallis aenean et tortor at risus viverra. Porttitor massa id neque aliquam vestibulum. Id porta nibh venenatis cras sed felis eget velit.
+
+Iaculis eu non diam phasellus vestibulum lorem sed risus. Risus nec feugiat in fermentum. Sem nulla pharetra diam sit. Libero id faucibus nisl tincidunt eget. Leo vel orci porta non pulvinar neque. Maecenas sed enim ut sem viverra. Mauris rhoncus aenean vel elit scelerisque mauris. Molestie at elementum eu facilisis sed odio. Etiam erat velit scelerisque in dictum non. Sem integer vitae justo eget magna fermentum. Nec nam aliquam sem et tortor consequat id porta. Vitae ultricies leo integer malesuada nunc vel risus commodo. Odio eu feugiat pretium nibh ipsum consequat nisl. Gravida arcu ac tortor dignissim convallis aenean. Tortor at risus viverra adipiscing at in tellus integer feugiat. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Nisl tincidunt eget nullam non nisi est sit amet.
+    </div>
+  </p>
+</details>
 </div>
 
 #
