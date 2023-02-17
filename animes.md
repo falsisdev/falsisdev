@@ -549,13 +549,15 @@ My List of **Animes I Watched**
 - Manga Count: 62
 - Light Novel Count: 1
 
-### Types of the Animes
+### Genres of the Animes
 
+- Drama: 52
 - Action & Adventure: 47
-- Drama/Romance: 45
-- Sci-fi & Fantasy: 41
-- Comedy: 31
-- Mystery/Crime: 26
-- Ecchi/Harem/Hentai: 15
+- Comedy: 33
+- Sci-Fi & Fantasy: 32
+- Mystery: 23
+- Ecchi/Harem/Hentai: 10
+- Crime: 7
+- Thriller/Horror: 1
 
 ![Dance](https://animecix.com/storage/images/chika.gif)
