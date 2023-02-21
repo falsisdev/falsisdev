@@ -35,10 +35,10 @@ Manga 22 cilt ve 249 bölümden oluşur. Şuanda tam olarak final vermiş ve dol
     <img src="https://mangadex.org/covers/ad06790a-01e3-400c-a449-0ec152d6756a/c3889640-5c33-43c7-b58a-d8234c377cfb.jpg" width="200" height="300" align="right">
     <div class="review" align="left">
       1. cilt eleştirimde bahsettiğim gibi, her şey yavaş yavaş rayına oturuyor. Neyin ne olduğu sayfalar geçtikçe anlaşılıyor ve bu gerçekten insanı epey tatmin ediyor. Olayların arkaplanonda gerçekleşen şeylerin ilgi çekici şekilde gösterilmesi, ana karakterimizin yavaş yavaş hikayenin ana odağına çekilmeye başlaması. Ve benim asıl sevdiğim şey ise tüm bunların yavaş yavaş yedirilerek anlatılması. Naoki Urasawa bunu Monster'da da yapmıştı ancak burada daha da iyisini yapmış. Bu cilt de gerçekten hikaye açısından epey önemliydi. Sonraki ciltten itibarem olaylara canlı canlı gireceğimizi hissediyorum. Hadi bakalım, devam edelim :)!
-     .
-     .
-     .
-     .
+     .<br>
+     .<br>
+     .<br>
+     .<br>
      </div>
   </p>
 </details>
