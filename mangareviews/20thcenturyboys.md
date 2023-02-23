@@ -25,7 +25,9 @@ Manga 22 cilt ve 249 bölümden oluşur. Şuanda tam olarak final vermiş ve dol
   <p class="review">
     <img src="https://mangadex.org/covers/ad06790a-01e3-400c-a449-0ec152d6756a/a3c73939-2330-4fd1-a166-21e26717ef18.jpg" width="200" height="300" align="right">
     <div class="review" align="left">
-     Aslına Bakarsanız henüz hikaye bakımından çok fazla bir şey göremedik. Ancak henüz 10 bölümlük 1 cilt bitirdik. Bu 10 bölümde hikyeye hazırlık ve karakterlerin tanıtımını yaymışlar ve hafif hafif sürükleyci sayılabilecek şekilde yapmışlar. Ben serinin bomba gibi başladığını ve harika ilerleyeceğini düşünüyorum. Bu ciltte daha çok bize "Tomodachi" denilen güzemli maskeli herif ve bunun bizim ekip ile bağlantısını anlatmak için geçmişten alıntılar yapmış. Ben şu sembol ve sembolün bu kadar çok gösterilmesinden normalde sıkılıyordum fakat bunun çok fazla önemli olduğu anlaşıldıkça bundan da sıkılmamaya başladım. Bana kalırsa seri güzel başladı. Ayrıca yaşanan olaylara verilen doğal tepkiler de çok hoş. Şimdiye kadar "hadi lan oradan" dediğim bir şey çıkmadı. Ayrıca bu da bir Naoki Urasawa mangası olduğundan, bir Monster havası da alıyorum yani (Düsseldorf falan). Ben şimdilik beğendim. Aynı hızda devam edicem. Bir sorun yok.
+     Aslına Bakarsanız henüz hikaye bakımından çok fazla bir şey göremedik. Ancak henüz 10 bölümlük 1 cilt bitirdik. Bu 10 bölümde hikyeye hazırlık ve karakterlerin tanıtımını yaymışlar ve hafif hafif sürükleyci sayılabilecek şekilde yapmışlar. Ben serinin bomba gibi başladığını ve harika ilerleyeceğini düşünüyorum. Bu ciltte daha çok bize "Tomodachi" denilen güzemli maskeli herif ve bunun bizim ekip ile bağlantısını anlatmak için geçmişten alıntılar yapmış. Ben şu sembol ve sembolün bu kadar çok gösterilmesinden normalde sıkılıyordum fakat bunun çok fazla önemli olduğu anlaşıldıkça bundan da sıkılmamaya başladım. Bana kalırsa seri güzel başladı. Ayrıca yaşanan olaylara verilen doğal tepkiler de çok hoş. Şimdiye kadar "hadi lan oradan" dediğim bir şey çıkmadı. Ayrıca bu da bir Naoki Urasawa mangası olduğundan, bir Monster havası da alıyorum yani (Düsseldorf falan). Ben şimdilik beğendim. Aynı hızda devam edicem. Bir sorun yok.<br>
+     .<br>
+     .<br>
     </div>
   </p>
 </details>
@@ -39,6 +41,10 @@ Manga 22 cilt ve 249 bölümden oluşur. Şuanda tam olarak final vermiş ve dol
      .<br>
      .<br>
      .<br>
+     .<br>
+     .<br>
+     .<br>
+     .<br>
      </div>
   </p>
 </details>
@@ -48,8 +54,11 @@ Manga 22 cilt ve 249 bölümden oluşur. Şuanda tam olarak final vermiş ve dol
     <img src="https://mangadex.org/covers/ad06790a-01e3-400c-a449-0ec152d6756a/c25fbb4a-620b-4ea2-a751-c641535c8c63.jpg" width="200" height="300" align="right">
     <div class="review" align="left">
       İnsanlar zayıftır, kırılgandır ve her şeye hemen inanma ve bir yöne yönelme eğilimine sahiplerdir. Eğer karşındaki kişi iyi eğitimli ve bilinçli biri değilse, manipüle etmek epey kolaydır. Bir toplum bağnazlaştıkça, başlarına her türlü felaket gelir. Doğal afet, kötü yönetim, kıtlık, "biyolojik savaş" vs... Eğer toplumdaki insanlar bağnaz değilse ve herhangi bir konuya at gözlüğü takıp dimdik bakmıyorsa, zarar vermesi gerçekten zor olur. Eğer bu toplum bazı tarikatlara körü körüne bağlanıp sözde liderlerinin dediği her şeyi yapabiliyorsa. Dünya'nın sonu bile gelebilir.
-
+<br>
  Bu ciltte anlatılanlar kısaca bunlardı. Ana karakterimiz Kenji, tek bir gecede aydınlandı ve tüm olayın işine tam anlamıyla giriş yaptı. Artık olaylar resmen başladı. Bağnaz bir topluluğu kendine bağlayan Tomodachi isimli şahsa karşı mücadele gerçekten sürükleyici bir hikayeye dönüşecek gibi gözüküyor. Okumak ciddi anlamda zevk veriyor.
+     .<br>
+     .<br>
+     .<br>
 </div>
   </p>
 </details>
