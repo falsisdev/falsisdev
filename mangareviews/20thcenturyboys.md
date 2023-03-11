@@ -63,25 +63,25 @@ Manga 22 cilt ve 249 bölümden oluşur. Şuanda tam olarak final vermiş ve dol
   </p>
 </details>
 <details>
- <summary>Cilt 4 - Aitoheiwa</summary>
+ <summary>Cilt 4 - Aitoheiwa (32 - 43. Bölümler)</summary>
   <p class="review">
     <img src="https://mangadex.org/covers/ad06790a-01e3-400c-a449-0ec152d6756a/56355505-ff6c-4394-8378-9ce9984ff5f7.jpg" width="200" height="300" align="right">
     <div class="review" align="left">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Feugiat in fermentum posuere urna nec tincidunt praesent. Id interdum velit laoreet id. Aliquet eget sit amet tellus cras adipiscing enim. Vitae tempus quam pellentesque nec nam aliquam. Id nibh tortor id aliquet lectus proin nibh nisl. Arcu cursus euismod quis viverra nibh. In pellentesque massa placerat duis ultricies. Odio facilisis mauris sit amet massa vitae. Vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam. Neque gravida in fermentum et sollicitudin. Turpis massa tincidunt dui ut ornare lectus. Tortor dignissim convallis aenean et tortor at risus viverra. Porttitor massa id neque aliquam vestibulum. Id porta nibh venenatis cras sed felis eget velit.
-
-Iaculis eu non diam phasellus vestibulum lorem sed risus. Risus nec feugiat in fermentum. Sem nulla pharetra diam sit. Libero id faucibus nisl tincidunt eget. Leo vel orci porta non pulvinar neque. Maecenas sed enim ut sem viverra. Mauris rhoncus aenean vel elit scelerisque mauris. Molestie at elementum eu facilisis sed odio. Etiam erat velit scelerisque in dictum non. Sem integer vitae justo eget magna fermentum. Nec nam aliquam sem et tortor consequat id porta. Vitae ultricies leo integer malesuada nunc vel risus commodo. Odio eu feugiat pretium nibh ipsum consequat nisl. Gravida arcu ac tortor dignissim convallis aenean. Tortor at risus viverra adipiscing at in tellus integer feugiat. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Nisl tincidunt eget nullam non nisi est sit amet.
-    </div>
+Bir cildin daha sonuna geldik. Hikayemize yeni karakterler dahil olmaya başladı. Bu iyi bir şey tabi, hikaye ne kadar geniş ve ayrıntılı anlatılırsa o kadar iyi. Şimdi ülke gerçekten tamamen ele geçirilmiş gibi görünüyor. Ancak ben bunun fazla erken olduğunu düşünüyorum. Yani bu söyledikleri felaket gerçekten bu kadar erken mi yaşanacak? Sanırım asıl olay felaketin yaşanması değil. Şimdilik ne olduğunu bilmiyorum. Fakat hikayenin ağır ağır güzel güzel işlenmesi ve hiçbir şekilde sıkmaması gerçekten hoş. Kısmen sürükleyici bir hikaye de olunca, bu serinin kalitesini arttırıyor.
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+      </div>
   </p>
 </details>
 <details>
- <summary>Cilt 5 - Sai Kai</summary>
+ <summary>Cilt 5 - Sai Kai (43 - 54. Bölümler)</summary>
   <p class="review">
     <img src="https://mangadex.org/covers/ad06790a-01e3-400c-a449-0ec152d6756a/e8d0d677-15d5-43a2-8f1c-67fdac4ff57e.jpg" width="200" height="300" align="right">
     <div class="review" align="left">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Feugiat in fermentum posuere urna nec tincidunt praesent. Id interdum velit laoreet id. Aliquet eget sit amet tellus cras adipiscing enim. Vitae tempus quam pellentesque nec nam aliquam. Id nibh tortor id aliquet lectus proin nibh nisl. Arcu cursus euismod quis viverra nibh. In pellentesque massa placerat duis ultricies. Odio facilisis mauris sit amet massa vitae. Vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam. Neque gravida in fermentum et sollicitudin. Turpis massa tincidunt dui ut ornare lectus. Tortor dignissim convallis aenean et tortor at risus viverra. Porttitor massa id neque aliquam vestibulum. Id porta nibh venenatis cras sed felis eget velit.
-
-Iaculis eu non diam phasellus vestibulum lorem sed risus. Risus nec feugiat in fermentum. Sem nulla pharetra diam sit. Libero id faucibus nisl tincidunt eget. Leo vel orci porta non pulvinar neque. Maecenas sed enim ut sem viverra. Mauris rhoncus aenean vel elit scelerisque mauris. Molestie at elementum eu facilisis sed odio. Etiam erat velit scelerisque in dictum non. Sem integer vitae justo eget magna fermentum. Nec nam aliquam sem et tortor consequat id porta. Vitae ultricies leo integer malesuada nunc vel risus commodo. Odio eu feugiat pretium nibh ipsum consequat nisl. Gravida arcu ac tortor dignissim convallis aenean. Tortor at risus viverra adipiscing at in tellus integer feugiat. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Nisl tincidunt eget nullam non nisi est sit amet.
-    </div>
+      Ben neler oluyor neler bitiyor gerçekten anlamlandıramıyorum. Önceki ciltte her şey olay örgüsüne göre gidiyordu ve ne olduğunu anlayıp yorumlayabiliyordum. Bu cildin ise tamamı 15 sene sonrasına gitmiş ve karakterler kısmen değişmiş. E tabiki doğal olarak bu da benim yani okuyucunun kafasını karıştırıyor. Ancak bu eleştiriyi kötü anlamda yapmıyorum çünkü bu cilt nereden baksan şimdiye kadar okuduğum 5 cilt arasında en iyisiydi. Cilt ne kadar bilinmezliklerle dolu olsa da geride bırakılan 4 ciltte verilmiş bilgileri kullanarak az çok bir şeyler anlayabiliyorsunuz. Kanna büyümüş, epey ergence davranmaya başlamış. Yukiji yaşlanmış, içinde fırtınalar kopuyor. 2000 yılında bir felaket yaşanmış ve kurbanlar için anıt yapılmış. Bu anıt olayını anlayamadım umarım sonraki ciltte açıklarlar. Tomodachinin faili olduğu felaket acıyla anlatılıyor ve bir anıt yapılıyor ama yine aynı Tomodachi en son bölüm en son sayfada bir "diktatör" veya "mutlak hükümdar" olarak söyleniyor. Yani ben böyle yorumladım. Bu nasıl buralara geldi, Kenji nasıl öldü vs. bilmiyorum ama hikaye tam gaz bomba gibi devam ediyor. Okumaya devam!</div>
   </p>
 </details>
 <details>
