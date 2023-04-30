@@ -11,7 +11,11 @@ Now, I'm 15 and I'm working on Node.js, TypeScript, Vue.js, Nuxt.js and nowadays
 I love designing user interfaces so I hope I can focus on game development or android/ios application/game development at university.
 I wanna go abroad at university due to the life difficulties and stress brought about by the political and economic situation of my country.
 Now, I'm a High-School student and I love to improve myself.
-My main language is Turkish, I can fully understand Azerbaijani and Gagauzian. I know B1-B2 level English, A1 level German and A1 level Japanese. I can also read Arabic, Latin, Hiragana and Katakana Alphabets. 
+My main language is Turkish, I can fully understand Azerbaijani and Gagauzian. I know B1-B2 level English, A1 level German and A1 level Japanese. I can also read Arabic, Latin, Hiragana and Katakana Alphabets.
+I love history, geography, linguistics, politics etc. and I'm so interested in Turkic, European and Islamic history; politic and historical geography; evolutionary and historical linguistics.
+My political ideology is meritocratic democracy and I am an optimistic Turkish nationalist. I believe in Islam and I am a theistic evolutionist.
+I believe that merit is a sacred thing, as corruption is very common where I live.
+I like computer games like Age of Civilizations 2, Hearts of Iron IV, Football Manager 2023, Pro Evolution Soccer 2017 and 2021. I also mostly play chess in my free time. You can see my [Chess.com](https://www.chess.com/member/falsis) and [Lichess](https://lichess.org/@/Falsis) accounts. I'm a fan of Hikaru Nakamura and Magnus Carlsen.
  
 At the same time, I love reading mangas and watching animes. I've an [anime](https://myanimelist.net/animelist/falsis) and a [manga](https://myanimelist.net/mangalist/falsis) list. Moreover, I have [AnimeciX](https://animecix.net/users/65384/), [Anilist](https://anilist.co/user/Falsis/) and [MangaDex](https://mangadex.org/user/b725b8b4-db9d-4c92-b7c6-6cdb0902da40) accounts.
 I have a [personal website](https://falsis.ga) that I am still developing.<br/>
