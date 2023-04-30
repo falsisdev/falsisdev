@@ -11,6 +11,7 @@ Now, I'm 15 and I'm working on Node.js, TypeScript, Vue.js, Nuxt.js and nowadays
 I love designing user interfaces so I hope I can focus on game development or android/ios application/game development at university.
 I wanna go abroad at university due to the life difficulties and stress brought about by the political and economic situation of my country.
 Now, I'm a High-School student and I love to improve myself.
+My main language is Turkish, I can fully understand Azerbaijani and Gagauzian. I know B1-B2 level English, A1 level German and A1 level Japanese. I can also read Arabic, Latin, Hiragana and Katakana Alphabets. 
  
 At the same time, I love reading mangas and watching animes. I've an [anime](https://myanimelist.net/animelist/falsis) and a [manga](https://myanimelist.net/mangalist/falsis) list. Moreover, I have [AnimeciX](https://animecix.net/users/65384/), [Anilist](https://anilist.co/user/Falsis/) and [MangaDex](https://mangadex.org/user/b725b8b4-db9d-4c92-b7c6-6cdb0902da40) accounts.
 I have a [personal website](https://falsis.ga) that I am still developing.<br/>
