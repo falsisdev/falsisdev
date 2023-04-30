@@ -12,7 +12,7 @@ I love designing user interfaces so I hope I can focus on game development or an
 I wanna go abroad at university due to the life difficulties and stress brought about by the political and economic situation of my country.
 Now, I'm a High-School student and I love to improve myself.
  
-At the same time, I love reading mangas and watching animes. I've a [anime list](https://github.com/falsisdev/falsisdev/blob/main/animes.md). Don't forget to visit it. Moreover, I have [AnimeciX](https://animecix.net/users/65384/), [Anilist](https://anilist.co/user/Falsis/) and [MangaDex](https://mangadex.org/user/b725b8b4-db9d-4c92-b7c6-6cdb0902da40) accounts.
+At the same time, I love reading mangas and watching animes. I've an [anime](https://myanimelist.net/animelist/falsis) and a [manga](https://myanimelist.net/mangalist/falsis) list. Moreover, I have [AnimeciX](https://animecix.net/users/65384/), [Anilist](https://anilist.co/user/Falsis/) and [MangaDex](https://mangadex.org/user/b725b8b4-db9d-4c92-b7c6-6cdb0902da40) accounts.
 I have a [personal website](https://falsis.ga) that I am still developing.<br/>
 Now, I'm working on a project named [Mangile](https://github.com/falsisdev/mangile). Please star the repository.
  
