@@ -5,16 +5,17 @@
 <a href="https://falsisdev.ga"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/539843855567028227"></a>
 <div class="about-me" align="left">
 
-I'm from Izmir and I love Front-End Web Development.
-I started with HTML when I'm 11.
-Now, I'm 16 and I'm working on Node.js, TypeScript, Nuxt.js and nowadays, Vue 3.
-I love designing user interfaces so I hope I can focus on game development or android/ios application/game development at university.
-I wanna go abroad at university due to the life difficulties and stress brought about by the political and economic situation of my country.
-Now, I'm a High-School student and I love to improve myself.
-My main language is Turkish, I can fully understand Azerbaijani and Gagauzian. I know B1-B2 level English, A1 level German and A1 level Japanese. I can also read Arabic, Latin, Hiragana and Katakana Alphabets.
-I love history, geography, linguistics, politics etc. and I'm so interested in Turkic, European and Islamic history; politic and historical geography; evolutionary and historical linguistics.
-My political ideology is meritocratic democracy and I am an optimistic Turkic nationalist. I believe in Islam and I am a theistic evolutionist.
-I believe that merit is a sacred thing, as corruption is very common where I live.
+I'm from [Izmir](https://en.wikipedia.org/wiki/%C4%B0zmir) and I'm interested in [Front-End Web Development](https://en.wikipedia.org/wiki/Front-end_web_development).
+I started programming with [HTML](https://en.wikipedia.org/wiki/HTML) when I was 11.
+Now, I'm 16 and I'm working on [Vue 3](https://en.wikipedia.org/wiki/Vue.js).
+I love designing [user interfaces](https://en.wikipedia.org/wiki/User_interface).
+I wanna go abroad at university due to the life difficulties and stress brought about by the political and economic situation of my country. But I think it's not possible.
+Now, I'm a High-School student and I love to improve myself so much.
+My main language is [Turkish](https://en.wikipedia.org/wiki/Turkish_language), I can fully understand [Azerbaijani](https://en.wikipedia.org/wiki/Azerbaijani_language) and [Gagauzian](https://en.wikipedia.org/wiki/Gagauz_language). I know B1-B2 level English. I can also read [Arabic](https://en.wikipedia.org/wiki/Arabic_alphabet), Latin, [Hiragana and Katakana](https://en.wikipedia.org/wiki/Kana) Alphabets.
+I love history, geography, [linguistics](https://en.wikipedia.org/wiki/Linguistics), politics etc. and I'm so interested in [Turkic](https://en.wikipedia.org/wiki/Turkic_history) and Eurasian history; politic and historical geography; evolutionary and historical linguistics.
+My political ideology is [meritocratic](https://en.wikipedia.org/wiki/Meritocracy) democracy. I believe in Islam and I am a [theistic evolutionist](https://en.wikipedia.org/wiki/Theistic_evolution).
+I believe that merit is a sacred thing, as corruption is very common [where I live](https://en.wikipedia.org/wiki/Turkey).
+My taste in music is quite diverse. I mostly listen to genres such as [Rock](https://en.wikipedia.org/wiki/Rock_music), [Alternative Metal](https://en.wikipedia.org/wiki/Alternative_metal), Metal, Turkish Pop or [Arabesque](https://en.wikipedia.org/wiki/Arabesque_(Turkish_music)). Check out my [Spotify](https://open.spotify.com/user/315l5ib3a4fd2obidm76lipspxji?si=934a7536b853418d) account!
 
 Now, I'm working on a project named [Mangile](https://github.com/falsisdev/mangile). Please star the repository.
  
