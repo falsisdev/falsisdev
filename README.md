@@ -1,1 +1,1 @@
-<img src="https://media.discordapp.net/attachments/775822548519616562/1076478661106094230/Falsis_BDD01BB.png?ex=661a78e0&is=660803e0&hm=3c5b055b5b64f2c0746d26065da28c1ea0f03388e962545895d0dae34c029ba8&=&format=webp&quality=lossless&width=832&height=468" alt="Banner" align="center">
+<img src="https://media.discordapp.net/attachments/775822548519616562/989797966359461888/Falsis_BDD01BB.png?ex=66977630&is=669624b0&hm=228773ea1abcb1be3ead191efbdbd84289db04006ea3adbc47aada679782f6f5&=&format=webp&quality=lossless&width=832&height=468" alt="Banner" align="center">
