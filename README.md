@@ -5,4 +5,4 @@ hi 👋🏻, it's falsis, someone like a developer...
 
 tech-stack nowadays
 
-[![Technologies](https://skillicons.dev/icons?i=git,vscode,tailwind,js,ts,vue,nuxt,vite)](https://mangile.vercel.app)
+[![Technologies](https://skillicons.dev/icons?i=git,vscode,tailwind,js,ts,vue,nuxt,vite,svelte)](https://mangile.vercel.app)
