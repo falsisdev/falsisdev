@@ -1,1 +1,1 @@
-![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=falsisdev&layout=compact&theme=github_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=falsisdev&layout=donut-vertical&hide_title=true&langs_count=15&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=falsisdev&layout=donut-vertical&hide_title=true&langs_count=15&theme=catppuccin_mocha)
